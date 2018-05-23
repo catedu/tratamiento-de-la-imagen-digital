@@ -1,0 +1,36 @@
+{
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
+    "language": "es",
+    "variables": {
+        "title": "______________",
+        "author": "______________",
+        "collaborators": [
+            { "name": "_________", "edited": "_____________" }
+        ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        },
+        "quiz": {
+            "labels": {
+                "check": "Comprobar",
+                "showExplanation": "Retroalimentación",
+                "showCorrect": "Mostrar la respuesta correcta",
+                "explanationHeader": "Explicación"
+            },
+            "text": {
+                "noChosen": "Elige al menos una respuesta",
+                "incomplete": "Faltan algunas respuestas correctas"
+            },
+            "buttons": {
+                "showCorrect": true,
+                "showExplanation": true
+            }
+        }
+    }
+}
