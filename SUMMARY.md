@@ -9,7 +9,8 @@ ____
 	* [U1. LA IMAGEN DIGITAL](u1_la_imagen_digital.md)
 	* [U2. FORMATOS Y RESOLUCIÓN](u2_formatos_y_resolucin.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
-* [Créditos](crditos.md)
+
+<!--
 ### Módulo 2: OBTENCIÓN DE RECURSOS DIGITALES | M2 OBTENCIÓN DE RECURSOS DIGITALES 
 * [Módulo 2: OBTENCIÓN DE RECURSOS DIGITALES](index1.md)
 * [Contenidos](contenidos1.md)
@@ -122,4 +123,6 @@ ____
 		* [6.2 Derechos de autor](62_derechos_de_autor.md)
 	* [U7. PLANTEAMIENTOS DIDÁCTICOS](u7_planteamientos_didcticos.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos6.md)
-* [Créditos](crditos6.md)
+-->
+
+* [Créditos](crditos.md)
