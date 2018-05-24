@@ -91,7 +91,7 @@ Imagen 73: autor Julián Trullenque. Licencia CC by-nc 
 
 Imagen 74: Captura de pantalla propia 
 
-## ParaSaberMas
+## Para saber más
 
 **ARTÍCULO WEB: La animación como ayuda en el aprendizaje multimedia.**
 

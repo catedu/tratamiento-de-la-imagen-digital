@@ -120,7 +120,7 @@ Imagen 52: Captura de pantalla propia
 
 Imagen 53: Captura de pantalla propia
 
-## ParaSaberMas
+## Para saber más
 
 *   **Centro de Ayuda de Vimeo**: [https://vimeo.com/help](https://vimeo.com/help)
 

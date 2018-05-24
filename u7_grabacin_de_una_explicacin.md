@@ -59,7 +59,7 @@ Esta aplicación la vamos a utilizar principalmente para crear nuestros propios 
 
 Os presento un servicio 2.0, que puede ser interesante para llevar a clase, se llama "[Screenr](http://www.screenr.com/)". Éste nos permite grabar unos vídeo tutoriales de hasta 5 minutos, el registro es gratuito pero a tráves de una cuenta en Google, Yahoo, FB o Twitter. Este servicio 2.0 se podría utilizar para que los propios alumnos graben un vídeo tutorial sobre la utilización de sus servicios 2.0 para enseñarlo a sus compañeros o para que los maestros veamos si utilizan bien una herramienta, etc.
 
-## ParaSaberMas
+## Para saber más
 
 Hemos presentado varias alternativas tanto on-lino como programas instalables. Hemos intentado que los formatos de salida sean diferentes: ejecutables, flash, vídeo... Pero hay muchas más y como en todo tipo de recursos van apareciendo más. Si quieres conocer más alternativas, te dejamos este artículo.
 

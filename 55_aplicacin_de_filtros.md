@@ -148,7 +148,7 @@ Imagen 69: Captura de pantalla propia.
 
  Imagen 70: Captura de pantalla propia.
 
-## ParaSaberMas
+## Para saber más
 
 *   Como te decimos hay muchos filtros y variaciones de los filtros. Si quieres aprender más y saber cómo funcionan cada uno de ellos, te remitimos al manual de **gimp 2.8:**[http://docs.gimp.org/es/filters.html#filter-introduction](http://docs.gimp.org/es/filters.html#filter-introduction)
 *   **Tutorial Photofiltre para usuarios avanzados**: [http://es.kioskea.net/faq/3304-tutorial-de-photofiltre-para-usuarios-avanzados](http://es.kioskea.net/faq/3304-tutorial-de-photofiltre-para-usuarios-avanzados). De [Kioskea](http://es.kioskea.net/) ([es.kioskea.net](http://es.kioskea.net/)) esta puesto a diposición bajo la licencia [Creative Commons](http://es.kioskea.net/ccmguide/ccmlicence.php3). Puede copiar, modificar bajo las condiciones puestas por la licencia, siempre que esta nota sea visible.

@@ -167,7 +167,7 @@ Imagen 11: Captura de pantalla propia
 
 Mira este tutorial para ver cómo se hace:
 
-## ParaSaberMas
+## Para saber más
 
 **Software Picasa**
 

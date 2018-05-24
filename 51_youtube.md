@@ -76,7 +76,7 @@ Publicar un vídeo en nuestro blog o sitio web es muy sencillo. Cualquier víde
 3.  Enviar por **correo electrónico**.
 4.  **Compartir** en redes sociales.
 
-## ParaSaberMas
+## Para saber más
 
 *   **Ayuda oficial de Google para YouTube**: [https://support.google.com/youtube/?hl=es#](https://support.google.com/youtube/?hl=es#)
 

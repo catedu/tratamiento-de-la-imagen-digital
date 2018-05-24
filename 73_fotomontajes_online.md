@@ -147,7 +147,7 @@ Este sería el final del recorrido del sitio web de Loonapix; y es aquí donde p
 
 Imagen 114: Captura de pantalla propia.
 
-## ParaSaberMas
+## Para saber más
 
 En este apartado te hemos mostrado dos servicios web gratuito para hacer fotomontajes, pero como decimos hay muchos más y no es cuestión de analizarlos todos. Aquí en esta lista tienes enlaces a más páginas web que hacen fotomontajes. En el momento de hacer esto apuntes todas están comprobadas y funcionan. Es posible y seguro que cuando realices el curso haya más páginas y alguna de estas no funcions. Te recomendamos que practiques y pruebe a hacer fotomontajes. Es divertido.
 

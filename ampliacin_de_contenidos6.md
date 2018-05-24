@@ -1,6 +1,6 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 Este vídeo de [Educastur](http://www.google.com/url?q=http%3A%2F%2Fwww.educastur.es%2F&sa=D&sntz=1&usg=AFrqEzccf4gfyd2HGhi-M7rtyzIF4kxosg) nos puede ayudar a entender mejor lo que es la WEB 2.0 y sus posibilidades de uso en educación.
 

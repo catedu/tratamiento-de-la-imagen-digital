@@ -64,7 +64,7 @@ Imagen 72: Captura de pantalla propia
 2.  **Creando un DVD** (no lo explicamos en este curso).
 3.  Publicándolo en Internet. **Vamos a dejar este tema para el módulo siguiente**, donde veremos cómo subir en vídeo a YouTube o Vimeo y luego insertarlo en un blog.
 
-## ParaSaberMas
+## Para saber más
 
 **ADORNAR TUS PROYECTOS**
 

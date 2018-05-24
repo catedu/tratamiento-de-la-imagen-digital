@@ -66,7 +66,7 @@ Ahora vamos a poner los **créditos**:
     *   También puede abrir archivos de **Microsoft PowerPoint** y guardar su trabajo en formato de PowerPoint.
     *   Alternativamente, se puede utilizar el exportador integrado para crear **versiones Flash (.swf)** de sus presentaciones.
 
-## ParaSaberMas
+## Para saber más
 
 Presentación realizada con Impress por Julián Trullenque. Licencia CC by-nc
 

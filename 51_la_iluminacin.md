@@ -58,7 +58,7 @@ Imagen 39: Captura de pantalla propia
 
 **3\. En** [http://pixlr.com/editor/](http://pixlr.com/editor/)
 
-## ParaSaberMas
+## Para saber más
 
 **Si quieres trabajar más en profundidad es tema de la luz en las fotografías te remito a los siguientes documentos:**
 

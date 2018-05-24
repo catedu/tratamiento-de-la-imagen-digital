@@ -2,7 +2,7 @@
 
 Presentación realizada por los alumnos del **CEIP Brianda de Luna de Alfajarín**. Realizada con [Toondoo](http://www.toondoo.com/).
 
-## ParaSaberMas
+## Para saber más
 
 *   El [cómic](http://es.wikipedia.org/wiki/Cómic) es una forma expresiva muy interesante para la escuela tanto por su atractivo para los alumnos como por las [capacidades que contribuye a desarrollar](http://www.uclm.es/profesorado/ricardo/COMIC2.html)
 *   El cómic desarrolla un argumento mediante “la **combinación de lenguaje verbal e imagen**”. Entran en juego conceptos temporales, estéticos y creativos que no están presentes en otras actividades convencionales.

@@ -104,7 +104,7 @@ Imagen 19: Captura de pantalla propia
 
 *   Si Tienes una cuenta el flickr, crea un ábum de fotos y compártelo con los demás miembros del grupo.
 
-## ParaSaberMas
+## Para saber más
 
 Este ha sido un pequeño tutorial de las cosas más importante que nos ofrece este servicio. No hemos profundizado mucho, así es que si tienes más interés, te remitimos al manual oficial de Flickr:
 

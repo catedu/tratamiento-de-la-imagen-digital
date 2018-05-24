@@ -79,7 +79,7 @@ Imagen 14: Captura de pantalla propia
 
 3º Solo hay que elegir el vídeo, el formato de salida, la carpeta en la que lo vamos a alojar y hacer clic en **Convertir**. Se pueden convertir varios vídeos a la vez.
 
-## ParaSaberMas
+## Para saber más
 
 Este programa tiene algunas **posibilidades más** (descargar música, grabar DVD...), pero no hemos querido profundizar ya que alargaría considerablemente el contenidos del curso. Si quieres **aprender otras funcionalidades**, visita lá página oficial del programa:
 

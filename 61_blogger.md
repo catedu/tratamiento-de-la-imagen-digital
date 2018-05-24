@@ -26,7 +26,7 @@ Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
 5º Insertamos una foto, escribimos un texto, ponemos de etiqueta "presentación" y hacemos clic en **Publicar**. Si no acabamos el artículo podemos hacer clic en Guardar y ya publicaremos en otro momento.
 
-## ParaSaberMas
+## Para saber más
 
 Si quieres profundizar más, os dejamos un tutorial muy sencillo elaborado por Raúl Diego Obregón. Licencia CC by-nc-sa. [http://facilytic.catedu.es/wp-content/uploads/2013/10/Blogger_RDObregon.pdf](http://facilytic.catedu.es/wp-content/uploads/2013/10/Blogger_RDObregon.pdf)
 

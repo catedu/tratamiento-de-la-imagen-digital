@@ -135,7 +135,7 @@ Es una aplicación con varias ventajas:
 
 Para finalizar os dejo algún ejemplo, yo lo utilizo con mi alumnado de 5º:
 
-## ParaSaberMas
+## Para saber más
 
 **LAS MEJORES HERRAMIENTAS ON-LINE PARA HACER INFOGRAFÍAS**
 

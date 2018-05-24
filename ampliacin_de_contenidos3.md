@@ -1,6 +1,6 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 *   **20 reglas para realizar fotos para el blog escolar de infantil o primaria:**[http://ecomunica.me/blog/20-reglas-para-realizar-fotos-del-blog-escolar/](http://ecomunica.me/blog/20-reglas-para-realizar-fotos-del-blog-escolar/). Isabel Fernández y Javier Rebollar, de e-comunica. Noviembre 2013. © Copyright - [ecomunica](http://ecomunica.me/)  
     

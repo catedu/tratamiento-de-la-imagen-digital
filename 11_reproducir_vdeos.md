@@ -55,7 +55,7 @@ La solución más normal para resolver este problema es descargar e instalar un 
 *   [XP Codec Packs](http://aularagon.catedu.es/materialesaularagon2013/imagen/XP-Codec-Pack-2.5.8.rar): recopila un más que **interesante conjunto de códecs** que te ayudarán a visualizar y escuchar un gran número de formatos de audio y vídeo. Es fácil de instalar e incluye un reproductor. (**ARCHIVO COMPRIMIDO**). Te recomendamos éste por ser más fácil.
 *   [K-Lite\_Codec\_Pack\_1015\_Full](http://aularagon.catedu.es/materialesaularagon2013/imagen/K-Lite_Codec_Pack_1015_Full.rar): Es mucho más completo que el anterior, pero es más difícil de instalar ya que no da muchas explicaciones de los parámetros avanzados (**ARCHIVO COMPRIMIDO**). Recomendamos para usuarios avanzados.
 
-## ParaSaberMas
+## Para saber más
 
 A través de este curso te recomendamos usar como reproductor de vídeo el que traiga instalado el Sistema Operativo que utilices. Pero también te recomendamos VLC por ser gratuito, bastante completo y multiplataforma. No obstante si quieres conocer más reproductores de vídeo digital puedes leer estos artículos:
 

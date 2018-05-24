@@ -60,7 +60,7 @@ Si deseas más información sobre esta práctica aplicación, puedes leer la gu�
 
 [Publish at Calameo](http://www.calameo.com/) or [read more publications](http://www.calameo.com/browse).
 
-## ParaSaberMas
+## Para saber más
 
 *   **EDUTECA: presentaciones 2.0 más allá de Power Point**. [http://www.eduteka.org/MasAllaPPT.php](http://www.eduteka.org/MasAllaPPT.php). Documento elaborado por [EDUTEKA](http://www.eduteka.org/). _Publicación de este documento en EDUTEKA: Agosto 01 de 2010._
 

@@ -39,7 +39,7 @@ Para ello Slideshare proporciona un embed, un código html que permite ver la pr
 *   Compartir apuntes, resúmenes, esquemas, artículos, etc. elaborados con Word o similar.
 *   Trabajos de alumnos.
 
-## ParaSaberMas
+## Para saber más
 
 **Slideshare** es una buena herramienta pero no la única. La hemos elegido por su facilidad y porque se publican muchos trabajos en esa web. Si quieres conocer otras te recomendamos este artículo:
 

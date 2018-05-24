@@ -10,7 +10,7 @@
 
 **Desde este curso te ofrecemos una ficha modelo para diseñar una secuencia didáctica. Te servirá de modelo para hacer la tarea final. [Formato word](http://catedu.es/materialesaularagon2013/imagen/secuencia.doc)/[Formato LibreOffice](http://catedu.es/materialesaularagon2013/imagen/secuencia.odt).**
 
-## ParaSaberMas
+## Para saber más
 
 **[Guia para diseñar mi secuencia didáctica](https://www.slideshare.net/AnaBasterra/guia-para-disear-mi-secuencia-didctica "Guia para diseñar mi secuencia didáctica")** from **[Ana Basterra](http://www.slideshare.net/AnaBasterra)**
 

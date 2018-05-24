@@ -149,7 +149,7 @@ Imagen 83: autor Julián Trullenque. Licencia by-nc
 
 Imagen 84: autor Julián Trullenque. Licencia CC by-nc  
 
-## ParaSaberMas
+## Para saber más
 
 **En internet va a encontrar bastantes páginas (web 2.0) que te ayudarán a generar títulos creativos. Aquí te presentamos alguno:**
 

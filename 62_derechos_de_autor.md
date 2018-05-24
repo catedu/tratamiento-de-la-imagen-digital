@@ -4,7 +4,7 @@ En contra de lo que suele creerse, el hecho de que un cierto documento: música,
 
 **En la web actual la mayoría de los contenidos son elaborados por usuarios y no por grandes empresas, especialmente en el ámbito educativo**. El espíritu de estos contenidos es **permitir a los demás usarlos sin restricciones**, pero para eso es  necesario un marco legal que permita su uso sin arriesgarnos a tener futuros problemas con los derechos de la obra. Para llenar este vacío legal nacieron las **licencias Creative Commons.**
 
-## ParaSaberMas
+## Para saber más
 
 *   Artículo de **Tíscar Lara** (Publicando de [forma responsable](http://observatorio.cnice.mec.es/modules.php?op=modload&name=News&file=article&sid=525).CNICE) sobre los derechos de autor en educación.
 *   [Dudas y preguntas frecuentes](http://www.esdelibro.es/archivos/documentos/dudasC.pdf) sobre los derechos de autor en educación. Aníbal de la Torre.
@@ -42,7 +42,7 @@ Una vez que eliges tu licencia, tienes que incluir el botón Creative Commons al
 
 El código pondrá un botón de CC que enlaza con el Common Deeds, de forma que todos puedan estar informados de las condiciones de tu licencia. Si la misma es violada, ahora tienes las bases para defender tus derechos.
 
-## ParaSaberMas
+## Para saber más
 
 *   [Sitio de Creative Comoms España](http://es.creativecommons.org/blog/). Licencia CC by.
 

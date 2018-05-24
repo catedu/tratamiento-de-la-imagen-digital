@@ -42,7 +42,7 @@ Además es bastante **fácil de manejar y no se necesitan conocimientos técnico
 
 Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
-## ParaSaberMas
+## Para saber más
 
 **4\. Editores de vídeo On-line**
 

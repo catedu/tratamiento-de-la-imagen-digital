@@ -257,7 +257,7 @@ Antes de de exportar nuestro trabajo, lo **podemos ver todas las veces que quer
 
 Imagen 68: Captura de pantalla propia
 
-## ParaSaberMas
+## Para saber más
 
 **MÁS TRUCOS PARA EDITAR CLIPS DE VÍDEO Y SONIDO**
 

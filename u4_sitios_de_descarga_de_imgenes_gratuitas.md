@@ -56,7 +56,7 @@ Es una iniciativa del **Instituto Nacional de Tecnologías Educativas y de Form
 
 Haciendo clic en la vista en miniatura de cualquier imagen se nos abre una pequeña ventana, donde se especifican los términos exactos de su licencia y podemos **descargarla en diferentes tamaños**. 
 
-## ParaSaberMas
+## Para saber más
 
 *   **e-comunica: **Cómo obtener fotos para tu web: Los 10 mejores bancos de imágenes gratuitas.
 *   [http://ecomunica.me/blog/como-obtener-imagenes-para-tu-web-los-10-mejores-bancos-de-imagenes-gratuitas/](http://ecomunica.me/blog/como-obtener-imagenes-para-tu-web-los-10-mejores-bancos-de-imagenes-gratuitas/). © Copyright - [ecomunica](http://ecomunica.me/) Noviembre 2013.

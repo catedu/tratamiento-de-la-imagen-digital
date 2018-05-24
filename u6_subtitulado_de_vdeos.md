@@ -100,7 +100,7 @@ Imagen 88: captura de pantalla propia.
 *   Rosa claro: actores secundarios.
 *   Verde: onomatopeyas.
 
-## ParaSaberMas
+## Para saber más
 
 Para el subtitulado de películas hay muchos recursos. Solo hemos querido presentar el trabajo con los dos programas que estamos viendo en este curso, pero hay muchos más. Tanto soluciones on-line como herramientas instalables. No obstante, si quieres aprender más, te dejamos estos dos artículos donde verás otras posibilidades.
 

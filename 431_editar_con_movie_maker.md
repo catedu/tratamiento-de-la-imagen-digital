@@ -144,7 +144,7 @@ Antes de de exportar nuestro trabajo, lo **podemos ver todas las veces que quera
 
 Imagen 46: Captura de pantalla propia
 
-## ParaSaberMas
+## Para saber más
 
 **MÁS TRUCOS PARA EDITAR CLIPS DE VÍDEO Y SONIDO**
 

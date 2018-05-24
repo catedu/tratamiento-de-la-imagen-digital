@@ -31,7 +31,7 @@ Es una **alternativa a Adobe Flash gratuita**. Es un programa de **diseño gráf
 
 Presentación realizada por Julián Trullenque. Licencia by-nc
 
-## ParaSaberMas
+## Para saber más
 
 **El propósito de este módulo no es aprender este programa en profundidad, ya que solo veremos una pequeñas pinceladas. Si te interesa conocer más a fondo Vectorian Giotto puedes ir a la página web del programa donde tienes un manual de uso (inglés):**
 

@@ -36,7 +36,7 @@ Antes de empezar os comento que **Google** es un buscador que **evoluciona muy r
 
 Imagen 4: Captura de pantalla propia
 
-## ParaSaberMas
+## Para saber más
 
 **La búsqueda anterior es una búsqueda simple, pero podemos utilizar este formulario para hacer una búsqueda avanzada utilizando una serie de comandos que te serán útiles y que te animo a probar:**
 
@@ -79,7 +79,7 @@ Imagen 4: Captura de pantalla propia
 
 <object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/guardar.swf" width="715" height="500"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/guardar.swf"></object>
 
-## ParaSaberMas
+## Para saber más
 
 *   **TOTEMGUARD: 15 trucos útiles para enseñar a tus alumnos a buscar en Google de forma profesional**. [http://www.totemguard.com/aulatotem/2011/03/15-trucos-utiles-para-ensenar-a-tus-alumnos-a-buscar-en-google-de-forma-profesional/](http://www.totemguard.com/aulatotem/2011/03/15-trucos-utiles-para-ensenar-a-tus-alumnos-a-buscar-en-google-de-forma-profesional/). Copyright 2011 TOTEMGUARD. All Rights Reserved.  
       

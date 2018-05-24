@@ -277,7 +277,7 @@ Imagen 31: Captura de pantalla propia
 
 Animación realizada por Julián Trullenque. Licencia by-nc
 
-## ParaSaberMas
+## Para saber más
 
 **Si quieres profundizar más en la creación de efectos y animación realizados con Vectorian Giotto, puedes leer estos dos manuales en la página oficial del programa:**
 

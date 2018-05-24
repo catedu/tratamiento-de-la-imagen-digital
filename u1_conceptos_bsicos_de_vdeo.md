@@ -65,7 +65,7 @@ Esta unidad pretende ser una **guía de referencia de los términos más comúnm
 *   Opción recomendada para la web por su accesibilidad. Al visualizarse a través del reproductor de Flash es accesible desde la mayoría de los sistemas operativos y navegadores web.
 *   Los repositorios de vídeo más conocidos en Internet utilizan este formato para la difusión de vídeos: YouTube, Google Video, iFilm, etc. 
 
-## ParaSaberMas
+## Para saber más
 
 A continuación te remitimos a una página web donde se desarrollan más los conceptos que acabamos de ver. La página es: [http://www.videoedicion.org](http://www.videoedicion.org) y el autor **Ramón Cutanda López** ([VIDEOEDICIÓN](http://www.videoedicion.org/foro/index.php?action=profile;u=43439)). Última actualización en enero de 2011. **Tipo de licencia (CC BY-SA 3.0 ES)**.
 

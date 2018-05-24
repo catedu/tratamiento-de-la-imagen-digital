@@ -52,7 +52,7 @@ Es más fácil.... con la imagen abierta solo hay que elegir el botón blanco y 
 
 1º Con la imagen abierta hacemos clic en **Ajustes>Búsqueda** de color. Hacemos clic en el primer cuadrado para blanco y negro. Observa la siguiente presentación:
 
-## ParaSaberMas
+## Para saber más
 
 **Jugando** con estos programas de edición, **cambiando y combinando** los ajustes se pueden conseguir **resultados muy atractivos** visualmente. Mira esta presentación y luego inténtalo tú. Una buena tarea para tus clases de plástica.
 
@@ -133,7 +133,7 @@ Se llega a través de **Ajustar>Dos Tonos**. El cuadro de diálogo es más senci
 
 Se llega a través de **Ajustes>Umbral.** El proceso es igual que en Photofiltre (ver punto anterior).
 
-## ParaSaberMas
+## Para saber más
 
 En el apartado del "Color", hemos visto las herramientas más útiles para retocar una foto. Como no se trata de que seamos unos expertos en la materia hemos dejado algunas sin explicar. Cada aplicación tiene más herramientas que no henos visto. Puedes probar y modificar parámetros de distintas herramientas y como todas las aplicaciones tienen la función de "previsualizar", verás cómo van cambiando las imágenes.
 

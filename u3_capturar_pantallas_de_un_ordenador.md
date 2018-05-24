@@ -29,7 +29,7 @@ En ocasiones, podemos requerirte un pantallazo para una incidencia en particular
 *   **Extraer una imagen de un juego, una animación o un vídeo.**
 *   **...**
 
-## ParaSaberMas
+## Para saber más
 
 **Windows 7 y 8 incluyen una utilidad denominada "SnippingTool". Es una herramienta para capturar pantalla que permite realizar pantallazos  (denominados ""snips"") parciales de una pantalla.**
 
