@@ -10,7 +10,7 @@
     },
     "pluginsConfig": {
         "image-captions": {
-            "caption": "Imagen - _CAPTION_"
+            "caption": "_CAPTION_"
         },
         "localized-footer": {
             "hline": true,
