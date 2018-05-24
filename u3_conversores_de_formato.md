@@ -52,7 +52,7 @@ Ejecutar programa Format Factory
 2º En la pestaña lateral **"vídeo"** elige el **formato que quieras de salida**. Por ejemplo: "Todo a MP4".
 
 
-![](img/format3.jpg "Elegir formato de vídeo")
+![](img/format3.jpg)
 
 
 Imagen 16: Captura de pantalla propia
@@ -60,7 +60,7 @@ Imagen 16: Captura de pantalla propia
 3º Aparecerá un **cuadro de diálogo** como éste. Podremos elegir la calidad de salida (dejarlo como está). Seleccionamos los vídeos que queremos convertir. Hacemos clic en **"Aceptar"**.
 
 
-![](img/format4.jpg "Convertir vídeo a Formato MP4")
+![](img/format4.jpg)
 
 
 Imagen 17: Captura de pantalla propia
@@ -82,7 +82,7 @@ En este apartado se propone un procedimiento para convertir el vídeo de un DVD 
 3º Selecciona la pestaña **"DVD a archivo de vídeo"** del menú RO-DVD-CD...
 
 
-![](img/format_dvd.jpg "Extraer un vídeo de un DVD")
+![](img/format_dvd.jpg)
 
 
 Imagen 18: Captura de pantalla propia
@@ -90,7 +90,7 @@ Imagen 18: Captura de pantalla propia
 4º En el cuadro de diálogo que aparece, elegir los archivos a extraer, el formato y la carpeta de salida. Hacer clic en **Convertir**.
 
 
-![](img/format_dvd2.jpg "Extraer vídeo de un DVD")
+![](img/format_dvd2.jpg)
 
 
 Imagen 19: Captura de pantalla propia

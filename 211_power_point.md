@@ -11,7 +11,7 @@ Podemos crear un álbum de fotos con PowerPoint de forma rápida y sencilla. El 
 3º Seguir la ruta **Insertar>Imagen>Nuevo>Nuevo álbum de fotografías...**
 
 
- ![](img/power.jpg "Crear un álbum de fotos con Power Point")
+ ![](img/power.jpg)
 
 
  Imagen 21: Captura de pantalla propia
@@ -32,7 +32,7 @@ Ahora vamos a crear una **transición entre diapositiva y diapositiva**.
 
 
 
-![](img/power2.jpg "Crear transiciones con Power Point")
+![](img/power2.jpg)
 
 
 Imagen 22: Captura de pantalla propia 
@@ -48,7 +48,7 @@ Vamos a añadir una **música al proyecto**:
 1º En la pestaña Insertar, elegimos **Insertar>Sonido de archivo**.
 
 
-![](img/power4.jpg "Insertar sonido en un Power Point")
+![](img/power4.jpg)
 
 
 Imagen 23: Captura de pantalla propia 

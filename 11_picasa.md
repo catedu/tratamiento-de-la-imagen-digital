@@ -14,7 +14,7 @@ Picasa es una herramienta web para visualizar, organizar y editar fotografías d
 1\. **Buscamos en Google.es** la palabra "picasa" y entre otras, nos aparecen estas dos opciones:
 
 
-![](img/picasa.jpg "Buscar "picasa" en Google")
+![](img/picasa.jpg)
 
 
 Imagen 1: Captura de pantalla propia
@@ -29,7 +29,7 @@ En nuestro caso vamos a elegir la **segunda opción**.
 A hacer ingresar la URL [http://picasaweb.google.com](picasaweb.google.com) nos pedirá directamente que entremos con nuestro nombre de usuario y contraseña.
 
 
-![](img/picasa2.jpg "Ingresar en Picasa Web")
+![](img/picasa2.jpg)
 
 
 Imagen 2: Captura de pantalla propia
@@ -37,7 +37,7 @@ Imagen 2: Captura de pantalla propia
 **3\. Entorno de trabajo**
 
 
-![](img/picasa3.jpg "Picasa álbum")
+![](img/picasa3.jpg)
 
 
 Imagen 3: Captura de pantalla propia
@@ -47,7 +47,7 @@ Imagen 3: Captura de pantalla propia
 1º Una vez que has entrado en la web de Picasa, verás los álbumes que tienes creados. Para subir fotos o crear otro álbum haz **clic en Subir**.
 
 
-![](img/picasa4.jpg "Subir fotos a Picasa")
+![](img/picasa4.jpg)
 
 
 Imagen 4: Captura de pantalla propia
@@ -58,7 +58,7 @@ Imagen 4: Captura de pantalla propia
     2.  Arrastrar desde la carpeta al centro de la imagen.
 
 
-![](img/picasa5.jpg "Subir fotos a Picasa")
+![](img/picasa5.jpg)
 
 
 Imagen 5: Captura de pantalla propia
@@ -72,7 +72,7 @@ Para configurar la privacidad de nuestro álbum, que no de nuestra cuenta (cada 
 1º Hacemos **clic en "Editar"**, un botón que está en la parte lateral derecha.
 
 
-![](img/picasa6.jpg "Picasa álbum")
+![](img/picasa6.jpg)
 
 
 Imagen 6: Captura de pantalla propia
@@ -80,7 +80,7 @@ Imagen 6: Captura de pantalla propia
 2º Hecho ésto nos aparecerá un **formulario** en el que podremos poner el título del álbum, una descripción en incluso situarlo en un mapa. Hay una pestaña que nos dejará configurar la **privacidad del álbum**.
 
 
-![](img/picasa7.jpg "Privacidad en álbumes Picasa")
+![](img/picasa7.jpg)
 
 
 Imagen 7: Captura de pantalla propia
@@ -98,7 +98,7 @@ Imagen 7: Captura de pantalla propia
 1º Con el álbum abierto, hacer clic en **Share**.
 
 
-![](img/picasa8.jpg "Compartir álbum")
+![](img/picasa8.jpg)
 
 
 Imagen 8: Captura de pantalla propia
@@ -106,7 +106,7 @@ Imagen 8: Captura de pantalla propia
 2º Aparecerá un **cuadro de diálogo siguiente**:
 
 
-![](img/picasa9.jpg "Compartir álbum Picasa")
+![](img/picasa9.jpg)
 
 
 Imagen 9: Captura de pantalla propia
@@ -114,7 +114,7 @@ Imagen 9: Captura de pantalla propia
 3º Hacemos clic en **Aceptar**. Y ya hemos compartido nuestro álbum.
 
 
-![](img/picasa11.jpg "Compartir un álbum")
+![](img/picasa11.jpg)
 
 
 Imagen 10: Captura de pantalla propia
@@ -139,7 +139,7 @@ Veamos cómo se hace:
 1º Con le álbum abierto (recuerda que tiene que ser público). Hacemos **clic en Enlazar este álbum** y no aparecerá este diálogo.
 
 
-![](img/picasa12.jpg "Insertar un álbum de Picasa")
+![](img/picasa12.jpg)
 
 
 Imagen 11: Captura de pantalla propia
@@ -160,7 +160,7 @@ Imagen 11: Captura de pantalla propia
 6.  Pega el código HTML en el código fuente de tu blog (Ctrl+V).
 
 
-![](img/picasa13.jpg "Crear un pase de diapositivas con Picasa")
+![](img/picasa13.jpg)
 
 
 Imagen 11: Captura de pantalla propia

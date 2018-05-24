@@ -13,7 +13,7 @@ Vamos a ver cómo se hace.....
 1º **Abre** la imagen [carmelo.rar](carmelo.rar). En esta imagen, queremos quitar el excursionista que está en primer plano... ¿imposible?...
 
 
-![](img/carmelo.jpg "Clonar... elimiar elementos no deseados")
+![](img/carmelo.jpg)
 
 
 Imagen 57: autor Julian Trullenque. Licencia CC by-nc
@@ -21,7 +21,7 @@ Imagen 57: autor Julian Trullenque. Licencia CC by-nc
 2º Elegimos la herramienta clonar: 
 
 
-![](img/clonar.jpg "Herramienta clonar")
+![](img/clonar.jpg)
 
 
 Imagen 58: Captura de pantalla propia.
@@ -35,7 +35,7 @@ Imagen 58: Captura de pantalla propia.
 2º Elige la herramienta **Clon**. El proceso es el mismo que con GIMP (mira el tutorial). Hacemos **clic+tecla Ctrl **en una parte cercana a lo que queremos eliminar y, vamos pintando... Con poca práctica se hace bien.
 
 
-![](img/clon.jpg "Herramienta clonar Photofiltre")
+![](img/clon.jpg)
 
 
 Imagen 59: Captura de pantalla propia.
@@ -45,7 +45,7 @@ Imagen 59: Captura de pantalla propia.
  1º **Abre** la imagen [carmelo.rar](carmelo.rar). En esta imagen, queremos quitar el excursionista que está en primer plano... ¿imposible?...
 
 
-![](img/clon2.jpg "Clonar con Pixlr")
+![](img/clon2.jpg)
 
 
 Imagen 59: Captura de pantalla propia.
@@ -60,7 +60,7 @@ Los dispositivos anti ojos rojos de las cámaras fotográfricas no siempre funci
 Vamos a practicar con esta imagen: [ojos.rar](ojos.rar)
 
 
-![](img/ojos.jpg "Ojos rojos")
+![](img/ojos.jpg)
 
 
 Imagen 60: autor Julián Trullenque. Licencia CC by-nc
@@ -74,7 +74,7 @@ Imagen 60: autor Julián Trullenque. Licencia CC by-nc
 3º Aparece este cuadro de diálogo. Normalmente con los parámetros que aparecen por defecto, el resultado ya es bueno, pero podemos ajustar con el manejador del umbral hasta que nos guste el resultado.
 
 
-![](img/ojos2.jpg "Filtro quitar ojos rojos")
+![](img/ojos2.jpg)
 
 
 Imagen 61: Captura de pantalla propia.

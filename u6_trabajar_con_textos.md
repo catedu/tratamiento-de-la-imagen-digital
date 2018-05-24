@@ -24,7 +24,7 @@ Vamos a ver cómo **crear un texto artístico con Gimp y Photofiltre.**
 1º Desde la ventana principal de GIMP selecciona **Archivo > Nuevo**.
 
 
- ![](img/texto1.jpg "Crear Texto con GIMP")
+ ![](img/texto1.jpg)
 
 
 Imagen 71: Captura de pantalla propia
@@ -32,7 +32,7 @@ Imagen 71: Captura de pantalla propia
 2º En el cuadro de diálogo **Crear una imagen nueva** introduce las dimensiones, por ejemplo, **640** y **80** en las casillas **Anchura** y **Altura **respectivamente.
 
 
- ![](img/texto2.jpg "Crear Texto con GIMP")
+ ![](img/texto2.jpg)
 
 
 Imagen 72: Captura de pantalla propia
@@ -40,7 +40,7 @@ Imagen 72: Captura de pantalla propia
 3º Haz clic sobre la herramienta **Texto** en el cuadro de herramientas. 
 
 
- ![](img/texto3.jpg "Crear Texto con GIMP")
+ ![](img/texto3.jpg)
 
 
 Imagen 73: Captura de pantalla propia
@@ -54,7 +54,7 @@ Imagen 73: Captura de pantalla propia
 5º Aparecerá un pequeño **editor de texto**. Escribe "AULARAGÓN" por ejemplo. Para terminar pulsa el botón **Cerrar**.
 
 
-![](img/texto4.jpg "Editor de texto")
+![](img/texto4.jpg)
 
 
 Imagen 74: Captura de pantalla propia
@@ -62,7 +62,7 @@ Imagen 74: Captura de pantalla propia
 6º En el cuadro de herramientas de GIMP elige la herramienta **Mover capas y selecciones**.
 
 
-![](img/texto5.jpg "Mover capas y selecciones")
+![](img/texto5.jpg)
 
 
 Imagen 75: Captura de pantalla propia
@@ -70,7 +70,7 @@ Imagen 75: Captura de pantalla propia
 7º Con esa herramienta coloca el título en el centro del documento.
 
 
-![](img/texto6.jpg "Centrar testo en documento")
+![](img/texto6.jpg)
 
 
 Imagen 76: Captura de pantalla propia
@@ -82,7 +82,7 @@ Imagen 76: Captura de pantalla propia
 10º Al cabo de unos instantes se ha creado un atractivo rótulo.
 
 
-![](img/logo1.jpg "Logotipo1")
+![](img/logo1.jpg)
 
 
 Imagen 77: autor Julián Trullenque. Licencia CC by-nc
@@ -92,7 +92,7 @@ Imagen 77: autor Julián Trullenque. Licencia CC by-nc
 12º Repite los pasos 8º-11º para probar otros efectos especiales sobre el texto. A continuación se proponen algunos.
 
 
-![](img/texto7.jpg "Diferentes logotipos creados con GIMP")
+![](img/texto7.jpg)
 
 
 Imagen 78: autor Julián Trullenque. Licencia CC by-nc
@@ -102,7 +102,7 @@ Imagen 78: autor Julián Trullenque. Licencia CC by-nc
 1º Desde la ventana principal de Photofiltre selecciona **Archivo > Nuevo**.
 
 
- ![](img/textof1.jpg "Crear Texto con Photofiltre")
+ ![](img/textof1.jpg)
 
 
 Imagen 79: Captura de pantalla propia
@@ -110,7 +110,7 @@ Imagen 79: Captura de pantalla propia
 2º En el cuadro de diálogo **Nuevo** introduce las dimensiones, por ejemplo, **640** y **80** en las casillas **Anchura** y **Altura **respectivamente.
 
 
- ![](img/textof2.jpg "Crear Texto con Photofiltre")
+ ![](img/textof2.jpg)
 
 
 Imagen 80: Captura de pantalla propia
@@ -118,7 +118,7 @@ Imagen 80: Captura de pantalla propia
 3º Haz clic sobre la herramienta **Texto** en el cuadro de herramientas. 
 
 
- ![](img/textof3.jpg "Herramienta texto en Photofiltre")
+ ![](img/textof3.jpg)
 
 
 Imagen 81: Captura de pantalla propia
@@ -126,7 +126,7 @@ Imagen 81: Captura de pantalla propia
 4º En el cuadro de diálogo **Texto** elige como tipo de fuente **Arial Black** y como tamaño **40 puntos**. Clic sobre la casilla **Color** de las opciones de herramienta. Elegir el color deseado. Hacer clic en **Aceptar**.
 
 
- ![](img/textof4.jpg "Cuadro de diálogo Texto")
+ ![](img/textof4.jpg)
 
 
 Imagen 82: Captura de pantalla propia
@@ -134,7 +134,7 @@ Imagen 82: Captura de pantalla propia
 5º El **texto resultante** será cómo el que aparece en la siguiente imagen.
 
 
-![](img/textof5.jpg "Texto creado con Photofiltre")
+![](img/textof5.jpg)
 
 
 Imagen 83: autor Julián Trullenque. Licencia by-nc
@@ -144,7 +144,7 @@ Imagen 83: autor Julián Trullenque. Licencia by-nc
 7º Otro ejemplo de títulos que se pueden hacer.
 
 
-![](img/textof6.jpg "Diferentes logotipos creados con Photofiltre")
+![](img/textof6.jpg)
 
 
 Imagen 84: autor Julián Trullenque. Licencia CC by-nc  
@@ -162,7 +162,7 @@ Imagen 84: autor Julián Trullenque. Licencia CC by-nc
 [**Myspace Text Generator**](http://www.glitter-graphics.com/myspace/text_generator.php): Otra opción más de generar texto animado y con una funcionalidad para blogs, webs, etc. Además permite descargar el código para ser insertado en un blog o una web y si se desea como imagen hay que proceder a realizar una captura de pantalla.
 
 
-![](img/textow.jpg "Generar texto")
+![](img/textow.jpg)
 
 
 Imagen  85: Captura de pantalla propia 

@@ -52,7 +52,7 @@ Presentación realizada por Julián Trullenque. [Ver a pantalla competa](https:/
 *   [LEGO.com city](http://city.lego.com/es-es/comic-builder/my-comics/fire-comic) nos permite crear de forma gratuita cómics con piezas de LEGO, para ello solo tendremos que pinchar donde está marcado con la flecha:
 
 
-![](img/lego.jpg "Crea cómics con LEGO")
+![](img/lego.jpg)
 
 
  Imagen 39: Captura de pantalla propia
@@ -60,7 +60,7 @@ Presentación realizada por Julián Trullenque. [Ver a pantalla competa](https:/
 *   Y se nos abrirá la **pantalla de edición para crear nuestro cómic**. Como se puede ver, la interfaz es bastante intuitiva y fácil de utilizar.
 
 
-![](img/lego2.jpg "Crear cómics con LEGO")
+![](img/lego2.jpg)
 
 
  Imagen 40: Captura de pantalla propia

@@ -17,7 +17,7 @@ Ya tenemos nuestro proyecto maquetado y preparado, llega el momento de **crear n
 3º Hacemos clic en **Guardar Película**.
 
 
-![](img/crear_vido.jpg "Crear película")
+![](img/crear_vido.jpg)
 
 
  Imagen 69: Captura de pantalla propia
@@ -25,7 +25,7 @@ Ya tenemos nuestro proyecto maquetado y preparado, llega el momento de **crear n
 4º Aparece un **cuadro de diálogo** en el que se nos presentan **varias opciones para crear la película**. Nosotros elegiremos la opción **Equipo/Datos**.
 
 
-![](img/crear_vido2.jpg "Crear película de vídeo")
+![](img/crear_vido2.jpg)
 
 
 Imagen 70: Captura de pantalla propia 
@@ -33,7 +33,7 @@ Imagen 70: Captura de pantalla propia 
 5º Elegiremos las **opciones de salida** y la carpeta en la que vamos a guardar la película. Para opciones de salida, lo mejor es guardarla en el mismo formato que está el original. Para eso hacemos **clic en Detectar**.
 
 
-![](img/crear_vido3.jpg "Crear archivo de vídeo")
+![](img/crear_vido3.jpg)
 
 
  Imagen 71: Captura de pantalla propia
@@ -49,7 +49,7 @@ Imagen 70: Captura de pantalla propia 
 3º Hacemos clic en la pestaña **Guardar Película**.
 
 
-![](img/crear_vido4.jpg "Crear película con Movie Maker")
+![](img/crear_vido4.jpg)
 
 
 Imagen 72: Captura de pantalla propia

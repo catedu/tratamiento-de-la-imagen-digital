@@ -15,7 +15,7 @@ Flash se ha convertido en un **clásico para el diseño de páginas web y de pre
 Los archivos SWF pueden ser creados por el programa Adobe Flash® aunque hay otras aplicaciones que también lo permiten. Suelen ser ejecutados sobre el navegador mediante un plugin llamado "Adobe Flash Player", aunque también pueden ser encapsulados para ejecutarse de forma autónoma. Básicamente es un formato vectorial aunque también admite bitmaps (imágenes), con posibilidades de animación. También admite programación mediante el lenguajeactionscript.
 
 
-![](img/Adobe-swf_icon.png "Icono de archivo con extensión swf")
+![](img/Adobe-swf_icon.png)
 
 
 Imagen 1: autor Adobe Systems@. Licencia by-nc

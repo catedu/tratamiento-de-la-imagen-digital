@@ -1,7 +1,7 @@
 # Módulo 4: MANIPULACIÓN DE IMÁGENES
 
 
-![](img/alonso.png "Taller de Plástica de Néstor Alonso.")
+![](img/alonso.png)
 
 
 Taller de plástica de [Nestor Alonso](http://www.flickr.com/photos/nestoralonso/).

@@ -13,7 +13,7 @@ Hemos visto una manera de descarga nuestros vídeos desde un utilidad instalable
 *   [Zamzar](http://www.zamzar.com/url/) es otra página que además de poder descargar vídeos d ela rd nos permite convertir archivos de otros formatos (pdf, doc,...) Es muy fácil e intuitivo y no es necesario registrarse. Le peor de que no hace ua descarga directa sino que te envía un enlace al correo electronico, con lo que hay que realizar un paso más. Pero es una buena alternativa.
 
 
-![](img/zamzar.jpg "Zamzar... convertidor de archivos")
+![](img/zamzar.jpg)
 
 
  Imagen 15: Captura de pantalla propia

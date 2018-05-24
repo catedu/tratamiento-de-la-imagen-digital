@@ -26,7 +26,7 @@ Esta **disponible en varios lenguajes** (Ingles, Español, Portugués, Italiano)
 Incono del programa
 
 
-![](img/atube1.jpg "Descargar vídeos con aTube Catcher")
+![](img/atube1.jpg)
 
 
 Imagen 9: Captura de pantalla propia
@@ -50,7 +50,7 @@ Imagen 11: Captura de pantalla propia
 5º Podemos **elegir la carpet**a en la que lo vamos a guardar.
 
 
-![](img/atube4.jpg "Seleccionar la carpeta")
+![](img/atube4.jpg)
 
 
 Imagen 12: Captura de pantalla propia
@@ -64,7 +64,7 @@ Otra de las opciones con las que cuenta aTubeCatcher es la de **convertir vídeo
 1º Abre el programa. Te aparecerá este menú. Selecciona **"Video Converter"**.
 
 
-![](img/atube5.jpg "Convertir vídeos con aTube Catcher")
+![](img/atube5.jpg)
 
 
 Imagen 13: Captura de pantalla propia
@@ -72,7 +72,7 @@ Imagen 13: Captura de pantalla propia
 2º Iniciado el programa, aparece esta pantalla.
 
 
-![](img/atube6.jpg "Convertir vídeos con aTube Catcher")
+![](img/atube6.jpg)
 
 
 Imagen 14: Captura de pantalla propia

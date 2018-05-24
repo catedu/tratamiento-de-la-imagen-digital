@@ -11,7 +11,7 @@
 1º Para **acceder al blog**, haz clic en [http://aularagondigital.blogspot.com.es/](http://aularagondigital.blogspot.com.es/)
 
 
-![](img/blogger.jpg "Acceder al blog")
+![](img/blogger.jpg)
 
 
  Imagen 5: autor Julián Trullenque. Tipo de licencia CC by-nc
@@ -37,7 +37,7 @@ Y a través de [José Ramón Olalla](http://www.catedu.es/arablogs/blog.php?id_b
 1º Hacemos **clic en el icono Imágenes**. 
 
 
-![](img/blogger5.jpg "Insertar imágenes en Blogger")
+![](img/blogger5.jpg)
 
 
 Imagen 54: Captura de pantalla propia
@@ -45,7 +45,7 @@ Imagen 54: Captura de pantalla propia
 2º Nos aparece esta **ventana para la gestión de imágenes**. Seleccionamos Elegir archivos... 
 
 
-![](img/blogger2.jpg "Seleccionar imagen")
+![](img/blogger2.jpg)
 
 
 Imagen 55: Captura de pantalla propia
@@ -53,7 +53,7 @@ Imagen 55: Captura de pantalla propia
 3º Una vez cargada la fotografía podemos elegir las **dimensiones y la alineación.**
 
 
-![](img/blogger3.jpg "Elegir un diseño")
+![](img/blogger3.jpg)
 
 
 Imagen 56: Captura de pantalla propia
@@ -63,7 +63,7 @@ Imagen 56: Captura de pantalla propia
 1º Hacemos **clic en el icono Víedo**. 
 
 
-![](img/blogger4.jpg "Insertar vídeo en Blogger")
+![](img/blogger4.jpg)
 
 
 Imagen 57: Captura de pantalla propia
@@ -77,7 +77,7 @@ Imagen 57: Captura de pantalla propia
 *   Desde una webcam.
 
 
-![](img/blogger6.jpg "Seleccionar un archivo de vídeo")
+![](img/blogger6.jpg)
 
 
 Imagen 57: Captura de pantalla propia
@@ -93,7 +93,7 @@ Ya hemos visto en este módulo que además de imágenes y vídeo se pueden inser
 1º Una vez que tenemos seleccionada la presentación que queremos insertar, hacemos **clic en embed**. En la parte superior derecha.
 
 
-![](img/blogger7.jpg "Insertar un código embebido en un blog")
+![](img/blogger7.jpg)
 
 
  Imagen 58: Captura de pantalla propia
@@ -101,7 +101,7 @@ Ya hemos visto en este módulo que además de imágenes y vídeo se pueden inser
  2º Se nos abrirá una ventana con varias opciones. Veamos:
 
 
-![](img/blogger8.jpg "Copiar código")
+![](img/blogger8.jpg)
 
 
 Imagen 59: Captura de pantalla propia
@@ -109,7 +109,7 @@ Imagen 59: Captura de pantalla propia
 3º Haciendo clic en **Customize**... podemos elegir más opciones: cambiar tamaño, insertar en Wordpress...
 
 
-![](img/blogger9.jpg "Modificar y copiar un código embebido")
+![](img/blogger9.jpg)
 
 
 Imagen 60: Captura de pantalla propia
@@ -123,7 +123,7 @@ En el editor de Blogger tenemos dos barras. Una es un editor de texto enriquecid
 1º Hacer clic en HTML.
 
 
-![](img/blogger10.jpg "Editores de texto")
+![](img/blogger10.jpg)
 
 
 Imagen 61: Captura de pantalla propia

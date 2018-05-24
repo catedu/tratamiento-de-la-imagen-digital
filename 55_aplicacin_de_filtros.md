@@ -17,7 +17,7 @@ La mayoría de los filtros tienen una **vista previa** donde se reflejan los cam
 Un ejemplo de los filtros que podemos encontar....
 
 
-![](img/filtros.jpg "Filtros creativos")
+![](img/filtros.jpg)
 
 
 Imagen 61: autor Julián Trullenque. Licencia by-nc
@@ -40,7 +40,7 @@ En este apartado vamos a ver cómo aplicar filtros a una imagen. No vamos a ver 
 4º Aplicaremos un **filtro**. En este caso vamos a convertir nuestra foto en un **mosaico**. Clic en **Filtros>Distorsiones>Mosaicos**.
 
 
-![](img/filtro1.jpg "Aplicar filtro mosáico")
+![](img/filtro1.jpg)
 
 
 Imagen 62: Captura de pantalla propia.
@@ -48,7 +48,7 @@ Imagen 62: Captura de pantalla propia.
 5º Aparece esta ventada desde donde podemos **variar los valores**.
 
 
-![](img/filtro2.jpg "Filtro de mosáico")
+![](img/filtro2.jpg)
 
 
 Imagen 63: Captura de pantalla propia.
@@ -73,7 +73,7 @@ Como decimos hay muchos más filtros y te recomendamos que los vayas probando y 
 4º Aplicaremos un **filtro**. En este caso vamos a convertir nuestra foto en un **mosaico**. Clic en **Filtros>Estilizar>Mosaico**.
 
 
-![](img/filtro3.jpg "Aplicar filtro Mosaico")
+![](img/filtro3.jpg)
 
 
 Imagen 64: Captura de pantalla propia.
@@ -81,7 +81,7 @@ Imagen 64: Captura de pantalla propia.
 5º Aparece esta ventada desde donde podemos **variar los valores**.
 
 
-![](img/filtro4.jpg "Aplicar filtros")
+![](img/filtro4.jpg)
 
 
 Imagen 65: Captura de pantalla propia.
@@ -99,7 +99,7 @@ En la siguiente animación verás como mediante un filtro se crea un efecto elip
 4º Aplicaremos un **filtro**. En este caso vamos a convertir nuestra foto en un **mosaico**. Clic en **Filtros>Coordinadas polares**.
 
 
-![](img/filtro5.jpg "4º Aplicaremos")
+![](img/filtro5.jpg)
 
 
 Imagen 66: Captura de pantalla propia.
@@ -107,7 +107,7 @@ Imagen 66: Captura de pantalla propia.
 5º Aparecerá una ventana que nos permite modificar opciones de filtro. En este caso vamos viendo cómo se producirán los cambios en la imagen real.
 
 
-![](img/filtro6.jpg "Aplicar filtros a fotografía")
+![](img/filtro6.jpg)
 
 
 Imagen 67: Captura de pantalla propia.
@@ -127,7 +127,7 @@ Si buscamos una solución rápida para integrar efectos y filtros a nuestras 
 *   [Photoshop Express](http://www.photoshop.com/tools?wf=editor) es una **versión online** del más famoso editor de imágenes del mundo. Pese a ser más limitado en funciones que la aplicación original, sigue prestando **un gran servicio** en cuanto a retoques.
 
 
-![](img/filtro7.jpg "Adobe Photoshop express editor")
+![](img/filtro7.jpg)
 
 
 Imagen 68: Captura de pantalla propia.
@@ -135,7 +135,7 @@ Imagen 68: Captura de pantalla propia.
 *   [Picfull](http://www.picfull.com/) es un servicio online muy simple para aplicar filtros a tus fotos. Puedes aplicar un buen número de filtros con un clic, y cambiar los ajustes para que la foto quede a tu gusto. Cuando acabes, sólo tienes que pulsar el botón “Save” y la foto se guardará de nuevo a tu ordenador. Así, en pocos pasos puedes aplicar **filtros bastante interesantes** y sin tener que instalar nada ni registrarte.
 
 
-![](img/filtro8.jpg "PicFull, editor de imágenes")
+![](img/filtro8.jpg)
 
 
 Imagen 69: Captura de pantalla propia.
@@ -143,7 +143,7 @@ Imagen 69: Captura de pantalla propia.
 *   [PiZap](http://www.pizap.com/): Normalmente cuando abres una imagen con un editor suele ser para mejorarla. ¿Pero y si lo que buscas es precisamente lo contrario, es decir, volverla rematadamente absurda? Entonces entra en PiZap y no te arrepentirás. La gracia de PiZap no está en la precisión o utilidad de sus herramientas, sino en todas las pegatinas y adornos graciosos que es capaz de añadirle a tus imágenes. Desde emoticonos a marcos, desde ojos y bocas de pega a complementos de todo tipo.
 
 
-![](img/filtro9.jpg "PiZap el editor más loco de la red")
+![](img/filtro9.jpg)
 
 
  Imagen 70: Captura de pantalla propia.

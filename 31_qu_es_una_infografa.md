@@ -5,7 +5,7 @@
 **Una infografía es una mezcla de imagen y texto para comunicar información de una manera fácil y practica**. Ofrece **componentes visuales** que ayudan a la compresión de las cifras que se exponen en ella. El objetivo de realizar una Infografía es **maximizar la compresión** de un tema exponiendo cifras y conceptos. Las imágenes o gráficos deben ser precisos y de alto impacto para captar la atención de los usuarios.
 
 
-![](img/bomberos.jpg "Infografía los Bomberos")
+![](img/bomberos.jpg)
 
 
  Imagen 29: Autores Julián Trullenque y Julia Trullenque (5 años), para un proyecto de Educación Infantil. Licencia CC by-nc 

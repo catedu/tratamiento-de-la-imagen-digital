@@ -7,7 +7,7 @@ Vamos a mostrar cómo descargar un objeto swf de una página web desde tu navega
 1º Una vez hemos encontrado el archivo en el navegador, nos aparecerá esta pantalla. Hay que darse cuenta que en la barra de **dirección la cadena finaliza con swf**, si no nos  es posible hacerlo por este método. **Válido para navegadores Google Chrome y Mozilla Firefox**.
 
 
-![](img/descarga1.jpg "Descarga un objeto swf de la web")
+![](img/descarga1.jpg)
 
 
 Imagen 8: Captura de pantalla propia
@@ -15,7 +15,7 @@ Imagen 8: Captura de pantalla propia
 2º Lo mismo en Gooogle Chrome:
 
 
-![](img/descarga2.jpg "Descargar objetos swf en Chrome")
+![](img/descarga2.jpg)
 
 
 Imagen 9: Captura de pantalla propia
@@ -35,7 +35,7 @@ A veces nos vamos a encontrar **archivos que están incrustados en una web o blo
 2º Hacer clic con el **botón derecho del ratón en cualquier parte de la página**. ¡Atención! no en el objeto swf. Se desplegará un menú.
 
 
-![](img/descarga3.jpg "Descargar objetos swf con Firefox")
+![](img/descarga3.jpg)
 
 
  Imagen 10: Captura de pantalla propia
@@ -43,7 +43,7 @@ A veces nos vamos a encontrar **archivos que están incrustados en una web o blo
 3º Hacer clic en **Ver información de la página**.
 
 
-![](img/descarga4.jpg "Descargar objetos swf con Firefox") 
+![](img/descarga4.jpg) 
 
 
  Imagen 11: Captura de pantalla propia
@@ -51,7 +51,7 @@ A veces nos vamos a encontrar **archivos que están incrustados en una web o blo
 4º Nos aparecerá un **cuadro de diálogo** con la información de la página. Seleccionamos el botón medios:
 
 
-![](img/descarga5.jpg "Descargar objetos swf con Firefox") 
+![](img/descarga5.jpg) 
 
 
  Imagen 11: Captura de pantalla propia

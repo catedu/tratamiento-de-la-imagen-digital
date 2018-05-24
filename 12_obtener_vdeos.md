@@ -45,7 +45,7 @@ El proceso en todos ellos es similar:
 *   El conversor tiene 3 conectores RCA hembra (blanco, rojo y amarillo) y un conector S-video (negro y de mayor diámetro).
 
 
-![](img/euroconector.jpg "Euroconector")
+![](img/euroconector.jpg)
 
 
 Imagen 3: Autor Julián Trullenque. Licencia CC by-nc
@@ -55,7 +55,7 @@ Imagen 3: Autor Julián Trullenque. Licencia CC by-nc
     *   **Solución B**: Adquirir un adaptador para conectar el conversor a través del euroconector de nuestro videograbador. Al realizar esta compra hay que tener cuidado, ya que en el mercado existen adaptadores IN que permiten introducir información en el videograbador y adaptadores OUT, que permiten sacar información del videograbador. En nuestro caso necesitamos uno OUT, ya que lo que queremos es llevar las imágenes de la cinta VHS al conversor.
 
 
- ![](img/euroconector2.jpg "Euroconector")
+ ![](img/euroconector2.jpg)
 
 
  Imagen 4: Autor Julián Trullenque. Licencia CC by-nc

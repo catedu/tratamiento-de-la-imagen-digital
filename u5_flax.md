@@ -30,7 +30,7 @@ Una de sus ventajas es que **nos muestra un vista previa de la animación de tex
 2º En la ventana "**Text properties" escribe el texto**: puede ser un título, una poesía, un párrafo.... que nos sea muy extenso. Selecciona las propiedades del texto: tipo de letra, tamaño, posición...
 
 
-![](img/flax1.jpg "Insertar texto en Flax")
+![](img/flax1.jpg)
 
 
 Imagen 33: Captura de pantalla propia
@@ -38,7 +38,7 @@ Imagen 33: Captura de pantalla propia
 3º Eliges los **efectos de texto**. Puedes ir probando el que más te gusta y hacer combinaciones, variando los parámetros. En este caso hemos elegido **"Surfing y Surf USA"**
 
 
-![](img/flax2.jpg "Propiedades del efecto")
+![](img/flax2.jpg)
 
 
 Imagen 34: Captura de pantalla propia
@@ -46,7 +46,7 @@ Imagen 34: Captura de pantalla propia
 4º Eliges las **propiedades de la película. **En este caso hemos elegido de tamaño 700x150 pc, color blanco y 20 fps.
 
 
-![](img/flax3.jpg "Propiedades de la película")
+![](img/flax3.jpg)
 
 
 Imagen 35: Captura de pantalla propia
@@ -54,7 +54,7 @@ Imagen 35: Captura de pantalla propia
 5º Mira en la **ventana escenario** y verás como queda la película final. Es muy fácil.
 
 
-![](img/flax4.jpg "Ventana escenario")
+![](img/flax4.jpg)
 
 
 Imagen 36: Captura de pantalla propia
@@ -66,7 +66,7 @@ _1\. Para insertar una imagen de fondo_
 1º Clic en **View>Background Pic Properties**.
 
 
-![](img/flax5.jpg "Crear un fondo")
+![](img/flax5.jpg)
 
 
 Imagen 37: Captura de pantalla propia
@@ -74,7 +74,7 @@ Imagen 37: Captura de pantalla propia
 2º Aparecerá un **cuadro de diálogo**, en el que elegimos la **imagen de fondo**, que la podemos ajustar a la ventana o escalarla.
 
 
-![](img/flax6.jpg "Seleccionar imagen de fondo")
+![](img/flax6.jpg)
 
 
 Imagen 38: Captura de pantalla propia
@@ -86,7 +86,7 @@ _2\. Para poner un clip de música_
 2º Aparecerá un **cuadro de diálogo** en el que buscaremos un sonido en formato MP3 (menos de 100 kb):
 
 
-![](img/flax7.jpg "Insertar un sonido")
+![](img/flax7.jpg)
 
 
 Imagen 39: Captura de pantalla propia
@@ -96,7 +96,7 @@ _3\. Cambiar propiedades del texto_
 1º Aparte del tamaño, tipo de letra, posición y colores, también podemos **variar la forma del título**. Clic en **View>Text Shape Properties.**
 
 
-![](img/flax8.jpg "Forma del texto")
+![](img/flax8.jpg)
 
 
 Imagen 40: Captura de pantalla propia
@@ -116,7 +116,7 @@ Se puede guardar, abrir archivos guardados, probar archivos antes de procesarlos
 2º Vamos a crear un **archivo flash (swf)**. Clic en File>**Export as SWF**...
 
 
-![](img/flax9.jpg "Exportando a swf")
+![](img/flax9.jpg)
 
 
 Imagen 41: Captura de pantalla propia
@@ -124,7 +124,7 @@ Imagen 41: Captura de pantalla propia
 2º Aparecerá este **cuadro de diálogo**. Podemos elegir dónde exportar el archivo y otras opciones.
 
 
-![](img/flax10.jpg "Exportar un swf")
+![](img/flax10.jpg)
 
 
 Imagen 41: Captura de pantalla propia
@@ -138,7 +138,7 @@ El archivo que hemos creado será en formato SWF, no podremos verlo si no tenemo
 Otras funciones del menu File (archivo):
 
 
-![](img/flax11.jpg "Opciones de archivo")
+![](img/flax11.jpg)
 
 
 Imagen 41: Captura de pantalla propia

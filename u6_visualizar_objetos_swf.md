@@ -25,7 +25,7 @@ Desde aquí te vamos a presentar y recomendar **"SWFOPENER"** por las siguientes
 2º Ejecutar el programa.
 
 
-![](img/opener.jpg "Ejecutar SwfOpener")
+![](img/opener.jpg)
 
 
 Imagen 42: Captura de pantalla propia
@@ -49,7 +49,7 @@ En la unidad 2 de este módulo aprendimos a buscar archivos SWF y a descargarlos
 2º Inicia el programa **SWF Cache Viewer**. Desde el **Menu inicio>Todos los Programas>UnH Solutions>SWF Cache Viewer.**
 
 
-![](img/opener3.jpg "Abrir SWF Cache Viewer")
+![](img/opener3.jpg)
 
 
 Imagen 43: Captura de pantalla propia

@@ -40,8 +40,8 @@ Un ejemplo de animación flash (swf). Imágenes en movimiento e interactivas.
 El [píxel](http://es.wikipedia.org/wiki/P%C3%ADxel) es la unidad mínima de visualización de una imagen digital. Si aplicamos el zoom sobre ella observaremos que está formada por una parrilla de puntos o píxeles. Las cámaras digitales y los escáneres capturan las imágenes en forma de cuadrícula de píxeles.
 
 
-![](img/pixel.jpg "El pixel")
+![Imagen 3: autor Julián Trullenque. Tipo de licencia CC by-nc](img/pixel.jpg)
 
 
-Imagen 3: autor Julián Trullenque. Tipo de licencia CC by-nc
+
 

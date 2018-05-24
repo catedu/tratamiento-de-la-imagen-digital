@@ -15,7 +15,7 @@ Los enlaces a vídeos de Vimeo pueden ser también insertados en blogs y sitios 
 1º Inicia la sesión en [Vimeo](https://vimeo.com/). Antes te habrás tenido que registrar.
 
 
-![](img/vimeo.jpg "Acceso a Vimeo")
+![](img/vimeo.jpg)
 
 
  Imagen 46: Captura de pantalla propia
@@ -23,13 +23,13 @@ Los enlaces a vídeos de Vimeo pueden ser también insertados en blogs y sitios 
  2º Haz clic en el enlace **Subir Vídeo** situado en la parte superior de la página.
 
 
-![](img/vimewo2.jpg "Subir vídeo")
+![](img/vimewo2.jpg)
 
 
 3º Aparece una **página informativa** donde nos recuerda las condiciones para subir el vídeo. Y nos ofrece otras opciones para subir el vídeo: Dropbox, móviles y aplicaciones de escritorio. Hacemos **clic en Seleccionar un vídeo a subir**.
 
 
-![](img/vimeo2.jpg "Subir un vídeo a Vimeo")
+![](img/vimeo2.jpg)
 
 
 Imagen 47: Captura de pantalla propia
@@ -37,7 +37,7 @@ Imagen 47: Captura de pantalla propia
 4º Nos aparece un cuadro informándonos del vídeo que queremos subir: formato, tamaño... y una opción para subir otros. Hacemos clic en **Subir vídeos seleccionados**.
 
 
-![](img/vimeo3.jpg "Subir vídeos a Vimeo")
+![](img/vimeo3.jpg)
 
 
 Imagen 48: Captura de pantalla propia
@@ -49,7 +49,7 @@ Presentación realizada por Julián Trullenque. Licencia CC by-nc.
 6º Cuando se acaba de subir el vídeo aparece este botón: **"LISTO VE AL VÍDEO"**. Hacemos clic y vemos un nuevo mensaje que nos dice que tardará un tiempo hasta que esté listo para verse.
 
 
-![](img/vimeo5.jpg "Esperando proceso de Vimeo")
+![](img/vimeo5.jpg)
 
 
 Imagen 49: Captura de pantalla propia
@@ -67,7 +67,7 @@ Una vez subido el vídeo podemos cambiar la configuración, eliminarlo, ver las 
 2º Aparecerá una página con todos los vídeos subidos. En la miniatura del vídeo, en su parte superior derecha aparece un botón que nos lleva a la configuración de cada vídeo. Desde allí podemos ver las estadísticas, agregarlo a álbumes, eliminarlo, descargarlo...
 
 
-![](img/vimeo6.jpg "Configuración de vídeos")
+![](img/vimeo6.jpg)
 
 
 Imagen 50: Captura de pantalla propia  
@@ -81,7 +81,7 @@ Publicar un vídeo en nuestro blog o sitio web es muy sencillo. Cualquier víde
 2º Una vez encontrado el vídeo, hacemos doble clic sobre él. Justo debajo del vídeo apareces estas opciones:
 
 
-![](img/vimeo7.jpg "Compartir vídeo")
+![](img/vimeo7.jpg)
 
 
  Imagen 51: Captura de pantalla propia
@@ -104,7 +104,7 @@ En la parte derecha del vídeo, nos aparecen tres imágenes para puntuar y compa
 **¿Cómo compartir el vídeo?**
 
 
-![](img/vimeo9.jpg "Compartir vídeo con Vimeo")
+![](img/vimeo9.jpg)
 
 
 Imagen 52: Captura de pantalla propia
@@ -115,7 +115,7 @@ Imagen 52: Captura de pantalla propia
 4.  **Insertarlo en un blog** (opciones).
 
 
-![](img/vimeo10.jpg "Opciones de compartir un vídeo con Vimeo")
+![](img/vimeo10.jpg)
 
 
 Imagen 53: Captura de pantalla propia

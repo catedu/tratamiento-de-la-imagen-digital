@@ -9,7 +9,7 @@ En este tema trataremos, básicamente, como podemos capturar las imágenes de nu
 2º Abre **VideoPad** haciendo clic en **Iniciar>Todos los programas>VideoPad...**
 
 
-![](img/videopad2.jpg "Captura de vídeo con VideoPad")
+![](img/videopad2.jpg)
 
 
  Imagen 20: Captura de pantalla propia
@@ -25,7 +25,7 @@ En este tema trataremos, básicamente, como podemos capturar las imágenes de nu
 4º Aparecerá el cuadro de diálogo "**Capturar Vídeo**". Seleccionamos la cámara, la carpeta en donde lo queremos guardar el vídeo, el nombre que le vamos a poner. Si dejamos seleccionado el botón "Añadir grabaciones al proyecto", aparecerá en la ventana del proyecto los vídeos que grabemos.
 
 
-![](img/captura2.jpg "Capturar vídeo con Videopad")
+![](img/captura2.jpg)
 
 
  Imagen 22: Captura de pantalla propia
@@ -37,7 +37,7 @@ En este tema trataremos, básicamente, como podemos capturar las imágenes de nu
 1º **Abre Movie Maker** haciendo clic en el botón **Iniciar>Todos los programas>Movie Maker**.
 
 
-![](img/abrir_movie.jpg "Abrir Movie Maker")
+![](img/abrir_movie.jpg)
 
 
  Imagen 23: Captura de pantalla propia
@@ -47,7 +47,7 @@ En este tema trataremos, básicamente, como podemos capturar las imágenes de nu
 3º Haz clic en el **botón del menú Movie Maker** y luego en **Importar desde dispositivo**. Si aparece el mensaje Las fotos y los vídeos se importarán en la Galería fotográfica, haz clic en Aceptar.
 
 
-![](img/movi0.jpg "Importar con Movie Maker")
+![](img/movi0.jpg)
 
 
  Imagen 24: Captura de pantalla propia
@@ -62,7 +62,7 @@ En este tema trataremos, básicamente, como podemos capturar las imágenes de nu
 5º En la página Importar vídeo, **asigna un nombre al vídeo que desees importa**r, efectúa alguno de los siguientes procedimientos y, a continuación, haz clic en Siguiente:
 
 
-![](img/movi1.jpg "Importar vídeo")
+![](img/movi1.jpg)
 
 
  Imagen 25: Captura de pantalla propia
@@ -72,7 +72,7 @@ En este tema trataremos, básicamente, como podemos capturar las imágenes de nu
 7º Haz clic en Detener para detener la importación de vídeo.
 
 
-![](img/movi2.jpg "Importar vídeo")
+![](img/movi2.jpg)
 
 
  Imagen 26: Captura de pantalla propia

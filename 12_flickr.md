@@ -17,7 +17,7 @@ Para poder utilizar [**FLICKR**](http://www.flickr.com/) has de tener una cuen
 Una vez registrados en **Yahoo**, entramos a [http://www.flickr.com](http://www.flickr.com/), hacemos en "**Iniciar sesión"**, y colocamos el usuario y contraseña de nuestra cuenta **Yahoo**.
 
 
-![](img/flikr1.jpg "Entrar en flicker")
+![](img/flikr1.jpg)
 
 
 Imagen 12: Captura de pantalla propia 
@@ -27,7 +27,7 @@ Imagen 12: Captura de pantalla propia 
 Una vez dados de alta y dentro de FLICKR, entramos a la interfaz principal. Muy sencilla de partida, pocos elementos.
 
 
-![](img/flicker2.jpg "Flicker")
+![](img/flicker2.jpg)
 
 
  Imagen 13: Captura de pantalla propia
@@ -37,7 +37,7 @@ Una vez dados de alta y dentro de FLICKR, entramos a la interfaz principal. Muy 
 1º Haz clic en **Subir Fotos**. Nos aparece esta página. Haremos clic en **Agrega**r. También podemos hacer clic en **Uploader anterio**r para ir a modo antiguo de subir fotos. Nosotros elegimos el de la última versión.
 
 
-![](img/flickr3.jpg "Subir fotos en flickr")
+![](img/flickr3.jpg)
 
 
 Imagen 14: Captura de pantalla propia
@@ -45,7 +45,7 @@ Imagen 14: Captura de pantalla propia
 2º Elegiremos en nuestro navegador todas las fotos que queremos subir luego nos aparece esta página:
 
 
-![](img/flickr4.jpg "Subir fotos a flickr")
+![](img/flickr4.jpg)
 
 
 Imagen 15: Captura de pantalla propia
@@ -53,7 +53,7 @@ Imagen 15: Captura de pantalla propia
 3º Ya están las fotos preparadas para subirlas. Veamos las opciones:
 
 
-![](img/flickr6.jpg "Opciones de cargar fotos")
+![](img/flickr6.jpg)
 
 
 Imagen 16: Captura de pantalla propia
@@ -61,7 +61,7 @@ Imagen 16: Captura de pantalla propia
 4º Hacemos **clic en Cargar fotos** se subirán a nuestra galería:
 
 
-![](img/flickr7.jpg "Galería de Flickr")
+![](img/flickr7.jpg)
 
 
 Imagen 17: Captura de pantalla propia
@@ -81,7 +81,7 @@ Imagen 17: Captura de pantalla propia
 1º Hacemos **clic en el álbum** que queremos compartir
 
 
-![](img/flickr8.jpg "Compartir flickr")
+![](img/flickr8.jpg)
 
 
 Imagen 18: Captura de pantalla propia
@@ -93,7 +93,7 @@ Imagen 18: Captura de pantalla propia
 3º Nos aparecerán varias opciones de compartir:
 
 
-![](img/flickr9.jpg "Opciones de compartir Flickr")
+![](img/flickr9.jpg)
 
 
 Imagen 19: Captura de pantalla propia

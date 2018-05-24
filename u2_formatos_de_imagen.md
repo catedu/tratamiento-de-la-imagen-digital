@@ -7,7 +7,7 @@ El propósito de esta tarea es familiarizarse con el uso de un **editor para con
 1º **Abrimos** la imagen con el editor (ver Unidad 1 "manejo de archivos" en el apartado "abrir archivos").
 
 
- ![](img/exportar1.jpg "Exportar a JPG")
+ ![](img/exportar1.jpg)
 
 
 Imagen20: Captura de pantalla propia
@@ -15,7 +15,7 @@ Imagen20: Captura de pantalla propia
 2º Aparecerá el siguiente cuadro de dialogo. Hacemos clic en **"Seleccione el tipo de archivo (por extensión)"**.
 
 
- ![](img/exportar2.jpg "Exportar a JPG")
+ ![](img/exportar2.jpg)
 
 
 Imagen 21: Captura de pantalla propia  
@@ -23,7 +23,7 @@ Imagen 21: Captura de pantalla propia
 3º **Elegimos JPEG**. Veremos que ya ha cambiado la extensión en el nombre de archivos.
 
 
- ![](img/exportar3.jpg "Exportar a JPG")
+ ![](img/exportar3.jpg)
 
 
 Imagen 22: Captura de pantalla propia  
@@ -31,7 +31,7 @@ Imagen 22: Captura de pantalla propia
 4º Hacemos clic en **Exportar**. Y aparece el cuadro de diálogo.
 
 
- ![](img/exportar_4.jpg "Exportar a JPG")
+ ![](img/exportar_4.jpg)
 
 
 Imagen 23: Captura de pantalla propia  
@@ -41,7 +41,7 @@ Imagen 23: Captura de pantalla propia
 **Para convertir a GIF o PNG el procedimiento es el mismo, salvo que el cuadro que aparece en la imagen 19  (paso 4º) será distinto según se trate de uno u otro formato.**
 
 
- ![](img/otros_formatos.jpg "Diferencias de formatos")
+ ![](img/otros_formatos.jpg)
 
 
 Imagen 24: Captura de pantalla propia  
@@ -57,7 +57,7 @@ Imagen 24: Captura de pantalla propia
 En [http://pixlr.com](http://pixlr.com/) el proceso es muy similar a Photofiltre. Archivo>Guardar y seleccionar la extensión. lo único es que el programa no permite todas las extensiones y formatos.
 
 
- ![](img/exportar_pxrl.jpg "Exportar en PiXRL")
+ ![](img/exportar_pxrl.jpg)
 
 
 Imagen 25: Captura de pantalla propia

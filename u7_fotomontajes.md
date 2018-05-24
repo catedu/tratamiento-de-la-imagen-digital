@@ -3,7 +3,7 @@
 ## Reflexión
 
 
-![](img/messi.jpg "Fotomontajes creativos")
+![](img/messi.jpg)
 
 
 Este efecto de la foto fue creada en [Funny.Pho.to](http://funny.pho.to/). Por Julián Trullenque

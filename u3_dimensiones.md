@@ -11,7 +11,7 @@ Se puede insertar una imagen en una web o blog y luego reducir su tamaño de vis
 1º Abrir el archivo. **Archivo>Abrir. **
 
 
-![](img/tam01.jpg "Tamaño de la imagen en GIM")
+![](img/tam01.jpg)
 
 
 Imagen 26: Captura de pantalla propia
@@ -19,7 +19,7 @@ Imagen 26: Captura de pantalla propia
 2º En la ventana de imagen elige **Imagen > Escalar la imagen …**
 
 
-![](img/tam2.jpg "Tamaño de la imagen en GIM")
+![](img/tam2.jpg)
 
 
 Imagen 27: Captura de pantalla propia
@@ -30,7 +30,7 @@ Imagen 27: Captura de pantalla propia
 4º En el cuadro de diálogo **Escalar la imagen. **En la casilla **Anchura** introduce el **valor 640** Observa que si el bloqueo de proporciones está activado al pulsar **enter **automáticamente se completa la **Altura proporcional **(480). Si desactivas el bloqueo, solamente cambiará el valor que modifiques.En **Tamaño de la imagen** se muestra la Anchura y Altura en píxeles de la imagen actual. Observa que puedes modificar estos valores mediante los botones de incremento/decremento o bien tecleando otros. Sin embargo si entre ambas casillas y a la derecha aparece un **icono de cadena cerrada**, cuando trates de modificar la anchura, automáticamente se definirá la altura respetando las proporciones originales y evitando que la imagen se deforme. Al hacer clic sobre este icono de bloqueo se desactivará esta proporcionalidad y podrás definir valores independientes.
 
 
-![](img/tam04.jpg "Escalar tamaño de una imagen")
+![](img/tam04.jpg)
 
 
 Imagen 28: Captura de pantalla propia
@@ -40,7 +40,7 @@ Imagen 28: Captura de pantalla propia
 6º Se puede deshacer la operación de escala seleccionando en la barra de menús de la ventana de imagen:**Edición > Deshacer**.
 
 
-![](img/tam05.jpg "Deshacer la última operación.")
+![](img/tam05.jpg)
 
 
 Imagen 29: Captura de pantalla propia
@@ -66,7 +66,7 @@ En ocasiones es necesario disponer de más lienzo en blanco dentro de una imagen
 2º En la ventana de imagen elige **Imagen > Tamaño del lienzo …**
 
 
-![](img/lienzo01.jpg "Cambiar el tamaño del lienzo en GIMP")
+![](img/lienzo01.jpg)
 
 
 Imagen 30: Captura de pantalla propia
@@ -74,7 +74,7 @@ Imagen 30: Captura de pantalla propia
 3º En el cuadro de diálogo **Establecer el tamaño del lienzo de la imagen se muestra la Anchura y Altura **actuales del lienzo. En este caso 640x480 píxeles. Clic en el **icono de bloqueo de proporcionalidad** para poder aumentar la altura sin que ello implique incrementar la anchura. Tras su pulsación el icono debe tener el aspecto de dos eslabones de cadena separados.
 
 
-![](img/lienzo02.jpg "Desactivar proporcionalidad")
+![](img/lienzo02.jpg)
 
 
 Imagen 31: Captura de pantalla propia  
@@ -82,7 +82,7 @@ Imagen 31: Captura de pantalla propia
 4º En la casilla **Altura** introduce el valor 580 para aumentarla y pulsa la tecla **enter**. Observa que en la vista previa de la imagen aparece un espacio en blanco por debajo de la imagen que se corresponde con el lienzo aumentado. Si pulsas el botón **Centrar** la imagen se centraría horizontal y verticalmente sobre el lienzo. Otra posibilidad es introducir manualmente en las casillas **X** e **Y** la posición en píxeles en que se situará la esquina superior izquierda de la imagen en relación con el nuevo lienzo. En el caso que nos ocupa no utilizaremos esta opción ni el botón de centrado porque GIMP crea automáticamente el espacio que necesitamos en la base de la imagen para añadir luego el texto.
 
 
-![](img/lienzo03.jpg "Cambiar propiedades del lienzo")
+![](img/lienzo03.jpg)
 
 
 Imagen 32: Captura de pantalla propia
@@ -92,7 +92,7 @@ Imagen 32: Captura de pantalla propia
 5º Desde la barra de menús de la ventana de imagen elige **Imagen > Aplanar imagen**. Con esta operación se fusionan las capas y la banda inferior toma el color blanco de fondo.
 
 
-![](img/lienzo04.jpg "Aplanar imagen")
+![](img/lienzo04.jpg)
 
 
 Imagen 33: Captura de pantalla propia
@@ -100,7 +100,7 @@ Imagen 33: Captura de pantalla propia
 6º Ahora vamos a insertar un título a nuestra imagen: En el cuadro de herramientas de GIMP selecciona la herramienta **Texto** y a continuación haz clic sobre la banda blanca inferior.
 
 
-![](img/texto.jpg "Crear un texto")
+![](img/texto.jpg)
 
 
 Imagen 34: Captura de pantalla propia  
@@ -112,7 +112,7 @@ Imagen 34: Captura de pantalla propia
 9º Este es el resultado final de la imagen: (Ya podremos guardar la imagen)
 
 
-![](img/lienzo05.jpg "Lienzo modificado. Resultado final.")
+![](img/lienzo05.jpg)
 
 
 Imagen 35: Captura de pantalla propia
@@ -138,7 +138,7 @@ Esta aplicación compatible con archivos de hasta 5 MB y formato .GIF, .JPG Y .P
 El manejo de esta aplicación web no puede resultar más sencillo e intuitivo. Acceder desde [www.webresizer.com](http://www.webresizer.com)
 
 
-![](img/web_resizer.jpg "Web Resizer")
+![](img/web_resizer.jpg)
 
 
 Imagen 36: Captura de pantalla propia

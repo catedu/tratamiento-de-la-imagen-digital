@@ -15,7 +15,7 @@ Slideshare tiene **acceso libre sin límite de presentaciones por usuario**, só
 2º Hacemos **clic en Upload** para subir nuestra presentación. Para este ejemplo vamos a utilizar la que hemos creado con las fotografías de Instagram.
 
 
-![](img/slide1.jpg "Subir archivo en Slideshare")
+![](img/slide1.jpg)
 
 
  Imagen 27: Captura de pantalla propia 
@@ -23,7 +23,7 @@ Slideshare tiene **acceso libre sin límite de presentaciones por usuario**, só
  3º Aparecerá un cuadro con **varias opciones**. Rellenamos el formulario y guardamos la presentación.
 
 
-![](img/slide2.jpg "Opciones Slideshare")
+![](img/slide2.jpg)
 
 
 Imagen 28: Captura de pantalla propia 

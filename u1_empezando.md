@@ -8,7 +8,7 @@
 *   La interfaz de GIMP está **disponible en varios idiomas**, entre ellos: español, inglés (el idioma original), catalán, gallego, euskera, alemán, francés, italiano, ruso, sueco, noruego, coreano y neerlandés.
 
 
-![](img/gimp.jpg "Acerca de GIMP")
+![](img/gimp.jpg)
 
 
 Imagen 1: captura de pantalla.
@@ -21,7 +21,7 @@ Imagen 1: captura de pantalla.
 *   El programa es **totalmente gratuito** por lo que podrás disponer del 100% de las funciones del programa sin ningún problema, esta es una buena oportunidad para iniciarte en este tipo de programas, no lo dudes.
 
 
-![](img/photofiltre2.jpg "Photofiltre Studio")
+![](img/photofiltre2.jpg)
 
 
 Imagen 2: captura de pantalla.
@@ -33,7 +33,7 @@ Actualmente existen infinidad de aplicaciones online de edición fotográfica pe
 No has de fijarte mucho para comprobar cómo se parece Pixlr a Photoshop. Desde la barra de herramientas a los paneles son similares, así que si usas el editor de Adobe, no te costará hacerte a los mando de este programa.
 
 
-![](img/pixrl4.jpg "Pixlr")
+![](img/pixrl4.jpg)
 
 
 Imagen 3: captura de pantalla.

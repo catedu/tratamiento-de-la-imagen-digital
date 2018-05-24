@@ -15,7 +15,7 @@ Existen muchas opciones para elaborar el póster. Os recomendamos las siguientes
 Veamos un ejemplo:
 
 
-![](img/infogra.jpg "9 pasos para crear una infografía con Power Point.")
+![](img/infogra.jpg)
 
 
 Imagen 30: Autor Juan Carlos Mejía
@@ -41,7 +41,7 @@ _2\. ¿Cómo funciona?_
 2º Una vez dentro podemos crear un nuevo glog desde **"Creat new Glog"**, se abrirá una nueva página con el glog para editar.
 
 
-![](img/glogster.jpg "Glogster Edu. Crea posters digitales")
+![](img/glogster.jpg)
 
 
 Imagen 30: Captura de pantalla propia
@@ -56,7 +56,7 @@ Imagen 30: Captura de pantalla propia
 *   **Wall**, para diseñar el fondo del póster y de la página.
 
 
-![](img/glogster2.jpg "Editor de Glogster")
+![](img/glogster2.jpg)
 
 
 Imagen 31: Captura de pantalla propia
@@ -64,7 +64,7 @@ Imagen 31: Captura de pantalla propia
 4º Una vez terminado, **guardamos el Glogster** desde el botón "**save & publish**", le ponemos el título, le asignamos una categoría, activamos la opción "finished" y terminamos dando al botón "save". Podremos compartirlo a través del link o incrustando el código embebido en nuestro blog.
 
 
-![](img/glogster4.jpg "Publicar un Glogster")
+![](img/glogster4.jpg)
 
 
 Imagen 32: Captura de pantalla propia
@@ -84,7 +84,7 @@ Vídeo realizado por Marisa de Dios de la Escuela de Idiomas de Valencia
 **2\. SMORE**
 
 
-[![](img/smore.jpg "Smore")](https://www.smore.com/)
+[![](img/smore.jpg)](https://www.smore.com/)
 
 
 [Smore](https://www.smore.com/) es una aplicación está pensada para poder crear **posters o folletos en línea**, en la que podemos destacar su sencillez, ya que todo está prediseñado, pudiendo crear y publicar en pocos pasos y sin ningún conocimiento de programación.
@@ -94,7 +94,7 @@ _1\. ¿Cómo funciona?_
 1º Una vez registrados, lo primero que vemos es que nos invita a crear nuestra primera infografía.
 
 
-![](img/smore2.jpg "Entar en Smore")
+![](img/smore2.jpg)
 
 
 Imagen 33: Captura de pantalla propia
@@ -102,7 +102,7 @@ Imagen 33: Captura de pantalla propia
 2º Se nos abre un menú en que podemos empezar a definir nuestra publicación. Nosotros elegiremos una platilla en blanco
 
 
-![](img/smore3.jpg "Plantilals disponibles en Smore")
+![](img/smore3.jpg)
 
 
 Imagen 33: Captura de pantalla propia
@@ -110,7 +110,7 @@ Imagen 33: Captura de pantalla propia
 3º Podemos, desde crear un póster para convocar una reunión a hacer una página personal, una vez seleccionada la plantilla nos aparecerá el escritorio de trabajo. 
 
 
-![](img/smore4.jpg "Editor Smore")
+![](img/smore4.jpg)
 
 
 Imagen 34: Captura de pantalla propia
@@ -122,7 +122,7 @@ Imagen 34: Captura de pantalla propia
 6º Otra posibilidad sería insertarlo en tu blog o página web.
 
 
-![](img/smore5.jpg "Compartir un smore")
+![](img/smore5.jpg)
 
 
  Imagen 35: Captura de pantalla propia

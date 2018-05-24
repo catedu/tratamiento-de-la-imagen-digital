@@ -27,7 +27,7 @@ _Propiedades de la herramienta lápiz_
 2º Fíjate en el panel de **control de lápiz (pen)** las características que en estos momentos tiene:
 
 
-![](img/pen.jpg "Característcas del lápiz")
+![](img/pen.jpg)
 
 
 Imagen 14: autor Julián Trullenque. Licencia CC by-nc
@@ -35,7 +35,7 @@ Imagen 14: autor Julián Trullenque. Licencia CC by-nc
 3º Puedes **modificar** el grosor, el color y la forma del lápiz.
 
 
-![](img/lapiz2.jpg "Características del lápiz en Vectorian")
+![](img/lapiz2.jpg)
 
 
 Imagen 15: autor Julián Trullenque. Licencia CC by-nc
@@ -77,7 +77,7 @@ Herramienta óvalo
 2º Usa los controles **Color de Trazo** y **Color de Relleno** en la caja de herramientas para definir el color de trazo como negro y el color de relleno como amarillo. Sitúa el puntero sobre cada cuadro de color, pincha y se despliega la paleta de colores. Haz clic sobre un color para seleccionarlo.
 
 
-![](img/prop_ovalo.jpg "Propiedades herramienta de dibujo")
+![](img/prop_ovalo.jpg)
 
 
 Imagen 15: Captura de pantalla propia
@@ -91,7 +91,7 @@ También se puede utilizar el **Inspector de propiedades ** cuando la herrami
 4º En los paneles de control, se pueden definir las **propiedades de óvalo**.
 
 
-![](img/prop_valo.jpg "Propiedades de la herramienta óvalo")
+![](img/prop_valo.jpg)
 
 
 Imagen 16: autor Julián Trullenque. Licencia CC by-nc
@@ -113,7 +113,7 @@ Herramienta cuadrado
 2º Haciendo clic en la pestaña de la derecha puede elegir entre un cuadrado, cuadrado redondeado, polígono y estrella.
 
 
-![](img/poligonos.jpg "Tipos de polígonos")
+![](img/poligonos.jpg)
 
 
 Imagen 16: Captura de pantalla propia
@@ -137,7 +137,7 @@ Herramienta pincel
 2º Fíjate en el panel de **control de lápiz (brush)** las características que en estos momentos tiene:
 
 
-![](img/pincel.jpg "Panel de control pincel")
+![](img/pincel.jpg)
 
 
 Imagen 17: Captura de pantalla propia
@@ -145,7 +145,7 @@ Imagen 17: Captura de pantalla propia
 3º Puedes **modificar** el tipo de relleno y el color.
 
 
-![](img/colores.jpg "Paleta de colores")
+![](img/colores.jpg)
 
 
 Imagen 18: Captura de pantalla propia
@@ -261,7 +261,7 @@ Imagen 17: autor Julián Trullenque. Licencia by-nc
 Se pueden diseñar ilustraciones para las películas Flash utilizando las **herramientas de dibujar y pintar**. En este capítulo explicamos sus **técnicas básicas de uso**.
 
 
- ![](img/herramientas.jpg "Herramientas de dibujo de Vectorian Giotto")
+ ![](img/herramientas.jpg)
 
 
 Imagen 13: autor Julián Trullenque. Licencia CC by-nc

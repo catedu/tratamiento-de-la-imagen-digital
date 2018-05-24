@@ -11,7 +11,7 @@ Podemos crear un álbum de fotos con Impress de forma rápida y sencilla. El ál
 3º Seguir la ruta **Insertar>Imagen>Álbum fotográfico...**
 
 
- ![](img/office1.jpg "Crear un álbum de fotos con Impress")
+ ![](img/office1.jpg)
 
 
 Imagen 24: Captura de pantalla propia
@@ -30,7 +30,7 @@ Ahora vamos a crear una **transición entre diapositiva y diapositiva**.
 1º Haz clic en la pestaña **Presentación>Transición de diapositivas**. Elegimos **Desvanecer suavemente**.
 
 
-![](img/office3.jpg "Transiciones en Impress")
+![](img/office3.jpg)
 
 
 Imagen 25: Captura de pantalla propia 
@@ -46,7 +46,7 @@ Vamos a añadir una** música al proyecto**:
 1º En la pestaña Insertar, elegimos **Insertar>Sonido de archivo**.
 
 
-![](img/office4.jpg "Insertar sonido en Impress")
+![](img/office4.jpg)
 
 
 Imagen 26: Captura de pantalla propia 

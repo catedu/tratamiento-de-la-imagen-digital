@@ -13,7 +13,7 @@
 4º **Configura el proyecto**: Podemos modificar las carpetas en las que guardamos los recursos y el tamaño de pantalla: elegimos 340x240.
 
 
-![](img/videopad1.jpg "Configuaración proyecto Cinepad")
+![](img/videopad1.jpg)
 
 
 Imagen 47: Captura de pantalla propia
@@ -27,7 +27,7 @@ Es conveniente para este tipo de proyectos tener siempre **bien organizados en c
 1º **Clic** en el botón **Añadir Multimedia**.
 
 
-![](img/videopad2.1.jpg "Insertar medios en CinePad")
+![](img/videopad2.1.jpg)
 
 
 Imagen 48: Captura de pantalla propia
@@ -35,7 +35,7 @@ Imagen 48: Captura de pantalla propia
 2º Se abrirá una **ventana**, donde localizaremos los clips de **vídeo, música e imagen**. Seleccionamos todos. Para seleccionar todos los archivos a la vez, hacemos clic en el primero, pulsamos la tecla Mayúsculas y sin soltarla hacemos clic en el último. Ya podemos hacer **clic en Abrir** y se insertarán todos los archivos en nuestro proyecto.
 
 
-![](img/videopad3.1.jpg "Agregar archivos")
+![](img/videopad3.1.jpg)
 
 
 Imagen 49: Captura de pantalla propia
@@ -43,7 +43,7 @@ Imagen 49: Captura de pantalla propia
 3º Al hacer el clic, veremos que los archivos se han **añadido a nuestro proyecto y aparecen en la lista de medios**. Aunque no los vemos en la ventana secuencia, ya que nos los hemos puesto en la línea de tiempo.
 
 
-![](img/videopad4.1.jpg "Insertar medios en VideoPad")
+![](img/videopad4.1.jpg)
 
 
 Imagen 50: Captura de pantalla propia
@@ -55,7 +55,7 @@ Imagen 50: Captura de pantalla propia
 1º Seleccionar el primer **clip y arrastrarlo a la línea de tiempo**. También se puede hacer todos a la vez (tecla Mayúsculas).
 
 
-![](img/videopad5.1.jpg "Arrastrar clips a la línea de tiempo")
+![](img/videopad5.1.jpg)
 
 
 Imagen 51: Captura de pantalla propia
@@ -63,7 +63,7 @@ Imagen 51: Captura de pantalla propia
 2º Hacemos los mismo con todos los clips consecutivamente (01+02+03... 23).
 
 
-![](img/videopad6.jpg "Clips en la línea de tiempo")
+![](img/videopad6.jpg)
 
 
 Imagen 52: Captura de pantalla propia
@@ -75,7 +75,7 @@ Imagen 52: Captura de pantalla propia
 1º Arrastra el clip de música **chaplin** a la **línea de tiempo**.
 
 
-![](img/videopad7.jpg "Colocar clips de audio en la línea de tiempo")
+![](img/videopad7.jpg)
 
 
 Imagen 53: Captura de pantalla propia
@@ -89,7 +89,7 @@ Videopad no tienen ninguna función especial para crear títulos. Es un programa
 1º Clic en **Insertar Espacio**.
 
 
-![](img/videopad8.jpg "Insertar un cuadro negro en VideoPad")
+![](img/videopad8.jpg)
 
 
 Imagen 54: Captura de pantalla propia
@@ -97,7 +97,7 @@ Imagen 54: Captura de pantalla propia
 2º Aparecerá un **cuadro de diálogo** que nos pregunta, dónde queremos colocar el cuadro negro. Seleccionamos "**Comienzo de la línea de tiempo**".
 
 
-![](img/videopad9.jpg "Insertar cuadro negro en VideoPad")
+![](img/videopad9.jpg)
 
 
 Imagen 55: Captura de pantalla propia
@@ -105,7 +105,7 @@ Imagen 55: Captura de pantalla propia
 3º El espacio en negro que hemos creado dura 3 segundos. Vamos a **cambiar este valor por 7 segundos**.
 
 
-![](img/videopad10.jpg "Cambiar la duración de un cuadro negro")
+![](img/videopad10.jpg)
 
 
 Imagen 56: Captura de pantalla propia
@@ -115,7 +115,7 @@ Imagen 56: Captura de pantalla propia
 5º Ahora vamos a escribir un título. Hacemos clic en el icono **Subtítulos**.
 
 
-![](img/videopad11.jpg "Insertar Subtítulos")
+![](img/videopad11.jpg)
 
 
 Imagen 57: Captura de pantalla propia
@@ -123,7 +123,7 @@ Imagen 57: Captura de pantalla propia
 6º Aparecerá una ventana en la que **escribiremos nuestro texto** "El chico", y allí podremos cambiar los atributos del título.
 
 
-![](img/videopad12.jpg "Insertar subtítulos en VideoPad")
+![](img/videopad12.jpg)
 
 
 Imagen 58: Captura de pantalla propia
@@ -131,7 +131,7 @@ Imagen 58: Captura de pantalla propia
 7º Ajustaremos la **duración a 7 segundos** para que sea igual que el cuadro en negro que hemos insertado. Para esto haremos clic en "duración" y nos aparecerá otro cuadro de diálogo en el que escribiremos la **duración a "0:00:07.0"** (7 segundos). Clic en Aceptar.
 
 
-![](img/videopad13.jpg "Insertar subtítulos en VideoPad")
+![](img/videopad13.jpg)
 
 
 Imagen 59: Captura de pantalla propia
@@ -147,7 +147,7 @@ Con Video Pad podemos subtitular películas completas o clips; pero dada la comp
 1º Para iniciar la inserción de subtítulos pulsaremos el **botón "Subtítulos"** en la barra superior.
 
 
-![](img/videopad11.jpg "Subtitular un clip")
+![](img/videopad11.jpg)
 
 
 Imagen 60: Captura de pantalla propia
@@ -158,7 +158,7 @@ Imagen 60: Captura de pantalla propia
     *   Pulsamos sobre la zona de escritura del subtítulo y escribimos el texto. 
 
 
-![](img/videopad14.jpg "Insertar subtítulos en CinePad")
+![](img/videopad14.jpg)
 
 
 Imagen 61: Captura de pantalla propia
@@ -166,7 +166,7 @@ Imagen 61: Captura de pantalla propia
 3º Para ajustar el momento en que aparecerá el texto, pulsamos sobre "**Mostrar**". Aparece un cuadro de diálogo en el que podemos ajustar hasta la décima de segundo el momento en que aparecerá el texto. Pulsamos "**Aceptar**" y reproducimos para comprobar el ajuste. Si es correcto vamos al siguiente paso y si no está bien ajustado, volvemos a editar el punto de inicio.
 
 
-![](img/videopad15.jpg "Ajustar la duración de un subtítulo")
+![](img/videopad15.jpg)
 
 
 Imagen 62: Captura de pantalla propia
@@ -188,7 +188,7 @@ Aunque la película que hemos puesto para practicar no tiene sonido, otras; las 
 2º Crea un **proyecto nuevo** e **inserta este clip** en la línea de tiempo. Quedará algo así.
 
 
-![](img/videopad16.jpg "Eliminar audio de un clip")
+![](img/videopad16.jpg)
 
 
 Imagen 63: Captura de pantalla propia
@@ -211,7 +211,7 @@ Imagen 64: Captura de pantalla propia
 1º **Separar la pista de vídeo** y sonido. Clic con el ratón encima de la pista. Aparece este menú:
 
 
-![](img/videopad18.jpg "Desvincular audio y vídeo")
+![](img/videopad18.jpg)
 
 
 Imagen 65: Captura de pantalla propia
@@ -225,7 +225,7 @@ _2\. Grabar narración_
 2º Hacemos **clic en Narrar**. La grabación nos permite ver las imágenes mientras hablamos y esto facilita la coordinación audio-vídeo.
 
 
-![](img/videopad20.jpg "Narrar una grabación")
+![](img/videopad20.jpg)
 
 
 Imagen 66: Captura de pantalla propia
@@ -233,7 +233,7 @@ Imagen 66: Captura de pantalla propia
 3º Se abre un grabador de sonidos que, simultáneamente, proyecta el vídeo. El mando de esta grabadora es sumamente intuitivo, los tres botones típicos (“Record”, “Pause” y “Stop”) controlan el proceso. 
 
 
-![](img/videopad21.jpg "Grabar sonidos")
+![](img/videopad21.jpg)
 
 
 Imagen 67: Captura de pantalla propia
@@ -271,7 +271,7 @@ Imagen 68: Captura de pantalla propia
 1º En la línea de tiempo (vídeo o sonido) **coloco el ratón en el lugar exacto** donde quiero quiero dividirlo.
 
 
-2º Clic en el icono de la **cuchilla lateral**: ![](img/cuchilla.jpg "dividir") Vamos a dividir este clip justo en la escena en que cambia de los caballos a las aves.
+2º Clic en el icono de la **cuchilla lateral**: ![](img/cuchilla.jpg) Vamos a dividir este clip justo en la escena en que cambia de los caballos a las aves.
 
 
 3º Para **mover uno de los clips divididos** hacerlo como en la explicación anterior (cambiar la posición de un objeto) y para elminarlo, pulsar la tecla **Borrar** (supr/del).

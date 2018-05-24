@@ -48,7 +48,7 @@ Video elaborado por [blog.princippia.com](http://blog.princippia.com/).
 Entramos en la web [Go! Animate](http://goanimate.com/) y nos registramos como usuarios completando los datos de correo electrónico, usuario y contraseña.  Una vez dentro, comenzamos a crear un vídeo animado haciendo clic en el botón "**Crea tu vídeo**" situado en la parte superior derecha de la web. Después hacemos clic en "**Crea un vídeo corto**" o en "**Crear una película**" y seleccionamos una de las opciones gratuitas (hay más opciones en la versión de pago). A partir de ahí tendremos que elegir escenario, personajes, escribir o grabar el diálogo y previsualizar el vídeo. En la opción película contamos con un tutorial que nos indica los pasos ya que podemos poner varias escenas. La herramienta pone música ambiental al vídeo y cuenta también con un creador de personajes.
 
 
-![](img/715.jpg "Go! Animate... para crear vídeos")
+![](img/715.jpg)
 
 
 Imagen 29: Captura de pantalla propia 

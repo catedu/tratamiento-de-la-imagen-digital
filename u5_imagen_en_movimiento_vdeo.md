@@ -33,7 +33,7 @@ Así pues, hay dos servicios que cumplen estas condiciones: [youtube.com](http:/
 A mí personalmente me gusta más Vimeo. Mi consejo: ¡Utiliza las dos! Por lo tanto en esta unidad vamos a ver cómo subir un vídeo en cada una de estas plataformas.
 
 
-![](img/vime_you.jpg "Vimeo vs YouTube")
+![](img/vime_you.jpg)
 
 
 Imagen 41: autor © 2013 Indus Net Technologies. [Condiciones de uso](http://www.indusnet.co.in/terms-of-use/)

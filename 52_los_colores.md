@@ -13,7 +13,7 @@ Todos estos modos están **indicados para** imágenes cuyo destino sea una **pan
 Todas las aplicaciones trabajan en modo RGB, si pasamos de este modo a grises o indexado luego no se podrá recuperar la información de la imagen adicional. Pasar de RGB a los otros no es problema. Al contrario sí. Un ejemplo para que veas los niveles de color.
 
 
-![](img/niveles_de_color.jpg "Ejemplo de niveles de color")
+![](img/niveles_de_color.jpg)
 
 
  Imagen 40: autor Julián Trullenque. Licencia CC by-nc
@@ -25,7 +25,7 @@ Todas las aplicaciones trabajan en modo RGB, si pasamos de este modo a grises o 
 1º Tenemos abierta la imagen que queremos convertir a 256 niveles de gris. Hacemos clic en el menú Colores>Componentes.
 
 
-![](img/byn_gimp.jpg "Cambiar a blanco y negro con GIMP")
+![](img/byn_gimp.jpg)
 
 
  Imagen 41: Captura de pantalla propia
@@ -33,7 +33,7 @@ Todas las aplicaciones trabajan en modo RGB, si pasamos de este modo a grises o 
 2º Se nos abrirá el cuadro de diálogo **Mezclador de Canales**. Para mejorar la imagen que va a ser convertida a escala de grises podemos utilizar algunas herramientas antes de hacer el cambio En el cuadro de diálogo que se nos muestra marcamos **la casilla de verificación Monocromo**. Posteriormente modificamos los canales (rojo, verde y azul) hasta obtener la imagen que deseemos. Finalizamos haciendo clic en aceptar.
 
 
-![](img/mezclador.jpg "Mezclador de canales")
+![](img/mezclador.jpg)
 
 
  Imagen 42: Captura de pantalla propia
@@ -43,7 +43,7 @@ Todas las aplicaciones trabajan en modo RGB, si pasamos de este modo a grises o 
 Es más fácil.... con la imagen abierta solo hay que elegir el botón blanco y negro en el menú de atajos (arriba en el centro).
 
 
-![](img/byn_ph.jpg "Convertir a escala de grises")
+![](img/byn_ph.jpg)
 
 
  Imagen 43: Captura de pantalla propia
@@ -61,7 +61,7 @@ Es más fácil.... con la imagen abierta solo hay que elegir el botón blanco y 
 **3\. Balance de colores**
 
 
-![](img/balance.jpg "Balance de colores")
+![](img/balance.jpg)
 
 
  Imagen 44: Captura de pantalla propia
@@ -86,7 +86,7 @@ Uno de los problemas más frecuentes, que nos solemos encontrar en nuestras foto
     
 
 
-![](img/tono.jpg "Tono y saturación")
+![](img/tono.jpg)
 
 
  Imagen 45: Captura de pantalla propia
@@ -96,7 +96,7 @@ Uno de los problemas más frecuentes, que nos solemos encontrar en nuestras foto
 La herramienta **Colorear** hace lo que su nombre indica, colorear la imagen con 256 niveles de color, permitiéndonos elegir el color que queremos aplicar sobre la imagen. La herramienta colorear convierte la capa activa o selección en una imagen en escala de grises vista a través de un cristal coloreado.
 
 
-![](img/colorear.jpg "Herramienta colorear")
+![](img/colorear.jpg)
 
 
  Imagen 46: autor Julián Trullenque. Licencia by-nc
@@ -112,7 +112,7 @@ Sirve para **reducir los colores de una imagen a dos: blanco y negro**. La herr
 1º **Abre la imagen**. Hacer clic en Colores>Umbral.
 
 
-![](img/umbral1.jpg "Umbral... convertir en dos colores")
+![](img/umbral1.jpg)
 
 
  Imagen 47: Captura de pantalla propia
@@ -124,7 +124,7 @@ Sirve para **reducir los colores de una imagen a dos: blanco y negro**. La herr
 Se llega a través de **Ajustar>Dos Tonos**. El cuadro de diálogo es más sencillo.
 
 
-![](img/umbral2.jpg "Photofiltre Dos Tonos (Umbral)")
+![](img/umbral2.jpg)
 
 
  Imagen 48: Captura de pantalla propia

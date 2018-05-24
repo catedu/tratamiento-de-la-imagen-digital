@@ -27,7 +27,7 @@ En este apartado vamos a trabajar sobre imágenes digitales usando las **Capas*
 3º En la **Ventana Capas** haz doble clic sobre la imagen en miniatura de la capa "brecha.jpg", y cambia el nombre por el de "Fondo" y presiona la tecla **Enter**.  
 
 
-![](img/capas8.jpg "Trabajando con capas")
+![](img/capas8.jpg)
 
 
 Imagen 86: Captura de pantalla propia.
@@ -35,7 +35,7 @@ Imagen 86: Captura de pantalla propia.
 4º Por defecto, las dimensiones de una capa nueva son iguales a las de la imagen con la que estamos trabajando, pero podemos crearlas más grandes o más pequeñas. Para crear una nueva capa haz clic en el icono **Capa Nueva**.
 
 
-![](img/capas9.jpg "Insertar capa nueva")
+![](img/capas9.jpg)
 
 
 Imagen 87: Captura de pantalla propia.
@@ -51,7 +51,7 @@ Imagen 88: Captura de pantalla propia.
 6º Observa que en la **Ventana Capas** encuentras las dos capas creadas, "Fondo" y "avion". Si seleccionas esta última, en la **Ventana imagen** se muestra con una zona cuadrada delimitada por una línea discontinua, que marca el tamaño y posición de la capa.
 
 
-![](img/capas11.jpg "Trabajando con capas")
+![](img/capas11.jpg)
 
 
 Imagen 89: Captura de pantalla propia.
@@ -59,7 +59,7 @@ Imagen 89: Captura de pantalla propia.
 7º Vamos a **pegar la imagen del avión encima de la foto**. Para eso, abrimos al imagen avion.png (es transparente). La abrimos como una capa. Hacemos clic en **Archivo>Abrir como capas** y seleccionamos **avión.png.**
 
 
-![](img/capas12.jpg "Insertar una imagen como capa")
+![](img/capas12.jpg)
 
 
 Imagen 90: Captura de pantalla propia.
@@ -67,7 +67,7 @@ Imagen 90: Captura de pantalla propia.
 8º Y con la **herramienta mover de la caja de herramientas**, arrastramos y colocamos el objeto donde queremos.
 
 
-![](img/capas13.jpg "Mover objetos, capas")
+![](img/capas13.jpg)
 
 
 Imagen 91: Captura de pantalla propia.
@@ -75,7 +75,7 @@ Imagen 91: Captura de pantalla propia.
 9º Hacemos la **imagen más pequeña**. Con la herramienta **Escalado**, arrastrando una esquina de la capa hacia adentro.
 
 
-![](img/capas14.jpg "Escalar una capa")
+![](img/capas14.jpg)
 
 
 Imagen 92: Captura de pantalla propia.
@@ -93,7 +93,7 @@ Imagen 92: Captura de pantalla propia.
 3º Clic en **Capa>Nuevo>Abrir como capa...** y así abrimos el archivo **avion.png** (es transparente).
 
 
-![](img/capas15.jpg "Abrir un archivo en capa nueva")
+![](img/capas15.jpg)
 
 
 Imagen 92: Captura de pantalla propia.
@@ -101,7 +101,7 @@ Imagen 92: Captura de pantalla propia.
 4º Con la **Herramienta Selección** colocamos la imagen del avión en el lugar que queramos.
 
 
-![](img/capas16.jpg "Herramienta selección")
+![](img/capas16.jpg)
 
 
 Imagen 93: Captura de pantalla propia.
@@ -109,7 +109,7 @@ Imagen 93: Captura de pantalla propia.
 5º Para **redimensionar la imagen** hacemos clic con el botón derecho encima de la imagen (capa). Aparecerá la capa rodeada por una envoltura de línea discontinua y unos puntos. Desplazamos haciendo clic con el ratón hacia el centro, y la imagen queda más pequeña. Si pulsamos la tecla **INTRO**, la capa cambiará de dimensión.
 
 
-![](img/capas19.jpg "Redimensionar capas")
+![](img/capas19.jpg)
 
 
 Imagen 94: Captura de pantalla propia.
@@ -125,7 +125,7 @@ Imagen 94: Captura de pantalla propia.
 3º Clic en **Capa>Abrir imagen como capa...** y así abrimos el archivo **avion.png** (es transparente).
 
 
-![](img/capas20.jpg "Abrir imagen como capa")
+![](img/capas20.jpg)
 
 
 Imagen 95: Captura de pantalla propia.
@@ -133,7 +133,7 @@ Imagen 95: Captura de pantalla propia.
 4º Con la **herramienta Mover** lo colocamos en le lugar que queremos.
 
 
-![](img/capas21.jpg "Cambiar objeto de posición")
+![](img/capas21.jpg)
 
 
 Imagen 96: Captura de pantalla propia.
@@ -141,7 +141,7 @@ Imagen 96: Captura de pantalla propia.
 5º Para **redimensionar la imagen** hacemos clic en Editar>Transformación libre. Aparecerá la capa rodeada por una envoltura de línea discontinua y unos puntos. Desplazamos haciendo clic con el ratón hacia el centro, y la imagen queda más pequeña. Si pulsamos la tecla **INTRO**, la capa cambiará de dimensión.
 
 
-![](img/capas22.jpg "Redimensionar una imagen")
+![](img/capas22.jpg)
 
 
 Imagen 97: Captura de pantalla propia.

@@ -18,18 +18,15 @@ Antes de empezar os comento que **Google** es un buscador que **evoluciona muy r
 1º Para utilizar este buscador, lo primero que debemos hacer será abrir la página [google.es](https://www.google.es/). y nos aparecerá esta pantalla:
 
 
-![](img/google.jpg "Buscador Google")
+![Imagen 2: Captura de pantalla propia](img/google.jpg)
 
 
-Imagen 2: Captura de pantalla propia
 
 2º De los **botones** que tenemos en la parte superior derecha, hacemos clic en **"imágenes"** y nos aparecerá entonces una pantalla como ésta:
 
 
-![](img/google_images.jpg "Google imágenes")
+![Imagen 3: Captura de pantalla propia](img/google_images.jpg)
 
-
-Imagen 3: Captura de pantalla propia
 
 3º Ya podemos utilizar el buscador para encontrar la imagen que deseamos. Si queremos buscar una imagen sobre el pico Aneto, solo tendremos que escribir la palabra en el rectángulo y hacer "clic" en el icono de la lupa.
 
@@ -52,6 +49,8 @@ Imagen 4: Captura de pantalla propia
 
 **Aquí tienes una animación que te muestra como hacer la búsqueda de imágenes con herramientas avanzadas. Para verlo tendrás que hacer clic en el botón azul (flecha).**
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/busquedaimagenes.swf" width="715" height="500"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/busquedaimagenes.swf"></object>
+
 **2\. Descarga de imágenes**
 
 **Descargar una imagen de Internet y guardarla es muy sencillo. Una vez que hayamos encontrado en el navegador la imagen hacemos lo siguiente:**
@@ -59,24 +58,26 @@ Imagen 4: Captura de pantalla propia
 1º Hacer **clic con el botón derecho sobre la imagen**. Se desplegará el siguiente menú:
 
 
-![](img/guardar1.jpg "Guardar un ducumento")
+![Imagen 5: Captura de pantalla propia.](img/guardar1.jpg)
 
 
- Imagen 5: Captura de pantalla propia.
+ 
 
 2º Nos aparecerá esta **ventana**. Elegimos el sitio (carpeta, pendrive, disco duro) en la que la queremos guardar.
 
 
-![](img/guardar2.jpg "Guardar imagen en disco duro")
+![Imagen 6: Captura de pantalla propia.](img/guardar2.jpg)
 
 
-Imagen 6: Captura de pantalla propia.
+
 
 3º Hacemos clic en guardar. Ya tendremos la imagen en nuestro disco duro para utilizarla o manipularla.
 
 **NOTA**: si utilizamos en comando **"copiar imagen"**, no la guardaremos en el disco duro sino en el portapapeles y con el comando **"pegar"** de nuestro programa de edición la tendremos preparada para ser manipulada.
 
 **Aquí tienes una animación que te muestra como guardar una imagen en tu disco duro. Para verlo tendrás que hacer clic en el botón azul (flecha).**
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/guardar.swf" width="715" height="500"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/guardar.swf"></object>
 
 ## ParaSaberMas
 

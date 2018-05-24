@@ -11,7 +11,7 @@
 4º **Configura el proyecto**: Solamente tienes que elegir el formato de pantalla. En este caso vamos a elegir la pantalla de **4:3** (cuatro tercios). Clic en la pestaña **Proyecto** y elegir **Pantalla Estándar** (4:3).
 
 
- ![](img/ventana.jpg "Configurar Moviemaker")
+ ![](img/ventana.jpg)
 
 
 Imagen 36: Captura de pantalla propia 
@@ -30,7 +30,7 @@ Imagen 36: Captura de pantalla propia 
     *   **Efectos**: movimientos del título y efectos del texto (contorno).
 
 
-![](img/proyecto1.jpg "Añadir un título al proyecto")
+![](img/proyecto1.jpg)
 
 
 Imagen 37: Captura de pantalla propia
@@ -46,7 +46,7 @@ Imagen 37: Captura de pantalla propia
 2ª En la ventana que sale seleccionamos el primer vídeo. Podemos hacerlo de uno en uno o agregando todos a la vez. Para agregar todos a la vea pulsamos la tecla **Mayúsculas a la vez que clic con el ratón** en el **primer vídeo** y sin soltar la tecla clic en el **último vídeo**. Clic en **Añadir**.
 
 
-![](img/proyecto2.jpg "Insertar un medio")
+![](img/proyecto2.jpg)
 
 
 Imagen 38: Captura de pantalla propia
@@ -60,7 +60,7 @@ Imagen 38: Captura de pantalla propia
 2º En la pestaña principal, clic en **Agregar música**.
 
 
-![](img/proyecto3.jpg "Agregar música")
+![](img/proyecto3.jpg)
 
 
 Imagen 39: Captura de pantalla propia
@@ -74,7 +74,7 @@ Casi tenemos nuestra película terminada, vamos a poner unos **títulos de créd
 1º **Clic** en **Créditos**.
 
 
-![](img/proyecto5.jpg "Insertar créditos")
+![](img/proyecto5.jpg)
 
 
 Imagen 40: Captura de pantalla propia
@@ -82,7 +82,7 @@ Imagen 40: Captura de pantalla propia
 2º **Escribimos los títulos** y seleccionamos las **opciones** que más nos gusten.
 
 
-![](img/proyecto6.jpg "Opciones de títulos de crédito")
+![](img/proyecto6.jpg)
 
 
 Imagen 41: Captura de pantalla propia
@@ -94,7 +94,7 @@ Imagen 41: Captura de pantalla propia
 1º En la **ventana principal**, colocamos el ratón en el lugar (clip de vídeo) que queremos situar el sonido.
 
 
-![](img/proyecto7.jpg "Como grabar sonidos")
+![](img/proyecto7.jpg)
 
 
 Imagen 42: Captura de pantalla propia
@@ -102,7 +102,7 @@ Imagen 42: Captura de pantalla propia
 2º Clic en **Grabar Narración**. Aparecerá otro botón para parar la grabación. Cuando paramos, nos pedirá **grabar el sonido en una carpeta**, lo hacemos. Ya tenemos **grabadas las narraciones**.
 
 
-![](img/proyecto8.jpg "Grabar sonidos")
+![](img/proyecto8.jpg)
 
 
 Imagen 43: Captura de pantalla propia
@@ -116,7 +116,7 @@ Imagen 43: Captura de pantalla propia
 2º En la ventana Principal hacemos **clic en Descripción**.
 
 
-![](img/proyecto9.jpg "Subtitular un vídeo")
+![](img/proyecto9.jpg)
 
 
 Imagen 44: Captura de pantalla propia
@@ -124,7 +124,7 @@ Imagen 44: Captura de pantalla propia
 3º Nos aparecerá esta **ventana de edición del título**. Escribimos el título y elegimos las opciones.
 
 
-![](img/proyecto10.jpg "Subtitular clips de vídeo")
+![](img/proyecto10.jpg)
 
 
 Imagen 45: Captura de pantalla propia
@@ -139,7 +139,7 @@ Antes de de exportar nuestro trabajo, lo **podemos ver todas las veces que quera
 2.  En la pestaña **Ve**r: Clic en **Vista previa de pantalla competa**.
 
 
-![](img/proyecto11.jpg "Previsualización de un proyecto")
+![](img/proyecto11.jpg)
 
 
 Imagen 46: Captura de pantalla propia

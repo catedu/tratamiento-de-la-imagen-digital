@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 
+<!--
 ____
 ### 1. CONSIDERACIONES PREVIAS 
 * [Módulo 1: CONSIDERACIONES PREVIAS](index0.md)
@@ -10,8 +11,8 @@ ____
 	* [U2. FORMATOS Y RESOLUCIÓN](u2_formatos_y_resolucin.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
 
-<!--
-### Módulo 2: OBTENCIÓN DE RECURSOS DIGITALES | M2 OBTENCIÓN DE RECURSOS DIGITALES 
+
+### 2. OBTENCIÓN DE RECURSOS DIGITALES 
 * [Módulo 2: OBTENCIÓN DE RECURSOS DIGITALES](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U1. Desde un periférico](u1_desde_un_perifrico.md)
@@ -20,14 +21,16 @@ ____
 	* [U4. Sitios de descarga de imágenes gratuitas](u4_sitios_de_descarga_de_imgenes_gratuitas.md)
 	* [U5. ARASAAC](u5_arasaac.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
-* [Créditos](crditos1.md)
-### Módulo 3: HERRAMIENTAS PARA LA EDICIÓN DE IMÁGENES | M3 HERRAMIENTAS PARA LA EDICIÓN DE IMÁGENES 
+-->
+
+### 3. HERRAMIENTAS PARA LA EDICIÓN DE IMÁGENES 
 * [Módulo 3: HERRAMIENTAS PARA LA EDICIÓN DE IMÁGENES](index2.md)
 * [Contenidos](contenidos2.md)
 	* [U1. PROGRAMAS INSTALABLES](u1_programas_instalables.md)
 	* [U2. HERRAMIENTAS ON-LINE](u2_herramientas_online.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
-* [Créditos](crditos2.md)
+
+<!--
 ### Módulo 4: MANIPULACIÓN DE IMÁGENES | M4 MANIPULACIÓN DE IMÁGENES 
 * [Módulo 4: MANIPULACIÓN DE IMÁGENES](index3.md)
 * [Contenidos](contenidos3.md)

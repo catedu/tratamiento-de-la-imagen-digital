@@ -18,10 +18,9 @@ En ocasiones, podemos requerirte un pantallazo para una incidencia en particular
 4.  **Guarda el documento en tu carpeta de trabajo.**
 
 
-![](img/pantallazo.jpg "Combinación de teclas para hacer una captura de pantalla")
+![Imagen 7: autor betfair.com. Licencia CC by-nc.](img/pantallazo.jpg)
 
 
-Imagen 7: autor betfair.com. Licencia CC by-nc.
 
 **3\. ¿Para qué sirve?**
 

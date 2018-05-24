@@ -12,7 +12,7 @@ Para **encontrar archivos swf** vamos a utilizar la búsqueda **avanzada de Goog
 1º Abre en tu navegador (recomendamos MozillaFirefox y Google Chrome) [Google.es](https://www.google.es/)
 
 
- ![](img/google.jpg "Búsqueda avanzada en Google")
+ ![](img/google.jpg)
 
 
 Imagen 2: Captura de pantalla propia
@@ -20,7 +20,7 @@ Imagen 2: Captura de pantalla propia
 2º **Escribimos** en el campo de búsqueda la palabra o palabras que queremos encontrar. Por ejemplo "plantas" y hacemos clic en **Buscar**. 
 
 
- ![](img/google2.jpg "Búsqueda avanzada en Google")
+ ![](img/google2.jpg)
 
 
  Imagen 3: Captura de pantalla propia
@@ -28,7 +28,7 @@ Imagen 2: Captura de pantalla propia
 3º Iniciamos la **Búsqueda Avanzada**. 
 
 
- ![](img/google3.jpg "Búsqueda avanzada en Google")
+ ![](img/google3.jpg)
 
 
 Imagen 4: Captura de pantalla propia
@@ -36,7 +36,7 @@ Imagen 4: Captura de pantalla propia
 4º Nos aparecerá el siguiente **formulario**:
 
 
-![](img/google6.jpg "Búsqueda avanzada")
+![](img/google6.jpg)
 
 
 Imagen 5: Captura de pantalla propia
@@ -44,7 +44,7 @@ Imagen 5: Captura de pantalla propia
 5º Elegimos en **Tipo de Archivo "Schokwawe Flash". **
 
 
- ![](img/google4.jpg "Búsqueda avanzada en Google")
+ ![](img/google4.jpg)
 
 
  Imagen 6: Captura de pantalla propia
@@ -52,7 +52,7 @@ Imagen 5: Captura de pantalla propia
 6º Y hacemos clic en **Búsqueda Avanzada**. Google nos devolverá estos resultados:
 
 
- ![](img/google5.jpg "Búsqueda avanzada en Google")
+ ![](img/google5.jpg)
 
 
  Imagen 7: Captura de pantalla propia

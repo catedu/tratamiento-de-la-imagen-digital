@@ -9,8 +9,7 @@ Básicamente podemos utilizar dos aparatos para conseguir fotografías: la **cá
 *   Conectar los cables de una cámara a un ordenador.
 *   Gestión de carpetas y subcarpeta: crear, eliminar, renombrar, copiar y pegar.
 
-**1\. La cámara de fotos  
-**
+**1\. La cámara de fotos**
 
 Hoy en día la cámara digital de fotos es **asequible** para todo el mundo, es **fácil de usar** y las **imágenes** que sacan son **muy buenas**. Por todo ello, es raro conocer a alguien que no tenga una cámara digital. El mecanismo es muy sencillo: sacamos nuestras fotos, que se guardan en una tarjeta de memoria y luego las descargamos a nuestro ordenador. ¿cómo?:
 
@@ -19,6 +18,8 @@ Hoy en día la cámara digital de fotos es **asequible** para todo el mundo, es 
 *   Utilizando un lector de tarjetas.
 
 Se guardan las fotografías en una carpeta, y ya están listas para trabajar con ellas.
+
+{% youtube %}https://youtu.be/aPuuSwnOgbc{% endyoutube %}
 
 **2\. El Scáner**
 
@@ -29,10 +30,10 @@ Al obtenerse una imagen digital se puede corregir defectos, recortar un área es
 Hoy en día es común incluir en el mismo aparato la impresora y el escáner. Son las llamadas impresoras multifunción. También están surgiendo el usar como escáner la cámara de los smartphones.
 
 
-![](img/scanner.jpg "Sacaner de ordenador")
+![Imagen 1: Tienda Virtual ® Derechos Reservados 2013](img/scanner.jpg)
 
 
-Imagen 1: Tienda Virtual [®](http://www.multimediaaplicada.com.mx/tienda-virtual-basica2/candado.php) Derechos Reservados 2013
+
 
 ## Importante
 

@@ -7,7 +7,7 @@ Video creado por Julián Trullenque para CEIP Brianda de Luna (Alfajarín). Lice
 Una idea elemental acerca del vídeo podría ser entenderlo como un **conjunto de imágenes en movimiento que tienen sonido**. Hasta hace poco, toda la grabación, manipulación y reproducción de vídeo se realizaba de forma analógica pero, con el avance de la tecnología multimedia, es hoy habitual utilizar un ordenador para almacenar, editar y reproducir vídeo digital.
 
 
-![](img/video.jpg "Secuencia de Edición de vídeo")
+![](img/video.jpg)
 
 
 Imagen 0: Captura de pantalla propia

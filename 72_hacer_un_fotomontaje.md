@@ -27,7 +27,7 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
 5º Una vez que hemos seleccionado la silueta entera, hacemos clic en **Editar>Copiar**. Copiará la imagen seleccionada en el Portapapeles (memoria).
 
 
-![](img/capas23.jpg "Copiar imagen selecionada")
+![](img/capas23.jpg)
 
 
  Imagen 98: Captura de pantalla propia.
@@ -37,7 +37,7 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
 7º Pegamos la imagen del portapapeles con clic en **Editar>Pegar**. Y ya está la primera parte el montaje.
 
 
-![](img/capas24.jpg "Pegar imagen")
+![](img/capas24.jpg)
 
 
  Imagen 99: Captura de pantalla propia.
@@ -74,7 +74,7 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
         *   Con la herramienta polígono haciendo clic en varios lugares de la imagen y uniendo uno tras otro los puntos.
 
 
-![](img/capas25.jpg "Recortar la silueta de jugador")
+![](img/capas25.jpg)
 
 
  Imagen 100: Captura de pantalla propia.
@@ -86,7 +86,7 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
 6º Pegamos la imagen del portapapeles con clic en **Editar>Pegar**. Y ya está la primera parte el montaje. El programa creará una nueva capa con la imagen pegada.
 
 
-![](img/capas26.jpg "Pegar imagen")
+![](img/capas26.jpg)
 
 
  Imagen 101: Captura de pantalla propia.
@@ -123,7 +123,7 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
 
 
 
- ![](img/capas27.jpg "Recortar una silueta")
+ ![](img/capas27.jpg)
 
 
  Imagen 102: Captura de pantalla propia.
@@ -133,7 +133,7 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
 6º Pegamos la imagen del portapapeles con clic en **Editar>Pegar**. Y ya está la primera parte el montaje. El programa creará una nueva capa con la imagen pegada.
 
 
- ![](img/capas28.jpg "Fotomontaje despés de pegar")
+ ![](img/capas28.jpg)
 
 
   Imagen 103: Captura de pantalla propia.

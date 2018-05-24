@@ -15,7 +15,7 @@ Cuando queremos hacer un **ajuste rápido sobre una imagen**, ésta es la herra
 **2\. En Photofiltre esta herramienta no es tan eficaz**. Se llega al cuadro de diálogo a a través de **Ajustar>Brillo y contraste**:
 
 
-![](img/brillo_y_contraste.jpg "Brillo y contraste en Photofiltre")
+![](img/brillo_y_contraste.jpg)
 
 
  Imagen 38: Captura de pantalla propia.
@@ -31,7 +31,7 @@ Seguimos la misma ruta que en Photofiltre **Ajustes>Brillo y contraste**. Obser
 1º Una manera más compleja y ligeramente más difícil de corregir problemas de exposición es **usar la herramienta Colores>Niveles**.
 
 
-![](img/niveles1.jpg "Modificación de niveles en GIMP")
+![](img/niveles1.jpg)
 
 
 Imagen 39: Captura de pantalla propia
@@ -39,7 +39,7 @@ Imagen 39: Captura de pantalla propia
 2º El diálogo para esta herramienta parece muy complicado, pero para el uso básico que se tiene en cuenta aquí, con lo único que necesita tratar es el área de "**Niveles de entrada**", específicamente los tres deslizadores triangulares que aparecen bajo el histograma. La manera más fácil de aprender cómo usarla es experimentar moviendo los tres deslizadores y observando cómo afecta la la imagen.
 
 
-![](img/niveles2.jpg "Modificar niveles de color")
+![](img/niveles2.jpg)
 
 
 Imagen 40: Captura de pantalla propia
@@ -51,7 +51,7 @@ Mira este tutorial para ver cómo se hace.
 1º Con la imagen abierta en el área de trabajo hacer clic en **Ajustar>Niveles**. Aparecerá un cuadro de diálogo (complicado) y es cuestión de ir probando hasta que nos guste el resultado.
 
 
-![](img/niveles3.jpg "Modificar niveles con Photofiltre")
+![](img/niveles3.jpg)
 
 
 Imagen 39: Captura de pantalla propia

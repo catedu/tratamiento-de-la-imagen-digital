@@ -38,7 +38,7 @@ Pero si quieres ver algo muy específico, lo mejor será ir directamente a la fu
 2º Una vez que escribimos un nombre en Youtube y le damos a buscar nos aparecerán los resultados arrojados organizados de la manera que Youtube considera más relevantes, sin tener en cuenta las visitas ni exactamente lo que hemos puesto en su buscador. Es aquí cuando **para buscar videos en Youtube específicos debemos hacer uso de los filtros**.
 
 
-![](img/youtube1.jpg "Buscar en YouTube")
+![](img/youtube1.jpg)
 
 
  Imagen 5: Captura de pantalla propia
@@ -46,7 +46,7 @@ Pero si quieres ver algo muy específico, lo mejor será ir directamente a la fu
 3º Haciendo clic en la pestaña **Filtros** encontraremos las **distintas opciones disponibles**. Los filtros se dividen por **categorías**. Dentro de la categoría de "Fecha de subida" podemos determinar si queremos un vídeo que ha sido subido en la última hora, hoy, esta semana, este mes o este año.
 
 
-![](img/youtube2.jpg "Buscan en YouTube con filtros")
+![](img/youtube2.jpg)
 
 
 Imagen 6: Captura de pantalla propia
@@ -56,7 +56,7 @@ Imagen 6: Captura de pantalla propia
 5º Es importante que sepas que puedes escoger más de un filtro para tu búsqueda, pero en ese caso, tienes que abrir la opción filtro cada vez que quieras modificarlo.
 
 
-![](img/youtube3.jpg "Buscar con filtros en YouTube")
+![](img/youtube3.jpg)
 
 
 Imagen 7: Captura de pantalla propia
@@ -64,7 +64,7 @@ Imagen 7: Captura de pantalla propia
 6º Como veras **en la parte superior al lado de "****Filtros" ****indica cuales hemos escogido**. De allí mismo podemos eliminarlos si no nos dan los resultados esperados, igual que pasa con cualquier otro buscador de internet.
 
 
-![](img/youtube4.jpg "Búsqueda con filtros en YouTube")
+![](img/youtube4.jpg)
 
 
 Imagen 5: Captura de pantalla propia
@@ -84,7 +84,7 @@ Imagen 5: Captura de pantalla propia
 En Vimeo la búsqueda es similar, ofrece prácticamente las mismas opciones.
 
 
-![](img/vimeo.jpg "Buscando vídeos en Vimeo")
+![](img/vimeo.jpg)
 
 
 Imagen 8: Captura de pantalla propia

@@ -17,7 +17,7 @@ Los enlaces a vídeos de YouTube pueden ser también insertados en blogs y sitio
 2º Haz clic en el enlace **Subir Vídeo** situado en la parte superior de la página.
 
 
-![](img/youtube1.jpg "YouTube")
+![](img/youtube1.jpg)
 
 
 Imagen 42: Captura de pantalla propia
@@ -25,7 +25,7 @@ Imagen 42: Captura de pantalla propia
 3º En la ventana que aparece **selecciona el vídeo que quieras subir en tu ordenador**. También puedes grabar un vídeo con tu cámara web o crear un vídeo con una presentación de diapositivas. Puedes elegir la privacidad.
 
 
-![](img/Youtube2.jpg "Configuración YouTube")
+![](img/Youtube2.jpg)
 
 
 Imagen 43: Captura de pantalla propia
@@ -52,7 +52,7 @@ La [privacidad](https://support.google.com/youtube/answer/157177?hl=es-ES) está
 Una vez subido el vídeo podemos cambiar la configuración, añadir subtítulos, eliminarlo, ver las estadísticas de la gente que lo visita, descargarlo...
 
 
-![](img/Youtube3.jpg "Gestión de vídeos en YouTube")
+![](img/Youtube3.jpg)
 
 
  Imagen 44: Captura de pantalla propia
@@ -66,7 +66,7 @@ Publicar un vídeo en nuestro blog o sitio web es muy sencillo. Cualquier víde
 2º Una vez encontrado el vídeo, hacemos doble clic sobre él. Justo debajo del video hacemos clic sobre el botón **"Compartir"** y tenemos varias opciones:
 
 
-![](img/Youtube4.jpg "Compartir un vídeo en YouTube")
+![](img/Youtube4.jpg)
 
 
  Imagen 45: Captura de pantalla propia

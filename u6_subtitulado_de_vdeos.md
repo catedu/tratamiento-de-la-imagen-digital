@@ -7,7 +7,7 @@ Vídeo del programa REDES de TVE. © Corporación de Radio y Televisión Españ
 Si observas en este vídeo hay un botón rectangular en la parte inferior derecha en el que si hacer clic, activarás los subtítulos del vídeo. Pero otras veces no encontrarás subtítulos, y en las producciones que hagas tú mismo, tendrás que añadirlos si quieres.
 
 
-![](img/sub1.jpg "Subtitulado de vídeos")
+![](img/sub1.jpg)
 
 
 Imagen 81: captura de pantalla propia.
@@ -23,7 +23,7 @@ Agregar subtítulos con Movie Maker a una película de vídeo es muy fácil. Sol
 2º **Amplía la vista** de la línea de tiempo para tener más precisión.
 
 
-![](img/sub2.jpg "Ampliar vista")
+![](img/sub2.jpg)
 
 
 Imagen 82: captura de pantalla propia.
@@ -31,7 +31,7 @@ Imagen 82: captura de pantalla propia.
 3º Coloca la cabeza reproductora en el lugar que quieras insertar es subtítulo.
 
 
-![](img/sub3.jpg "Insertar subtítulo")
+![](img/sub3.jpg)
 
 
 Imagen 83: captura de pantalla propia.
@@ -47,7 +47,7 @@ Imagen 84: captura de pantalla propia.
 5º Ya puedes **escribir el texto del subtítulo**, darle formato, color, posición...
 
 
-![](img/sub5.jpg "Escribir texto del subtítulo")
+![](img/sub5.jpg)
 
 
 Imagen 85: captura de pantalla propia.
@@ -69,7 +69,7 @@ En la Unidad 4 aprendimos a crear títulos con el comando "subtítulos". En esta
 2º Clic en el signo **más ("+")** de la pestaña **Pista de Superposiciones**.
 
 
-![](img/sub6.jpg "Insertar un subtítulo")
+![](img/sub6.jpg)
 
 
 Imagen 86: captura de pantalla propia.
@@ -77,7 +77,7 @@ Imagen 86: captura de pantalla propia.
 3º Se abrirá este cuadro de diálogo.
 
 
-![](img/sub7.jpg "Insertar texto")
+![](img/sub7.jpg)
 
 
 Imagen 87: captura de pantalla propia.
@@ -87,7 +87,7 @@ Imagen 87: captura de pantalla propia.
 5º Podemos cambiar opciones de formato de texto, tamaño, desplazamiento...
 
 
-![](img/sub8.jpg "Cambiar formato de texto")
+![](img/sub8.jpg)
 
 
 Imagen 88: captura de pantalla propia.

@@ -14,10 +14,10 @@ Antes de estudiar los procedimientos más habituales de optimización y tratamie
 Uno de los principales factores que determinan el peso de un archivo gráfico es el tamaño de la imagen que contiene, es decir, el número de píxeles (puntos) en anchura y altura. Imágenes más grandes tendrán más peso y tardarán más en cargarse. Mira los ejemplos:
 
 
-![](img/tamano.jpg "Tamaño de la imagen")
+![Imagen 3: autor Julián Trullenque. Tipo de licencia CC by-nc](img/tamano.jpg)
 
 
-Imagen 3: autor Julián Trullenque. Tipo de licencia CC by-nc
+
 
 **2\. Resolución de la imagen**
 
@@ -31,7 +31,7 @@ Es el **grado de detalle o calidad de una imagen digital** ya sea escaneada, fot
  A continuación se presenta una ilustración sobre cómo se vería la misma imagen en diferentes resoluciones:
 
 
-![](img/a.jpg "Resolución de una imagen")
+![](img/a.jpg)
 
 
 Imagen 4: autor Julián Trullenque. Tipo de licencia CC by-nc
@@ -77,10 +77,10 @@ Los archivos RAW provienen de cámaras digitales de alta gama. Son más grandes 
 Es un formato de alta calidad, utiliza un compresor sin pérdida de información. Si se guarda varias veces una imagen mientras se trabaja en ella, no pierde calidad. TIFF es un conocido formato de archivo para imprimir, escanear o archivar imágenes.
 
 
-![](img/formatos.jpg)
+![Imagen 5: autor Julián Trullenque. Tipo de licencia CC by-nc](img/formatos.jpg)
 
 
-Imagen 5: autor Julián Trullenque. Tipo de licencia CC by-nc
+
 
 **NOTA: Los formatos de vídeo y animaciones los veremos en el módulo correspondiente.**
 

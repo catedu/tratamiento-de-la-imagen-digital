@@ -12,7 +12,7 @@ Las capas son como hojas de acetato transparentes apiladas una sobre otra. Cuand
 1º **Crea un documento** en blanco con Vectorian Giotto. **File>New Movie**.
 
 
-![](img/new.jpg "Crear nuevo documento")
+![](img/new.jpg)
 
 
 Imagen 18: Captura de pantalla propia
@@ -43,7 +43,7 @@ Imagen 18: Captura de pantalla propia
 3º Observa que los fotogramas que tienen objetos se ven oscurecidos.
 
 
-![](img/capas2.jpg "Trabajo con capas")
+![](img/capas2.jpg)
 
 
  Imagen 20: Captura de pantalla propia
@@ -65,7 +65,7 @@ Vamos a abrir la película [**vectorian.vgd**](vectorian.vgd)para observar deta
 3º Los nombres de las capas de la película aparecen en una columna situada a la izquierda de la línea de tiempo. Los fotogramas contenidos en cada capa se organizan secuencialmente en una fila a la derecha del nombre de la capa. El encabezado de la Línea de tiempo indica el número de fotograma. La cabeza lectora apunta al fotograma actual que se muestra en el Escenario.
 
 
-![](img/linea_de_teiempo.jpg "Linea de Tiempo Vectorian Giotto")
+![](img/linea_de_teiempo.jpg)
 
 
 Imagen 21: Captura de pantalla propia
@@ -90,7 +90,7 @@ El uso de símbolos reduce considerablemente el tamaño del archivo de la pelíc
 *   **Botones**: elemento interactivo en la película para responder a la pulsación y desplazamiento del ratón. Cuando pulsamos en el botón, pasa algo.
 
 
-![](img/libreria.jpg "Librería de símbolos")
+![](img/libreria.jpg)
 
 
 Imagen 22: Captura de pantalla propia
@@ -106,7 +106,7 @@ Imagen 22: Captura de pantalla propia
 4º Clic en **Modify>Convert to Symbol** o bien hacer clic en F8.
 
 
-![](img/symbol.jpg "Convertir un objeto en símbolo")
+![](img/symbol.jpg)
 
 
 Imagen 23: Captura de pantalla propia
@@ -137,7 +137,7 @@ Para crear animación en Vectorian Giotto, se modifica el contenido de fotograma
 2º **Observarás**: que solo hay una capa (Layer1), que solo hay un fotograma y está vacío, que la cabeza lectora está en el fotograma 1, que en el escenario no hay ningún objeto (está vacío) y que en la biblioteca hay 11 símbolos.
 
 
-![](img/animacion1.jpg "Animación fotograma a fotograma")
+![](img/animacion1.jpg)
 
 
 Imagen 24: Captura de pantalla propia
@@ -149,7 +149,7 @@ Imagen 24: Captura de pantalla propia
     3.  Pulsa el **botón derecho** del ratón y te aparecerá un menú. Elige **Insert Keframe**. Mira el siguiente tutorial en el que inserto fotogramas de las tres maneras.
 
 
-![](img/keyframes2.jpg "Línea de tiempo 11 fotogramas")
+![](img/keyframes2.jpg)
 
 
 Imagen 25: Captura de pantalla propia
@@ -169,7 +169,7 @@ Observarás que va muy deprisa. Para que vaya más despacio vamos a colocar a ca
 1º **Crea una capa** nueva. Insert>Timeline>Layer.
 
 
-![](img/frames2.jpg "Insertar Capa")
+![](img/frames2.jpg)
 
 
 Imagen 26: Captura de pantalla propia
@@ -192,7 +192,7 @@ En la **interpolación de movimiento, el diseñador define la posición, el tama
 2º En el fotograma 1, en la parte superior izquierda **dibuja un objeto pequeño**. Por ejemplo una estrella:
 
 
-![](img/estrella.jpg "Dibuja una estrella")
+![](img/estrella.jpg)
 
 
 Imagen 26: Captura de pantalla propia
@@ -200,7 +200,7 @@ Imagen 26: Captura de pantalla propia
 3º Colócate con el ratón en el fotograma 65 en la línea de tiempo. **Inserta un fotograma clave**. **F6 o ****Insert>Timeline>Keyframe. **Quedará la vista así:
 
 
-![](img/frames3.jpg "Fotograma clave")
+![](img/frames3.jpg)
 
 
 Imagen 27: Captura de pantalla propia
@@ -208,7 +208,7 @@ Imagen 27: Captura de pantalla propia
 4º En todos los fotogramas la estrella está en la misma posición (Prueba con play). La estrella no se mueve. **Vas a modificar la posición, el tamaño, la rotación y el color de la estrella** que hay en el fotograma 65 (fotograma calve-Keyframe). Posición: Saca la estrella del escenario. Color: Rojo. Rotación: 180º (por ejemplo). Quedaría algo así:
 
 
-![](img/estrella2.jpg "Dibujar una estrella")
+![](img/estrella2.jpg)
 
 
 Imagen 28: Captura de pantalla propia
@@ -216,7 +216,7 @@ Imagen 28: Captura de pantalla propia
 5º Ahora haz clic entre el fotograma 1 y el 64 y crea una **interpolación de movimiento** (Create Motion Tween). Para hacer esto haz clic con el botón derecho del ratón, se desplegará un menú y eliges (**Create Motion Tween**). Para quitar el movimiento, lo mismo pero seleccionas (**Remove Motion Tween**).
 
 
-![](img/motion.jpg "Crear interpolación de movimiento")
+![](img/motion.jpg)
 
 
 Imagen 29: Captura de pantalla propia
@@ -248,7 +248,7 @@ En Vectorian Giotto tienes, a su disposición, unos **30 efectos altamente perso
 2º Para asignar el efecto a un objeto, **Clic en el botón derecho del ratón en el objeto** y en el menú lateral, selecciona Efectos, hacer clic en **Add** (añadir un efecto), **edit** (editar el presente efecto) o eliminar (para eliminar el actual efecto).
 
 
-![](img/efectos.jpg "Crear efectos")
+![](img/efectos.jpg)
 
 
 Imagen 30: Captura de pantalla propia
@@ -266,7 +266,7 @@ En el **texto de Giotto** se puede animar mediante el uso de los filtros y los e
 2º **Escribe un texto**: Por ejemplo, el nombre de tu centro. Personaliza las propiedades del testo: tipo de letra, tamaño, color.... a tu gusto. Esto lo puedes hacer desde el panel propiedades (Properties). También pudes añadir filtros al texto.
 
 
-![](img/texto2.jpg "Trabajar con textos")
+![](img/texto2.jpg)
 
 
 Imagen 31: Captura de pantalla propia

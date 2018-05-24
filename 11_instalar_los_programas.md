@@ -24,7 +24,7 @@ _1.3 Proceso de instalación (Windows)_
     4.  Puedes personalizar las instalación, pero te recomiendo que sigas las instrucciones por defecto.
 
 
-![](img/instalagimp.jpg "Insalar GIMP")
+![](img/instalagimp.jpg)
 
 
 Imagen 4: captura de pantalla propia
@@ -38,7 +38,7 @@ Como ya hemos comentado anteriormente, vamos a basar todo nuestro trabajo en GIM
 *   Es potente, **fácil e intuitivo**.
 
 
-![](img/photofiltre.jpg "Photofiltre Studio")
+![](img/photofiltre.jpg)
 
 
 Imagen 5: captura de pantalla propia

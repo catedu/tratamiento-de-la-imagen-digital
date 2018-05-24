@@ -27,7 +27,7 @@ El stop-motion es una técnica de animación que consiste en **aparentar el movi
 5º Toma una sola **foto** de tu set en la **posición inicial**.
 
 
-![](img/2013-10-29_20.43.46.jpg "Preparando para hacer un Stop Motion")
+![](img/2013-10-29_20.43.46.jpg)
 
 
 Imagen 73: autor Julián Trullenque. Licencia CC by-nc 
@@ -86,7 +86,7 @@ Imagen 73: autor Julián Trullenque. Licencia CC by-nc 
         *   10 - El clip se reproducirá a una décima parte de la velocidad original.
 
 
- ![](img/crear_vido4.1.jpg "Modificar velocidad de un clip")
+ ![](img/crear_vido4.1.jpg)
 
 
 Imagen 74: Captura de pantalla propia 

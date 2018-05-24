@@ -34,7 +34,7 @@ Esta unidad pretende ser una **guía de referencia de los términos más comúnm
 *   Es la **proporción entre la anchura y altura de un vídeo**. Cuando se reproduce un vídeo se suele mantener por defecto esta proporción para evitar deformación de las imágenes. Por este motivo cuando se elige la visualización a pantalla completa, aparecen franjas negras arriba y abajo. Es habitual una relación 4**:3 para los videos domésticos** (352x288 píxeles, por ejemplo) mientras que en DVD se suele trabajar con ratios de 16:9. Actualmente todos los dispositivos de grabación que se venden graban en formato panorámico 16:9.
 
 
-![](img/nubes.jpg "Conceptos de vídeo digital")
+![](img/nubes.jpg)
 
 
 **2\. Formatos de vídeo**

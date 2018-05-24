@@ -7,7 +7,7 @@ Cuando tu película esté preparada para mostrar al mundo, es necesario **public
 2º Clic en **File>Export Flash Movie**... (guardar documento) o bien **(Ctrl+Mayus+S)**.
 
 
-![](img/exportar.jpg "Exportar un documento")
+![](img/exportar.jpg)
 
 
 Imagen 32: Captura de pantalla propia

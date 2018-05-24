@@ -11,6 +11,6 @@ var feedback54_9text = "Mostrar retroalimentación";
 ### Retroalimentación
 
 
-![](img/infografias2.jpg "¿Qué es una infografía?")
+![](img/infografias2.jpg)
 
 

@@ -34,7 +34,7 @@ Incluye además una serie de prácticas herramientas de edición con las que pod
 *   **TUTORIAL de CamStudio:**[http://www.um.es/atica/gat/gat2/recursos/camstudio/](http://www.um.es/atica/gat/gat2/recursos/camstudio/). Universidad de Murcia, octubre 2005.
 
 
-![](img/camstudio.jpg "CamStudio")
+![](img/camstudio.jpg)
 
 
 Imagen 89: captura de pantalla propia. 

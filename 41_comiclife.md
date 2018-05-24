@@ -19,7 +19,7 @@ El comic que he insertado en la página de introducción fue realizado en el añ
 *   Descargas la versión que te interese y la instalas en tu equipo. Tienes también otra aplicación descargable para actualizar.
 
 
-![](img/comic.jpg "Comic Life 3")
+![](img/comic.jpg)
 
 
  Imagen 36: Captura de pantalla propia
@@ -79,7 +79,7 @@ El **funcionamiento de Cómic Life se basa en las técnicas de arrastrar y solta
 Es muy **IMPORTANTE guardar bien nuestro proyecto** en el formato de Comic Life y si queremos exportarlo para poder verlo en otros ordenadores que NO tengan Comic Life, debemos exportar en formato JPEG o PDF. Nosotros recomendamos PDF.
 
 
-![](img/exportar.jpg "Guardar y exportar un comic")
+![](img/exportar.jpg)
 
 
 Imagen 38: Captura de pantalla propia

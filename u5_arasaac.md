@@ -13,10 +13,10 @@ Este portal es una inciativa del **Gobierno de Aragón** a través del **CATEDU*
 El número actual de pictogramas únicos en color ronda los **9500 pictogramas**, cantidad que va aumentando progresivamente. Cuando los pictogramas se catalogan en ARASAAC, cada uno de ellos puede asociarse a una o más acepciones del diccionario de castellano, lo que hace que, actualmente, se disponga de más de 15600 pictogramas en color.
 
 
-![](img/arasaac1.jpg "Pictogramas en color de ARASAAC")
+![Imagen 9: Captura de pantalla propia.](img/arasaac1.jpg)
 
 
- Imagen 9: Captura de pantalla propia.
+ 
 
 **2\. Pictogramas en blanco y negro**
 
@@ -31,18 +31,16 @@ El catálogo de fotografías nos permite acceder a i**mágenes reales de objetos
 El catálogo cuenta actualmente con unas 1400 fotografías.
 
 
-![](img/arasaac2.jpg)
+![Imagen 10: Captura de pantalla propia.](img/arasaac2.jpg)
 
 
- Imagen 10: Captura de pantalla propia.
+ 
 
 **4\. Vídeos en LSE (Lengua de Signos Español)**
 
 Este catálogo ofrece vídeos con el signado de 4100 términos y de sus definiciones de la RAE.
 
 En muchos centros la comunicación aumentativa a través de pictogramas se complementa con el **uso de signos de bimodal que, en la mayor parte de los casos, coincide con la Lengua de Signos Española**.  De ahí la utilidad de este catálogo para todos aquellos profesores que utilicen signos de modo complementario o, para aquellos, que están aprendiendo la Lengua de Signos. 
-
-Moncayo. Vídeo ARASAAC. Licencia CC by-nc-sa
 
 **5\. Fotografías en LSE (Lengua de Signos Español)**
 
@@ -51,10 +49,10 @@ El catálogo de Fotografías en Lengua de Signos Española supone una novedad en
 Para poder crear la imagen fija del signado de una palabra lo que se hizo fue descomponer el signado en los pasos clave que lo definen en fotogramas que, posteriormente, se compusieron en una única imagen. De este modo, podemos encontrar fotografías con hasta 6 pasos agrupados en una única imagen. 
 
 
-![](img/arasaac3.jpg "Fotografías lengua de signos")
+![Imagen 11: Captura de pantalla propia.](img/arasaac3.jpg)
 
 
-Imagen 11: Captura de pantalla propia.
+
 
 **6\. Locuciones**
 
@@ -67,10 +65,10 @@ Las locuciones pueden ser escuchadas en el propio portal, añadidas a "Mi selecc
 Con el fin de facilitar la elaboración de materiales y de poder disponer en local de los recursos que ofrece el portal sin tener que estar conectado a Interrnet, ARASAAC ofrece una serie de paquetes desde la [**Zona de Descarga**](http://arasaac.org/descargas.php) que nos permitirán bajar e instalar los pictogramas, vídeos y fotografías en LSE, fotografías y locuciones.
 
 
-![](img/arasaac4.jpg "Descargas ARASAAC")
+![Imagen 12: Zona de descargas de ARASAAC. Licencia CC by-nc-sa](img/arasaac4.jpg)
 
 
-Imagen 12: Zona de descargas de ARASAAC. Licencia CC by-nc-sa
+
 
 ## Importante
 
@@ -83,10 +81,10 @@ Para poder instalar los paquetes de pictogramas se requiere tener instalado prev
 Una vez descargado el paquete de pictogramas, por ejemplo el de Color se nos pedirá, si estamos utilizando Windows 7 u 8, autorización para ejecutar Java. Pulsaremos en **SI**. Seguimos las instrucciones en pantalla.
 
 
-![](img/arasaac5.jpg "Instalar paquetes ARASAAC")
+![Imagen 10: Captura de pantalla propia.](img/arasaac5.jpg)
 
 
-Imagen 10: Captura de pantalla propia.
+
 
 **4\. Sistemas de búsqueda**
 
@@ -95,42 +93,42 @@ Una de las grandes potencialidades del portal ARASAAC pasa por su amplio catálo
 1º En la página de [**inicio**](http://arasaac.org/index.php) y [**catálogos**](http://arasaac.org/catalogos.php) del **portal ARASAAC** disponemos de un buscador que nos permite realizar búsquedas en los diferentes catálogos de recursos gráficos. Podemos seleccionar el idioma, si solo queremos imágenes, fotografías...
 
 
-![](img/arasaac6.jpg "Buscar en ARASAAC")
+![Imagen 11: Captura de pantalla propia.](img/arasaac6.jpg)
 
 
- Imagen 11: Captura de pantalla propia.
+ 
 
 2º La peculiaridad de este buscador es que, conforme se va escribiendo la palabra a buscar, el sistema va sugiriendo palabras que comiencen por la cadena de texto que vayamos escribiendo y que dispongan de recursos en algunos de los catálogos que tengamos marcados en los cuadros de selección debajo del cuadro de búsqueda.
 
 
-![](img/arasaac7.jpg "Búsquedas en ARASAAC")
+![Imagen 12: Captura de pantalla propia.](img/arasaac7.jpg)
 
 
-Imagen 12: Captura de pantalla propia.
+
 
 3º De entre los resultados que se nos ofrecen haremos clic sobre aquel que nos interesa obtener recursos gráficos. En este caso se selecciona "**camión**".
 
 
-![](img/arasaac8.jpg "Resultados de búsqueda en ARASAAC")
+![Imagen 13: Captura de pantalla propia.](img/arasaac8.jpg)
 
 
-Imagen 13: Captura de pantalla propia.
+
 
 4º De esta forma para la palabra **"camión"** en los resultados de la búsqueda podremos ver el logotipo de LSE. Si hacemos clic en él se abrirá una nueva ventana que nos permitirá visionar el signado de la acepción.
 
 
-![](img/arasaac9.jpg "Resultado en la búsqueda")
+![Imagen 14: Captura de pantalla propia.](img/arasaac9.jpg)
 
 
-Imagen 14: Captura de pantalla propia.
+
 
 5º Ya podemos descargar la imagen que buscábamos.
 
 
-![](img/arasaac10.jpg "Buscar imágenes en ARASAAC")
+![Imagen 15: Captura de pantalla propia.](img/arasaac10.jpg)
 
 
-Imagen 15: Captura de pantalla propia.
+
 
 ## Importante
 
