@@ -13,10 +13,10 @@ En esta unidad te voy a presentar una [**lista de aplicaciones de edición de im
 [Gimp](http://www.gimp.org/): Otro de los programas referente en cuanto a retoque fotográfico se refiere, ademas de ser **gratuito** de la lista, está a la altura de cualquier programa de pago. Una alternativa de retoque fotográfico muy digna. En su caja de herramientas encontraras todo lo necesario para corregir tus imágenes. Tienes **versiones del programa para los distintos sistemas operativos**, incluidos Linux, Windows y Mac OS X.
 
 
-![](img/gimp.jpg)
+![Imagen 1: captura de pantalla propia](img/gimp.jpg)
 
 
-Imagen 1: captura de pantalla propia
+
 
 **Photoscape**
 
@@ -27,10 +27,10 @@ Imagen 1: captura de pantalla propia
 [Photofiltre](http://www.photofiltre.com/): éste es otro programa muy interesante, ya que es sencillo e intuitivo. Lo tenemos instalados en los tablets-PC y se pueden encontrar en la red versiones gratuitas. El problema de este programa es que dependiendo de la versión que tengamos nos cobrará conflictos con Windows 7. Es muy recomendable para hacer pequeños trabajos en nuestras fotos, por su rapidez y sencillez. Además tiene una versión portable.
 
 
-![](img/filtre.jpg)
+![Imagen 2: captura de pantalla propia](img/filtre.jpg)
 
 
- Imagen 2: captura de pantalla propia
+ 
 
 ## Importante
 

@@ -21,12 +21,12 @@ Pixlr está disponible en castellano de forma completamente gratuita desde [ww
 Hay muchos editores de imágenes on-line, pero hay uno que sorprende por su potencia. Es [Sumo Paint](http://www.sumopaint.com/), uno de los editores de imágenes on-line más intuitivo y versátil. Puedes encontrar gran variedad de pinceles y formas, multitud de filtros, funciones avanzadas de texto y capas, además de trazados vectoriales básicos. Una muy buena herramienta para editar y modificar tus imágenes. Se puede trabajar en español. Hay una versión gratuita. Lo peor es que pone publicidad en la página.
 
 
-![](img/sumo.jpg)
+![Imagen 3: Captura de pantalla propia.](img/sumo.jpg)
 
 
- Imagen 3: Captura de pantalla propia.
+ 
 
-## ParaSaberMas
+## Para saber más
 
 **3\. Otros editores de imágenes en línea**
 

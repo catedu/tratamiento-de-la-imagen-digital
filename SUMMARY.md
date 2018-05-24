@@ -21,7 +21,7 @@ ____
 	* [U4. Sitios de descarga de imágenes gratuitas](u4_sitios_de_descarga_de_imgenes_gratuitas.md)
 	* [U5. ARASAAC](u5_arasaac.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
--->
+
 
 ### 3. HERRAMIENTAS PARA LA EDICIÓN DE IMÁGENES 
 * [Módulo 3: HERRAMIENTAS PARA LA EDICIÓN DE IMÁGENES](index2.md)
@@ -29,10 +29,10 @@ ____
 	* [U1. PROGRAMAS INSTALABLES](u1_programas_instalables.md)
 	* [U2. HERRAMIENTAS ON-LINE](u2_herramientas_online.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
+-->
 
-<!--
-### Módulo 4: MANIPULACIÓN DE IMÁGENES | M4 MANIPULACIÓN DE IMÁGENES 
-* [Módulo 4: MANIPULACIÓN DE IMÁGENES](index3.md)
+### 4. MANIPULACIÓN DE IMÁGENES
+* [Manipulación de imágenes](index3.md)
 * [Contenidos](contenidos3.md)
 	* [U1. Empezando](u1_empezando.md)
 		* [1.1 Instalar los programas](11_instalar_los_programas.md)
@@ -54,7 +54,8 @@ ____
 		* [7.3 Fotomontajes on-line](73_fotomontajes_online.md)
 	* [U8. Propuestas para el aula](u8_propuestas_para_el_aula.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
-* [Créditos](crditos3.md)
+
+<!--
 ### Módulo 5: ANIMACIONES FLASH | M5 ANIMACIONES FLASH 
 * [Módulo 5: ANIMACIONES FLASH](index4.md)
 * [Contenidos](contenidos4.md)

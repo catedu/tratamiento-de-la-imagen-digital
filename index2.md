@@ -2,6 +2,8 @@
 
 Hasta las cámaras digitales compactas incluyen funciones básicas de **retoque fotográfico**. Sin embargo, nunca viene mal dar un repaso a las imágenes en el ordenador. **Con muy poco trabajo, es posible conseguir buenos resultados**. En este módulo vas a conocer diferentes aplicaciones de retoque de fotografías, y muchas de ellas son gratuitas.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/retoque.swf" width="715" height="536"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/retoque.swf"></object>
+
 Animación realizada por Julián Trullenque. Licencia CC by-nc
 
 Hay en la actualidad **muchos programas y aplicaciones** de retoque fotográfico. Recomendamos que te familiarices con una o con dos aplicaciones y que sea la que uses en tus trabajos. Por otra parte, decirte que a la hora de elegir tu aplicación favorita te vas a encontrar con dos tipos de aplicaciones:

@@ -24,10 +24,10 @@ _1.3 Proceso de instalación (Windows)_
     4.  Puedes personalizar las instalación, pero te recomiendo que sigas las instrucciones por defecto.
 
 
-![](img/instalagimp.jpg)
+![Imagen 4: captura de pantalla propia](img/instalagimp.jpg)
 
 
-Imagen 4: captura de pantalla propia
+
 
 **2\. Instalar otras aplicaciones**
 
@@ -38,10 +38,10 @@ Como ya hemos comentado anteriormente, vamos a basar todo nuestro trabajo en GIM
 *   Es potente, **fácil e intuitivo**.
 
 
-![](img/photofiltre.jpg)
+![Imagen 5: captura de pantalla propia](img/photofiltre.jpg)
 
 
-Imagen 5: captura de pantalla propia
+
 
 1.  **Descarga Photofiltre**:
 

@@ -8,5 +8,7 @@ En esta unidad te vamos los espacios de trabajo y disposición de botones de las
 
 ## Tutorial
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/gimp.swf" width="715" height="536"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/gimp.swf"></object>
+
 Presentación realizada por Julián Trullenque. Licencia by-nc
 

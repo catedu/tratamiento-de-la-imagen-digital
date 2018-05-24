@@ -7,60 +7,57 @@ El propósito de esta tarea es familiarizarse con el uso de un **editor para con
 1º **Abrimos** la imagen con el editor (ver Unidad 1 "manejo de archivos" en el apartado "abrir archivos").
 
 
- ![](img/exportar1.jpg)
+ ![Imagen20: Captura de pantalla propia](img/exportar1.jpg)
 
 
-Imagen20: Captura de pantalla propia
+
 
 2º Aparecerá el siguiente cuadro de dialogo. Hacemos clic en **"Seleccione el tipo de archivo (por extensión)"**.
 
 
- ![](img/exportar2.jpg)
+ ![Imagen 21: Captura de pantalla propia ](img/exportar2.jpg)
 
 
-Imagen 21: Captura de pantalla propia  
+ 
 
 3º **Elegimos JPEG**. Veremos que ya ha cambiado la extensión en el nombre de archivos.
 
 
- ![](img/exportar3.jpg)
-
-
-Imagen 22: Captura de pantalla propia  
+ ![Imagen 22: Captura de pantalla propia](img/exportar3.jpg)
 
 4º Hacemos clic en **Exportar**. Y aparece el cuadro de diálogo.
 
 
- ![](img/exportar_4.jpg)
+![Imagen 23: Captura de pantalla propia](img/exportar_4.jpg)
 
 
-Imagen 23: Captura de pantalla propia  
+  
 
 5º Hacemos clic en **Exportar**. Observa que se podrá poner más o menos calidad. 90% está bien.
 
 **Para convertir a GIF o PNG el procedimiento es el mismo, salvo que el cuadro que aparece en la imagen 19  (paso 4º) será distinto según se trate de uno u otro formato.**
 
 
- ![](img/otros_formatos.jpg)
+![Imagen 24: Captura de pantalla propia](img/otros_formatos.jpg)
 
 
-Imagen 24: Captura de pantalla propia  
+  
 
 ****2\. Guardar una imagen en otro formato usando Photofiltre****
 
 **En la siguiente presentación se muestra cómo se guarda un archivo en el formato que queremos. Hemos guardado en tres formatos diferentes para que se vean tres formatos diferentes.**
 
- 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/convertir.swf" width="715" height="577"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/convertir.swf"></object>
 
 **3\. Guardar una imagen en otro formato usando Pixlr**
 
 En [http://pixlr.com](http://pixlr.com/) el proceso es muy similar a Photofiltre. Archivo>Guardar y seleccionar la extensión. lo único es que el programa no permite todas las extensiones y formatos.
 
 
- ![](img/exportar_pxrl.jpg)
+![Imagen 25: Captura de pantalla propia](img/exportar_pxrl.jpg)
 
 
-Imagen 25: Captura de pantalla propia
+
 
 ## Tarea
 
@@ -69,7 +66,9 @@ Imagen 25: Captura de pantalla propia
 3.  Con el comando **Guardar**, la guardas en **tres formatos distintos**(jpg, gif y png).
 4.  A continuación abre el Explorador de Windows y mira el tamaño de las cuatro imágenes, observa cómo sus tamaños cambian, y observa cómo la calidad de JPG no tiene una pérdida considerable mientras que su tamaño sí que ha disminuido considerablemente.
 
-## ParaSaberMas
+## Para saber más
 
 Es posible convertir una imagen a otro formato a través de varios servicios 2.0 (convertfiles, zamzar...). Te presentamos [FisPicture](http://www.fixpicture.org/index.php?LANG=es) que en pocos pasos y rápidamente convierte uan imagen a flrmato que desees. Se admiten todos los formatos de imagen populares (jpeg, tiff, png, gif, bmp, tga, . **...**Más de 400 formatos aceptados. 
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/convertir2.swf" width="715" height="481"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/convertir2.swf"></object>
 

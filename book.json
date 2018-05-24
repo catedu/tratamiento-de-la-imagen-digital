@@ -2,8 +2,8 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "Julián Trullenque Anés",
-        "author": "Tratamiento de la imagen para la enseñanza",
+        "title": "Tratamiento de la imagen para la enseñanza",
+        "author": "Julián Trullenque Anés",
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]
