@@ -6,6 +6,8 @@ En los últimos años hemos asistido a un considerable auge de los espacios web 
 
 Por otra parte todos los trabajos digitales no se componen únicamente de textos para leer. Los humanos somos seres eminentemente visuales. La información es comprendida más fácilmente a través de imágenes, y si esas imágenes tienen movimiento, sonido e interactividad; todavía mejor.
 
+{% youtube %}https://youtu.be/xwF5HMB0shY{% endyoutube %}
+
 **Un ejemplo, este vídeo... dura 15 minunos pero merece la pena verlo.**
 
 Video 1: Fernando de Pablo. "Las cartas dibujadas"  
@@ -16,7 +18,7 @@ Video 1: Fernando de Pablo. "Las cartas dibujadas"
 
 En este curso vamos a trabajar con bastantes **servicios de [Google.es](https://www.google.es/)**: Picasa, Youtube, Drive... Compartir espacios y documentos entre usuarios que tienen una cuenta en Gmail es muy sencillo. Por lo tanto **te recomendamos que te crees una cuenta de correo en este servicio**, que te servirá para hacer prácticas de este curso y para muchas cosas más: subir vídeos, fotos... red social Google+, etc.
 
-*   En [este enlace de FACILYTIC](http://www.catedu.es/facilytic/2013/10/09/crea-una-cuenta-de-gmail/) tienes un tutorial donde César Martínez te explica cómo crear una cuenta en Gmail.
+*   En [este enlace de FACILYTIC](http://facilytic.catedu.es/2013/10/09/crea-una-cuenta-de-gmail/) tienes un tutorial donde César Martínez te explica cómo crear una cuenta en Gmail.
 *   Y en este otro [enlace del Infoxicados](http://maestros20.webnode.es/servicios-google/), tienes un listado y exposición de los **servicios más importantes que tiene ser usuario de Gmail**.
 *   Comunica al tutor si te has creado una cuenta en Gmail.
 

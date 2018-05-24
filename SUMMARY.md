@@ -3,7 +3,7 @@
 * [Introducción](README.md)
 
 ____
-### Módulo 1: CONSIDERACIONES PREVIAS | M1 CONSIDERACIONES PREVIAS 
+### 1. CONSIDERACIONES PREVIAS 
 * [Módulo 1: CONSIDERACIONES PREVIAS](index0.md)
 * [Contenidos](contenidos.md)
 	* [U1. LA IMAGEN DIGITAL](u1_la_imagen_digital.md)

@@ -28,7 +28,7 @@ Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
 ## ParaSaberMas
 
-Si quieres profundizar más, os dejamos un tutorial muy sencillo elaborado por Raúl Diego Obregón. Licencia CC by-nc-sa. [http://www.catedu.es/facilytic/wp-content/uploads/2013/10/Blogger_RDObregon.pdf](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/Blogger_RDObregon.pdf)
+Si quieres profundizar más, os dejamos un tutorial muy sencillo elaborado por Raúl Diego Obregón. Licencia CC by-nc-sa. [http://facilytic.catedu.es/wp-content/uploads/2013/10/Blogger_RDObregon.pdf](http://facilytic.catedu.es/wp-content/uploads/2013/10/Blogger_RDObregon.pdf)
 
 Y a través de [José Ramón Olalla](http://www.catedu.es/arablogs/blog.php?id_blog=1145) nos llega este vídeo (subtitulado)
 

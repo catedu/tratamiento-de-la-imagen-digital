@@ -26,11 +26,11 @@ Hoy en día publicar contenidos es muy fácil, ya que hay montones de recursos s
 
 *   [Arablogs](http://www.catedu.es/arablogs/) es un portal de blogs creados y desarrollados por el [CATEDU](http://www.catedu.es/webcatedu/). Esta iniciativa pretende incentivar y facilitar el uso de las TIC en la educación. Los blogs son fáciles de configurar y usar sin tener muchos conocimientos técnicos y también son fáciles de usar por parte de los alumnos. Destacan sobre otros servicios porque es una aplicación pensada única y exclusivamente para la enseñanza. Para tener disponible un blog, no hay más que solicitarlo al asesor TIC de referencia de tu CIFE. Es una buena forma de introducirse en el mundo de los blogs. Es muy similar a Blogger. 
     *   Ejemplo: [CEIP Valdespartera](http://www.catedu.es/arablogs/blog.php?id_blog=1600).
-    *   [Publicar en Arablogs](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/arablogs.pdf), por [José Ramón Olalla](http://www.catedu.es/arablogs/blog.php?id_blog=1145). Vía [FacilYTIC](http://www.catedu.es/facilytic).
+    *   [Publicar en Arablogs](http://facilytic.catedu.es/wp-content/uploads/2013/10/arablogs.pdf), por [José Ramón Olalla](http://www.catedu.es/arablogs/blog.php?id_blog=1145). Vía [FacilYTIC](http://facilytic.catedu.es).
 
 *   [Wordpress](http://es.wordpress.com/):  Esta es la aplicación para los blogs profesionales. Necesitas un dominio y un servicio de alojamiento donde instalar la aplicación. A cambio dispondrás de todas las funciones de wordpress, multitud de themes para personalizarlo y un control de la seguridad. La comunidad que está desarrollando continuamente mejoras en el código, plugins, widgets, etc.. es un gran valor por permitirte estar siempre actualizado con la más reciente versión. Es estable y ofrece gran seguridad para su uso profesional. También tiene un servicio gratuito en el que no necesitas dominio. Te recomendamos las dos anteriores. 
     *   Ejemplo: **Colegio Alquería de Granada**. [Blog del Tercer Ciclo](http://alqueriatercerciclo.wordpress.com/).
-    *   Tienes unos [tutoriales](http://www.catedu.es/facilytic/2013/04/11/manual-sencillo-de-wordpress-parte-1-2/) elaborados por **César Martínez** en [FacilyTIC](http://www.catedu.es/facilytic/).
+    *   Tienes unos [tutoriales](http://facilytic.catedu.es/2013/04/11/manual-sencillo-de-wordpress-parte-1-2/) elaborados por **César Martínez** en [FacilyTIC](http://facilytic.catedu.es/).
 
 **2\. Páginas web**
 
