@@ -8,51 +8,53 @@ El método más útil para quitar el lo que no nos gusta de una imagen es la he
 
 Vamos a ver cómo se hace.....
 
-**1\. En Gimp**
+### 1\. En Gimp
 
 1º **Abre** la imagen [carmelo.rar](carmelo.rar). En esta imagen, queremos quitar el excursionista que está en primer plano... ¿imposible?...
 
 
-![](img/carmelo.jpg)
+![Imagen 57: autor Julian Trullenque. Licencia CC by-nc](img/carmelo.jpg)
 
 
-Imagen 57: autor Julian Trullenque. Licencia CC by-nc
+
 
 2º Elegimos la herramienta clonar: 
 
 
-![](img/clonar.jpg)
+![Imagen 58: Captura de pantalla propia.](img/clonar.jpg)
 
 
-Imagen 58: Captura de pantalla propia.
+
 
 3º Con la combinación **Ctrl+botón derecho del ratón** iremos copiando zonas cercanas al excursionista para ir pintando encima de él. Mira el tutorial para ver cómo se hace.
 
-**2\. En Photofiltre**
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/clonar.swf" width="715" height="600"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/clonar.swf"></object>
+
+### 2\. En Photofiltre
 
 1º **Abre** la imagen [carmelo.rar](carmelo.rar). En esta imagen, queremos quitar el excursionista que está en primer plano... ¿imposible?...
 
 2º Elige la herramienta **Clon**. El proceso es el mismo que con GIMP (mira el tutorial). Hacemos **clic+tecla Ctrl **en una parte cercana a lo que queremos eliminar y, vamos pintando... Con poca práctica se hace bien.
 
 
-![](img/clon.jpg)
+![Imagen 59: Captura de pantalla propia.](img/clon.jpg)
 
 
-Imagen 59: Captura de pantalla propia.
 
-**3\. En**[http://pixlr.com/editor/](http://pixlr.com/editor/)
+
+### 3\. En [http://pixlr.com/editor/](http://pixlr.com/editor
 
  1º **Abre** la imagen [carmelo.rar](carmelo.rar). En esta imagen, queremos quitar el excursionista que está en primer plano... ¿imposible?...
 
 
-![](img/clon2.jpg)
+![Imagen 59: Captura de pantalla propia.](img/clon2.jpg)
 
 
-Imagen 59: Captura de pantalla propia.
+
 
 2º Elige la herramienta **Clon**. El proceso es el mismo que con GIMP (mira el tutorial). Hacemos **clic+tecla Ctrl **en una parte cercana a lo que queremos eliminar y, vamos pintando... Con poca práctica se hace bien.
 
-**2\. Corregir el defecto de ojos rojos**
+## 2\. Corregir el defecto de ojos rojos
 
 **Los ojos rojos son un efecto clásico en la fotografia con flash**. Esto es debido al reflejo del flash en el fondo de ojo, bastante irrigado por la sangre (de allí el color rojo).   
 Los dispositivos anti ojos rojos de las cámaras fotográfricas no siempre funcionan a la perfección. Felizmente, existen programas que nos permiten retocar estos defectos.
@@ -60,12 +62,12 @@ Los dispositivos anti ojos rojos de las cámaras fotográfricas no siempre funci
 Vamos a practicar con esta imagen: [ojos.rar](ojos.rar)
 
 
-![](img/ojos.jpg)
+![Imagen 60: autor Julián Trullenque. Licencia CC by-nc](img/ojos.jpg)
 
 
-Imagen 60: autor Julián Trullenque. Licencia CC by-nc
 
-**1\. Con Gimp**
+
+### 1\. Con Gimp
 
 1º **Abrir** la imagen en el programa.
 
@@ -74,16 +76,16 @@ Imagen 60: autor Julián Trullenque. Licencia CC by-nc
 3º Aparece este cuadro de diálogo. Normalmente con los parámetros que aparecen por defecto, el resultado ya es bueno, pero podemos ajustar con el manejador del umbral hasta que nos guste el resultado.
 
 
-![](img/ojos2.jpg)
+![Imagen 61: Captura de pantalla propia.](img/ojos2.jpg)
 
 
-Imagen 61: Captura de pantalla propia.
 
-**2\. Con Photofiltre**
+
+### 2\. Con Photofiltre
 
 No hay ninguna herramienta que haga esto automáticamente. lo mejor que podemos hacer es agrandar la pupila y pintarla con negro con mucho cuidado.
 
-**3\. Con** [http://pixlr.com/editor/](http://pixlr.com/editor/)
+### 3\. Con** [http://pixlr.com/editor/](http://pixlr.com/editor/)
 
 1º **Abrir** la imagen en el programa.
 
@@ -91,5 +93,5 @@ No hay ninguna herramienta que haga esto automáticamente. lo mejor que podemos 
 
 3º Hacer un clic en cada pupila y ya está.
 
- 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/ojos.swf" width="715" height="500"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/ojos.swf"></object>
 

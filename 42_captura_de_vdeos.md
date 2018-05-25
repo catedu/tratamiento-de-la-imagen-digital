@@ -20,5 +20,5 @@ En este apartado vamos a ver cómo insertar vídeo desde una videocámara y desd
 
 ## Importante
 
-**Cuando guardamos el archivo de proyecto, los objetos que hemos importado (vídeo...) no se guardan en el archivo de Movie Maker o VideoPad, sino que se guardan incrustados. Por lo tanto si llevamos los proyectos a otro equipo deberemos también llevar los archivos de vídeo, sonido o imagen que hayamos importado.**
+Cuando guardamos el archivo de proyecto, los objetos que hemos importado (vídeo...) no se guardan en el archivo de Movie Maker o VideoPad, sino que se guardan incrustados. Por lo tanto si llevamos los proyectos a otro equipo deberemos también llevar los archivos de vídeo, sonido o imagen que hayamos importado.
 

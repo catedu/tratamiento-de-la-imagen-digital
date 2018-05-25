@@ -8,15 +8,17 @@ Hemos visto una manera de descarga nuestros vídeos desde un utilidad instalable
 *   Esta aplicación es muy útil para aquellos usuarios que realicen descargas de vídeos puntuales y tiene la ventaja de ahorrarte una descarga más en tu ordenador, es decir, gastar menos recursos. El funcionamiento de Force Download es muy sencillo. Solo debes entrar en Youtube y encontrar el vídeo que quieras descargar. Una vez estés en la página, copia la URL, pégala en el campo pertinente de Force Download y haz clic en "Go". Una vez realizado este paso podrás **elegir en qué formato quieres descargar** el vídeo: MP3, MP4, AVI, MPEG, MOV, 3GP, FLV o WAV. 
 *   Lo peor de esta página es que hay mucha publicidad y a veces despista un poco. Si te registras en la página (no te lo recomiendo) el vídeo se descarga más rápido.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/forge.swf" width="715" height="528"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/forge.swf"></object>
+
 **2\. Zamzar**
 
 *   [Zamzar](http://www.zamzar.com/url/) es otra página que además de poder descargar vídeos d ela rd nos permite convertir archivos de otros formatos (pdf, doc,...) Es muy fácil e intuitivo y no es necesario registrarse. Le peor de que no hace ua descarga directa sino que te envía un enlace al correo electronico, con lo que hay que realizar un paso más. Pero es una buena alternativa.
 
 
-![](img/zamzar.jpg)
+![Imagen 15: Captura de pantalla propia](img/zamzar.jpg)
 
 
- Imagen 15: Captura de pantalla propia
+ 
 
 **3\. Keepvid**
 
@@ -27,3 +29,4 @@ Hemos visto una manera de descarga nuestros vídeos desde un utilidad instalable
 *   Existe una forma sencilla de bajar video de YouTube para aquellos que utilizan **Google Chrome** como navegador Web. 
 *   Lo único que hay que hacer es bajar la extensión [Chrome YouTube Downloader](http://www.chromeextensions.org/music-videos-photos/chrome-youtube-downloader-2/) e instalarla en el PC. Esta extensión insertará una barra de descarga en la página de YouTube que te permitirá fácilmente descargar tus videos favoritos.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/kepvid.swf" width="715" height="486"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/kepvid.swf"></object>

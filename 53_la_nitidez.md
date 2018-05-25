@@ -9,28 +9,28 @@ Si no se establece el foco perfectamente, o la cámara se mueve cuando se hace l
 1º Con la imagen que queremos enfocar en nuestro escritorio, abrimos el menú **Filtros>Realzar>Enfocar**.
 
 
-![](img/enfocar1.jpg)
+![Imagen 50: Captura de pantalla propia](img/enfocar1.jpg)
 
 
- Imagen 50: Captura de pantalla propia
+ 
 
 2º Aparecerá el siguiente **cuadro de diálogo**....
 
 
-![](img/enfocar2.jpg)
+![Imagen 51: Captura de pantalla propia](img/enfocar2.jpg)
 
 
- Imagen 51: Captura de pantalla propia
+ 
 
 3º En la barra agudeza, desplazamos el botón hasta que veamos la fotografía lo suficientemente enfocada.
 
 Otra herramienta para enfocar una imagen es la llamada "Máscara de desenfoque". Es más compleja que la anterior ya que se manejan más parámetros. Es más difícil de utilizar. **Filtros>Realzar>Máscara de desenfoque.**
 
 
-![](img/enfocar4.jpg)
+![Imagen 52: Captura de pantalla propia](img/enfocar4.jpg)
 
 
- Imagen 52: Captura de pantalla propia
+ 
 
 A menudo los valores predeterminados funcionan bastante bien, por lo que puedes probarlos primero. Incrementar tanto el radio como la cantidad incrementa la fuerza del efecto. No te dejes llevar: si haces la máscara de desenfoque demasiado fuerte, amplificará el ruido en la imagen y también aumentará los artefactos visibles en los bordes sólidos.
 
@@ -49,18 +49,18 @@ A menudo los valores predeterminados funcionan bastante bien, por lo que puedes 
 Clic en **Filtros>Enfocar**. Haciendo clic en este comando se enfoca automáticamente la imagen.
 
 
-![](img/enfocar5.jpg)
+![Imagen 54: Captura de pantalla propia](img/enfocar5.jpg)
 
 
- Imagen 54: Captura de pantalla propia
+ 
 
 También tenemos la opción **Filtros>Máscara de Enfoque**...
 
 
-![](img/mascara.jpg)
+![Imagen 55: Captura de pantalla propia](img/mascara.jpg)
 
 
-Imagen 55: Captura de pantalla propia
+
 
 A menudo los valores predeterminados funcionan bastante bien, por lo que puedes probarlos primero. Incrementar tanto el radio como la cantidad incrementa la fuerza del efecto. No te dejes llevar: si haces la máscara de desenfoque demasiado fuerte, amplificará el ruido en la imagen y también aumentará los artefactos visibles en los bordes sólidos.
 
@@ -71,38 +71,38 @@ De vez en cuando tenemos el problema opuesto: **una imagen es ****_demasiado_**
 **1\. En Gimp**
 
 
-![](img/enfocar6.jpg)
+![Imagen 56: Captura de pantalla propia](img/enfocar6.jpg)
 
 
- Imagen 56: Captura de pantalla propia
+ 
 
 **2\. En Photofiltre**
 
 Tenemos tres opciones: desenfocar, desenfocar más y suavizar. Se llega a través de **Filtro>Suavizar**.
 
 
-![](img/enfocar7.jpg)
+![Imagen 57: Captura de pantalla propia](img/enfocar7.jpg)
 
 
- Imagen 57: Captura de pantalla propia
+ 
 
 **3\. En** [http://pixlr.com/editor/](http://pixlr.com/editor/)
 
 Nos presenta tres opciones: desenfocar, desenfocar en cuadrado y desenfoque gausiano (estas tres últimas más difíciles de controlar). Se llega a través de **Filtros>Desenfocar**.
 
 
-![](img/enfocar8.jpg)
+![Imagen 58: Captura de pantalla propia](img/enfocar8.jpg)
 
 
- Imagen 58: Captura de pantalla propia
+ 
 
 **4\. Enfocar o desenfocar solamente una zona de la imagen**
 
 En algunas situaciones, puede obtener resultados útiles mediante el **enfoque selectivo de partes específicas** de una imagen usando la herramienta **desenfocar o enfocar** de la caja de herramientas, en el modo «enfocar». Esto le permite incrementar la nitidez en áreas pintando sobre ellas con algún pincel.
 
 
-![](img/enfoque.jpg)
+![Imagen 56: Captura de pantalla propia.](img/enfoque.jpg)
 
 
-Imagen 56: Captura de pantalla propia.
+
 

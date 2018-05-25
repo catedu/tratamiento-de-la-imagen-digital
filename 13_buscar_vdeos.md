@@ -38,36 +38,36 @@ Pero si quieres ver algo muy específico, lo mejor será ir directamente a la fu
 2º Una vez que escribimos un nombre en Youtube y le damos a buscar nos aparecerán los resultados arrojados organizados de la manera que Youtube considera más relevantes, sin tener en cuenta las visitas ni exactamente lo que hemos puesto en su buscador. Es aquí cuando **para buscar videos en Youtube específicos debemos hacer uso de los filtros**.
 
 
-![](img/youtube1.jpg)
+![Imagen 5: Captura de pantalla propia](img/youtube12.jpg)
 
 
- Imagen 5: Captura de pantalla propia
+ 
 
 3º Haciendo clic en la pestaña **Filtros** encontraremos las **distintas opciones disponibles**. Los filtros se dividen por **categorías**. Dentro de la categoría de "Fecha de subida" podemos determinar si queremos un vídeo que ha sido subido en la última hora, hoy, esta semana, este mes o este año.
 
 
-![](img/youtube2.jpg)
+![Imagen 6: Captura de pantalla propia](img/youtube23.jpg)
 
 
-Imagen 6: Captura de pantalla propia
+
 
 4º Posteriormente otra clasificación es la de "**Tipo de resultado**". Los tipos de resultados pueden darse por video individual, canal, lista de reproducción, película o programa.
 
 5º Es importante que sepas que puedes escoger más de un filtro para tu búsqueda, pero en ese caso, tienes que abrir la opción filtro cada vez que quieras modificarlo.
 
 
-![](img/youtube3.jpg)
+![Imagen 7: Captura de pantalla propia](img/youtube3.jpg)
 
 
-Imagen 7: Captura de pantalla propia
+
 
 6º Como veras **en la parte superior al lado de "****Filtros" ****indica cuales hemos escogido**. De allí mismo podemos eliminarlos si no nos dan los resultados esperados, igual que pasa con cualquier otro buscador de internet.
 
 
-![](img/youtube4.jpg)
+![Imagen 5: Captura de pantalla propia](img/youtube4.jpg)
 
 
-Imagen 5: Captura de pantalla propia
+
 
 7º Sin duda s**e trata de una herramienta muy interesante que si la aplicamos de manera correcta** nos llevará a los **resultados esperados**. Muchas veces los videos, al igual que sucede en Google, tardan en tener relevancia por lo que no aparecen en los primeros puestos de búsqueda.
 
@@ -84,10 +84,10 @@ Imagen 5: Captura de pantalla propia
 En Vimeo la búsqueda es similar, ofrece prácticamente las mismas opciones.
 
 
-![](img/vimeo.jpg)
+![Imagen 8: Captura de pantalla propia](img/vimeo1.jpg)
 
 
-Imagen 8: Captura de pantalla propia
+
 
 ## Importante
 

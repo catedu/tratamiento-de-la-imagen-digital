@@ -33,10 +33,10 @@ Para transformar nuestras cintas VHS en grabaciones digitales necesitamos un con
 *   [Convertidor Analógico Digital de Overtech](http://www.pcbox.com/promociones-especiales/018_20minutos_conversor/default.aspx?ch=0000020511000307051203120802127edfbe36301643c7816e4d64208a30a60#.UoeopvlWzTo). 
 
 
-![](img/overtech.jpg)
+![Imagen 2: Convertidor de vídeo digital. Captura de pantalla propia](img/overtech.jpg)
 
 
-Imagen 2: Convertidor de vídeo digital. Captura de pantalla propia
+
 
 El proceso en todos ellos es similar:
 
@@ -45,24 +45,26 @@ El proceso en todos ellos es similar:
 *   El conversor tiene 3 conectores RCA hembra (blanco, rojo y amarillo) y un conector S-video (negro y de mayor diámetro).
 
 
-![](img/euroconector.jpg)
+![Imagen 3: Autor Julián Trullenque. Licencia CC by-nc](img/euroconector.jpg)
 
 
-Imagen 3: Autor Julián Trullenque. Licencia CC by-nc
+
 
 *   Es frecuente encontrarnos con el problema de que nuestro videograbador no disponga de conector S-video y/o que tenga una entrada RCA hembra (incompatible). Existen dos sencillas soluciones:
     *   **Solución A**: Adquirir cables con conectores macho-macho.
     *   **Solución B**: Adquirir un adaptador para conectar el conversor a través del euroconector de nuestro videograbador. Al realizar esta compra hay que tener cuidado, ya que en el mercado existen adaptadores IN que permiten introducir información en el videograbador y adaptadores OUT, que permiten sacar información del videograbador. En nuestro caso necesitamos uno OUT, ya que lo que queremos es llevar las imágenes de la cinta VHS al conversor.
 
 
- ![](img/euroconector2.jpg)
+![ Imagen 4: Autor Julián Trullenque. Licencia CC by-nc](img/euroconector2.jpg)
 
 
- Imagen 4: Autor Julián Trullenque. Licencia CC by-nc
+
 
 **Paso 2: Conectar puertos USB**
 
 *   Conectar el extremo USB del convertidor al puerto USB del ordenador. Es recomendable disponer de un puerto USB 2.0
+
+{% youtube %}https://youtu.be/8JPwlGOarYE{% endyoutube %}
 
 **Paso 3: Instalar software**
 

@@ -2,7 +2,7 @@
 
 Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://es.wikipedia.org/wiki/Fotomontaje); a través del uso de capas que se superponen unas encima de otras ordenando lo que podemos ver en nuestro fotomontaje. Para realizar un fotomontaje necesitamos al menos 2 capas, una con el fondo de la imagen y otra con la imagen principal. En este tutorial intentaré mostrarle una manera sencilla pero efectiva de recortar una imagen y añadirla a otra.
 
-**1\. Hacer un fotomontaje con GIMP**
+### 1\. Hacer un fotomontaje con GIMP
 
 1º **Descargar** el archivo [**fotomontajes.rar**](http://aularagon.catedu.es/materialesaularagon2013/imagen/fotomontajes.rar). Descomprimir en una carpeta los tres archivos: **paisaje.jpg, ronal.jpg y paco.jpg**.
 
@@ -12,35 +12,31 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
 
 
 1.  Ampliamos con la herramienta **lupa** la imagen. para tener más precisión. ![](img/lupa.jpg)
-
-
 2.  Con la herramienta **lazo** iremos recortando la figura. Lo podemos hacer de dos maneras: ![](img/lazo.jpg)
-
-
-*   *   Pulsando con el botón izquierdo y arrastrando el ratón por la silueta del jugador.
+    *   Pulsando con el botón izquierdo y arrastrando el ratón por la silueta del jugador.
     *   Haciendo clic en varios lugares de la imagen y uniendo uno tras otro los puntos.
 
- 
+    <object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/recortaimagen.swf" width="715" height="600"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/recortaimagen.swf"></object>
 
 4º Pulso la tecla Mayús+ratón para agrupar los dos objetos.
 
 5º Una vez que hemos seleccionado la silueta entera, hacemos clic en **Editar>Copiar**. Copiará la imagen seleccionada en el Portapapeles (memoria).
 
 
-![](img/capas23.jpg)
+![Imagen 98: Captura de pantalla propia.](img/capas23.jpg)
 
 
- Imagen 98: Captura de pantalla propia.
+ 
 
 6º Vamos a la la imagen **calle.jpg** y creamos capa nueva. Clic en **Capa>Capa nueva**. Que sea del mismo tamaño que la capa calle y a la vez transparente.
 
 7º Pegamos la imagen del portapapeles con clic en **Editar>Pegar**. Y ya está la primera parte el montaje.
 
 
-![](img/capas24.jpg)
+![Imagen 99: Captura de pantalla propia.](img/capas24.jpg)
 
 
- Imagen 99: Captura de pantalla propia.
+ 
 
 8º **Ajustamos el tamaño y posición** del jugador en la calle, y ya podemos guardar el archivo.
 
@@ -59,25 +55,25 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
 5.  Pegamos la silueta de la cabeza, la posicionamos y colocamos en el lugar que queremos.
 6.  Guardamos la imagen resultante.
 
-**2\. Hacer un fotomontaje con Photofiltre**
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/dmostracion.swf" width="715" height="679"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/dmostracion.swf"></object>
+
+### 2\. Hacer un fotomontaje con Photofiltre
 
 1º **Descargar** el archivo [**fotomontajes.rar**](http://aularagon.catedu.es/materialesaularagon2013/imagen/fotomontajes.rar). Descomprimir en una carpeta los tres archivos: **paisaje.jpg, ronal.jpg y paco.jpg**.
 
 2º Ejecutar el editor y abrir el archivo **calle.jpg** que será la capa de fondo.
 
 3º Abrir en otra ventana **ronal.jpg**. Esta imagen es la que vamos a modificar, recortando la silueta del jugador de fútbol para luego pegarla en la capa fondo.
-
-1.  1.  Ampliamos con la herramienta **lupa** la imagen. para tener más precisión. 
-    2.  Con herramientas de recorte podemos hacer dos cosas diferentes: 
-    
-    *   *   Con la herramienta **lazo** arrastrando el ratón por la silueta del jugador.
+    *  Ampliamos con la herramienta **lupa** la imagen. para tener más precisión. 
+    *  Con herramientas de recorte podemos hacer dos cosas diferentes: 
+        *   Con la herramienta **lazo** arrastrando el ratón por la silueta del jugador.
         *   Con la herramienta polígono haciendo clic en varios lugares de la imagen y uniendo uno tras otro los puntos.
 
 
-![](img/capas25.jpg)
+![Imagen 100: Captura de pantalla propia.](img/capas25.jpg)
 
 
- Imagen 100: Captura de pantalla propia.
+ 
 
 4º Pulso la tecla Mayús+ratón para agrupar los dos objetos (jugador y balón).
 
@@ -86,10 +82,10 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
 6º Pegamos la imagen del portapapeles con clic en **Editar>Pegar**. Y ya está la primera parte el montaje. El programa creará una nueva capa con la imagen pegada.
 
 
-![](img/capas26.jpg)
+![Imagen 101: Captura de pantalla propia.](img/capas26.jpg)
 
 
- Imagen 101: Captura de pantalla propia.
+ 
 
 7º **Ajustamos el tamaño y posición** del jugador en la calle, y ya podemos guardar el archivo.
 
@@ -101,42 +97,32 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
     4.  Pegamos la silueta de la cabeza, la redimensionamos y colocamos en el lugar que queremos.
     5.  Guardamos la imagen resultante.
 
- 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/demos2.swf" width="715" height="600"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/demos2.swf"></object>
 
-**3\. Hacer un fotomontaje con PIXLR**
+### 3\. Hacer un fotomontaje con PIXLR
 
 1º **Descargar** el archivo [**fotomontajes.rar**](http://aularagon.catedu.es/materialesaularagon2013/imagen/fotomontajes.rar). Descomprimir en una carpeta los tres archivos: **paisaje.jpg, ronal.jpg y paco.jpg**.
 
 2º Ejecutar el editor y abrir el archivo **calle.jpg** que será la capa de fondo.
 
 3º Abrir en otra ventana **ronal.jpg**. Esta imagen es la que vamos a modificar, recortando la silueta del jugador de fútbol para luego pegarla en la capa fondo.
+    * Ampliamos con la herramienta **lupa** la imagen. para tener más precisión. ![](img/lupa3.jpg)
+    * Con herramientas de lazo recortamos la silueta arrastrando el ratón.![](img/lazo4.jpg)
+        * También podemos elegir la herramienta polígono y hacerlo punto a punto. ![](img/poli.jpg)
+
+![Imagen 102: Captura de pantalla propia.](img/capas27.jpg)
 
 
-1.  1.  Ampliamos con la herramienta **lupa** la imagen. para tener más precisión. ![](img/lupa3.jpg)
-
-
-    2.  Con herramientas de lazo recortamos la silueta arrastrando el ratón.![](img/lazo4.jpg)
-
-    
-
-    *   *   También podemos elegir la herramienta polígono y hacerlo punto a punto. ![](img/poli.jpg)
-
-
-
- ![](img/capas27.jpg)
-
-
- Imagen 102: Captura de pantalla propia.
+ 
 
 5º Una vez que hemos seleccionado la silueta entera, hacemos clic en **Editar>Copiar**. Copiará la imagen seleccionada en el Portapapeles (memoria).
 
 6º Pegamos la imagen del portapapeles con clic en **Editar>Pegar**. Y ya está la primera parte el montaje. El programa creará una nueva capa con la imagen pegada.
 
+![Imagen 103: Captura de pantalla propia.](img/capas28.jpg)
 
- ![](img/capas28.jpg)
 
-
-  Imagen 103: Captura de pantalla propia.
+  
 
 7º **Ajustamos el tamaño y posición** del jugador en la calle, y ya podemos guardar el archivo.
 
@@ -148,3 +134,4 @@ Uno de los principales atractivos es que se pueden hacer [fotomontajes](http://e
     4.  Pegamos la silueta de la cabeza, la redimensionamos y colocamos en el lugar que queremos.
     5.  Guardamos la imagen resultante.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/demos3.swf" width="715" height="600"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/demos3.swf"></object>

@@ -13,10 +13,10 @@ Todos estos modos están **indicados para** imágenes cuyo destino sea una **pan
 Todas las aplicaciones trabajan en modo RGB, si pasamos de este modo a grises o indexado luego no se podrá recuperar la información de la imagen adicional. Pasar de RGB a los otros no es problema. Al contrario sí. Un ejemplo para que veas los niveles de color.
 
 
-![](img/niveles_de_color.jpg)
+![Imagen 40: autor Julián Trullenque. Licencia CC by-nc](img/niveles_de_color.jpg)
 
 
- Imagen 40: autor Julián Trullenque. Licencia CC by-nc
+ 
 
 **2\. Imagen a blanco y negro (escala de grises)**
 
@@ -25,46 +25,48 @@ Todas las aplicaciones trabajan en modo RGB, si pasamos de este modo a grises o 
 1º Tenemos abierta la imagen que queremos convertir a 256 niveles de gris. Hacemos clic en el menú Colores>Componentes.
 
 
-![](img/byn_gimp.jpg)
+![Imagen 41: Captura de pantalla propia](img/byn_gimp.jpg)
 
 
- Imagen 41: Captura de pantalla propia
+ 
 
 2º Se nos abrirá el cuadro de diálogo **Mezclador de Canales**. Para mejorar la imagen que va a ser convertida a escala de grises podemos utilizar algunas herramientas antes de hacer el cambio En el cuadro de diálogo que se nos muestra marcamos **la casilla de verificación Monocromo**. Posteriormente modificamos los canales (rojo, verde y azul) hasta obtener la imagen que deseemos. Finalizamos haciendo clic en aceptar.
 
 
-![](img/mezclador.jpg)
+![Imagen 42: Captura de pantalla propia](img/mezclador.jpg)
 
 
- Imagen 42: Captura de pantalla propia
+ 
 
 **2\. en PHOTOFILTRE**
 
 Es más fácil.... con la imagen abierta solo hay que elegir el botón blanco y negro en el menú de atajos (arriba en el centro).
 
 
-![](img/byn_ph.jpg)
+![Imagen 43: Captura de pantalla propia](img/byn_ph.jpg)
 
 
- Imagen 43: Captura de pantalla propia
+ 
 
 **3\. En** [http://pixlr.com/editor/](http://pixlr.com/editor/)
 
 1º Con la imagen abierta hacemos clic en **Ajustes>Búsqueda** de color. Hacemos clic en el primer cuadrado para blanco y negro. Observa la siguiente presentación:
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/byn.swf" width="644" height="536"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/byn.swf"></object>
+
 ## Para saber más
 
 **Jugando** con estos programas de edición, **cambiando y combinando** los ajustes se pueden conseguir **resultados muy atractivos** visualmente. Mira esta presentación y luego inténtalo tú. Una buena tarea para tus clases de plástica.
 
- 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/jugando.swf" width="715" height="514"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/jugando.swf"></object>
 
 **3\. Balance de colores**
 
 
-![](img/balance.jpg)
+![Imagen 44: Captura de pantalla propia](img/balance.jpg)
 
 
- Imagen 44: Captura de pantalla propia
+ 
 
 **En GIMP**: Cuando elegimos esta opción aparece el **cuadro de diálogo de la derecha**, en el que podemos modificar los colores “luz” (rojo, verde y azul) y los colores “tinta” (cian, magenta y amarillo), en función de lo elegido en Seleccione el rango para ajustar. Seleccionando una de las opciones restringirá el rango de colores que serán modificados con los deslizadores y con los botones Sombras, Tonos medios y Puntos de luz.
 
@@ -76,6 +78,8 @@ A continuación te presentamos una presentación hecha con Photofiltre donde se 
 
 En [http://pixlr.com/editor/](http://pixlr.com/editor/) se hace con **Ajustes>Color Balance.**
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/balance.swf" width="715" height="713"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/balance.swf"></object>
+
 **4\. Tono y saturación**
 
 Uno de los problemas más frecuentes, que nos solemos encontrar en nuestras fotografías digitales, es que a la hora de verlas, el color vimos a la hora de realizar la imagen, no se corresponde con lo que vemos en el monitor de nuestro ordenador, si no es problema del monitor, se puede solucionar en la mayoría de las ocasiones, con estas herramientas:
@@ -86,20 +90,20 @@ Uno de los problemas más frecuentes, que nos solemos encontrar en nuestras foto
     
 
 
-![](img/tono.jpg)
+![Imagen 45: Captura de pantalla propia](img/tono.jpg)
 
 
- Imagen 45: Captura de pantalla propia
+ 
 
 **5\. Colorear**
 
 La herramienta **Colorear** hace lo que su nombre indica, colorear la imagen con 256 niveles de color, permitiéndonos elegir el color que queremos aplicar sobre la imagen. La herramienta colorear convierte la capa activa o selección en una imagen en escala de grises vista a través de un cristal coloreado.
 
 
-![](img/colorear.jpg)
+![Imagen 46: autor Julián Trullenque. Licencia by-nc](img/colorear.jpg)
 
 
- Imagen 46: autor Julián Trullenque. Licencia by-nc
+ 
 
 Se accede desde el menú **Herramientas --> Herramientas de color --> Colorear**.
 
@@ -112,22 +116,24 @@ Sirve para **reducir los colores de una imagen a dos: blanco y negro**. La herr
 1º **Abre la imagen**. Hacer clic en Colores>Umbral.
 
 
-![](img/umbral1.jpg)
+![Imagen 47: Captura de pantalla propia](img/umbral1.jpg)
 
 
- Imagen 47: Captura de pantalla propia
+ 
 
 2º Aparece el cuadro de diálogo **Umbral B/N.** Podemos cambiar los valores a nuestro gusto, hasta que nos convenza el resultado. Hacemos clic en Aceptar. Observa la siguiente animación.
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/umbral.swf" width="677" height="549"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/umbral.swf"></object>
 
 **2\. En Photofiltre**
 
 Se llega a través de **Ajustar>Dos Tonos**. El cuadro de diálogo es más sencillo.
 
 
-![](img/umbral2.jpg)
+![Imagen 48: Captura de pantalla propia](img/umbral2.jpg)
 
 
- Imagen 48: Captura de pantalla propia
+ 
 
 **3\. En **[http://pixlr.com/editor/](http://pixlr.com/editor/) 
 

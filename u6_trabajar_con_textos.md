@@ -8,7 +8,7 @@ Hay muchas cosas que se pueden hacer para variar la apariencia de un texto, adem
 *   El alumno debe conocer el uso de las herramientas básicas (copiar, pegar, eliminar, recortar ...).
 *   El alumno debe conocer los aspectos antes mencionado de la optimización y mejora de imagen.
 
-**1\. Los textos**
+### 1\. Los textos
 
 **Los textos son algo básico en el tratamiento de imágenes por ordenador** y GIMP nos proporciona herramientas útiles para su uso. Los podemos generar con:
 
@@ -19,61 +19,57 @@ Hay muchas cosas que se pueden hacer para variar la apariencia de un texto, adem
 
 Vamos a ver cómo **crear un texto artístico con Gimp y Photofiltre.**
 
-**2\. Crear un texto con GIMP**
+### 2\. Crear un texto con GIMP
 
 1º Desde la ventana principal de GIMP selecciona **Archivo > Nuevo**.
 
 
- ![](img/texto1.jpg)
+![Imagen 71: Captura de pantalla propia](img/texto1.jpg)
 
 
-Imagen 71: Captura de pantalla propia
+
 
 2º En el cuadro de diálogo **Crear una imagen nueva** introduce las dimensiones, por ejemplo, **640** y **80** en las casillas **Anchura** y **Altura **respectivamente.
 
 
- ![](img/texto2.jpg)
+![Imagen 72: Captura de pantalla propia](img/texto23.jpg)
 
 
-Imagen 72: Captura de pantalla propia
+
 
 3º Haz clic sobre la herramienta **Texto** en el cuadro de herramientas. 
 
 
- ![](img/texto3.jpg)
+![Imagen 73: Captura de pantalla propia](img/texto3.jpg)
 
 
-Imagen 73: Captura de pantalla propia
+
 
 4º En el panel de **Opciones de herramienta** elige como tipo de fuente **Arial Black** y como tamaño **80 puntos**. Clic sobre la casilla **Color** de las opciones de herramienta. Elegir el color deseado. Hacer clic en **Aceptar**.
-
- 
-
- Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
 5º Aparecerá un pequeño **editor de texto**. Escribe "AULARAGÓN" por ejemplo. Para terminar pulsa el botón **Cerrar**.
 
 
-![](img/texto4.jpg)
+![Imagen 74: Captura de pantalla propia](img/texto4.jpg)
 
 
-Imagen 74: Captura de pantalla propia
+
 
 6º En el cuadro de herramientas de GIMP elige la herramienta **Mover capas y selecciones**.
 
 
-![](img/texto5.jpg)
+![Imagen 75: Captura de pantalla propia](img/texto5.jpg)
 
 
-Imagen 75: Captura de pantalla propia
+
 
 7º Con esa herramienta coloca el título en el centro del documento.
 
 
-![](img/texto6.jpg)
+![Imagen 76: Captura de pantalla propia](img/texto6.jpg)
 
 
-Imagen 76: Captura de pantalla propia
+
 
 8º Para aplicar un efecto especial al texto selecciona por ejemplo: **Filtros>Alfa a logotipo>Contorno 3D**.
 
@@ -82,72 +78,74 @@ Imagen 76: Captura de pantalla propia
 10º Al cabo de unos instantes se ha creado un atractivo rótulo.
 
 
-![](img/logo1.jpg)
+![Imagen 77: autor Julián Trullenque. Licencia CC by-nc](img/logo1.jpg)
 
 
-Imagen 77: autor Julián Trullenque. Licencia CC by-nc
+
 
 11º Para deshacer la aplicación de este efecto, en la ventana de la imagen elige **Editar>Deshacer**.
 
 12º Repite los pasos 8º-11º para probar otros efectos especiales sobre el texto. A continuación se proponen algunos.
 
 
-![](img/texto7.jpg)
+![Imagen 78: autor Julián Trullenque. Licencia CC by-nc](img/texto7.jpg)
 
 
-Imagen 78: autor Julián Trullenque. Licencia CC by-nc
 
-**2\. Crear un texto con PHOTOFILTRE**
+
+### 2\. Crear un texto con PHOTOFILTRE
 
 1º Desde la ventana principal de Photofiltre selecciona **Archivo > Nuevo**.
 
 
- ![](img/textof1.jpg)
+![Imagen 79: Captura de pantalla propia](img/textof1.jpg)
 
 
-Imagen 79: Captura de pantalla propia
+
 
 2º En el cuadro de diálogo **Nuevo** introduce las dimensiones, por ejemplo, **640** y **80** en las casillas **Anchura** y **Altura **respectivamente.
 
 
- ![](img/textof2.jpg)
+![Imagen 80: Captura de pantalla propia](img/textof2.jpg)
 
 
-Imagen 80: Captura de pantalla propia
+
 
 3º Haz clic sobre la herramienta **Texto** en el cuadro de herramientas. 
 
 
- ![](img/textof3.jpg)
+![Imagen 81: Captura de pantalla propia](img/textof3.jpg)
 
 
-Imagen 81: Captura de pantalla propia
+
 
 4º En el cuadro de diálogo **Texto** elige como tipo de fuente **Arial Black** y como tamaño **40 puntos**. Clic sobre la casilla **Color** de las opciones de herramienta. Elegir el color deseado. Hacer clic en **Aceptar**.
 
 
- ![](img/textof4.jpg)
+![Imagen 82: Captura de pantalla propia](img/textof4.jpg)
 
 
-Imagen 82: Captura de pantalla propia
+
 
 5º El **texto resultante** será cómo el que aparece en la siguiente imagen.
 
 
-![](img/textof5.jpg)
+![Imagen 83: autor Julián Trullenque. Licencia by-nc](img/textof5.jpg)
 
 
-Imagen 83: autor Julián Trullenque. Licencia by-nc
+
 
 6º Ahora en esta presentación te mostraremos como hacer un **título más adornado**.
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/texto.swf" width="715" height="597"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/texto.swf"></object>
 
 7º Otro ejemplo de títulos que se pueden hacer.
 
 
-![](img/textof6.jpg)
+![Imagen 84: autor Julián Trullenque. Licencia CC by-nc](img/textof6.jpg)
 
 
-Imagen 84: autor Julián Trullenque. Licencia CC by-nc  
+
 
 ## Para saber más
 
@@ -155,15 +153,19 @@ Imagen 84: autor Julián Trullenque. Licencia CC by-nc
 
 ****[Xara 3D Online](http://www.starchat1.cl/xara/Xara.htm): ****Hasta 30 caracteres. Lo puedes encontrar en diversas páginas insertado como un gadget en formato online y libre. 
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/texto.swf" width="715" height="597"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/texto.swf"></object>
+
 [**Cool Text**](http://cooltext.com/): 41 estilos, 20 diseños de botones Sombra o sin sombre. Y guardarlo en multitud de formatos, con o sin transparencia. Puedes guardarlo mediante el botón derecho del ratón o descargando la imagen. Excelente herramienta.
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/coltex.swf" width="715" height="367"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/coltex.swf"></object>
 
 [**GraffitiCreator**](http://www.graffiticreator.net/): Crea tus graffitis a partir de numerosas posibilidades de cambiar colores, estilos, tamaño, rotación, etc. El único inconveniente es que al ser una aplicación flash no permite guardar la imagen creada con el botón derecho del ratón y hay que realizar una captura de pantalla.
 
 [**Myspace Text Generator**](http://www.glitter-graphics.com/myspace/text_generator.php): Otra opción más de generar texto animado y con una funcionalidad para blogs, webs, etc. Además permite descargar el código para ser insertado en un blog o una web y si se desea como imagen hay que proceder a realizar una captura de pantalla.
 
 
-![](img/textow.jpg)
+![Imagen  85: Captura de pantalla propia](img/textow.jpg)
 
 
-Imagen  85: Captura de pantalla propia 
+
 

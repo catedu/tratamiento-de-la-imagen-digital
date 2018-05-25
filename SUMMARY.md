@@ -29,7 +29,7 @@ ____
 	* [U1. PROGRAMAS INSTALABLES](u1_programas_instalables.md)
 	* [U2. HERRAMIENTAS ON-LINE](u2_herramientas_online.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
--->
+
 
 ### 4. MANIPULACIÓN DE IMÁGENES
 * [Manipulación de imágenes](index3.md)
@@ -54,24 +54,11 @@ ____
 		* [7.3 Fotomontajes on-line](73_fotomontajes_online.md)
 	* [U8. Propuestas para el aula](u8_propuestas_para_el_aula.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
+-->
 
-<!--
-### Módulo 5: ANIMACIONES FLASH | M5 ANIMACIONES FLASH 
-* [Módulo 5: ANIMACIONES FLASH](index4.md)
-* [Contenidos](contenidos4.md)
-	* [U1. OBJETOS FLASH](u1_objetos_flash.md)
-	* [U2. BÚSQUEDA DE FLASH](u2_bsqueda_de_flash.md)
-	* [U3. DESCARGA DE FLASH](u3_descarga_de_flash.md)
-	* [U4. VECTORIAN GIOTTO](u4_vectorian_giotto.md)
-		* [4.1 Dibujar objetos](41_dibujar_objetos.md)
-		* [4.2 Crear animaciones](42_crear_animaciones.md)
-		* [4.3 Exportar animaciones](43_exportar_animaciones.md)
-	* [U5. FLAX](u5_flax.md)
-	* [U6. VISUALIZAR OBJETOS SWF](u6_visualizar_objetos_swf.md)
-* [Ampliación de contenidos](ampliacin_de_contenidos4.md)
-* [Créditos](crditos4.md)
-### Modulo 6: EDICIÓN DE VÍDEO | M6 EDICIÓN DE VÍDEO 
-* [Modulo 6: EDICIÓN DE VÍDEO](index5.md)
+
+### 5. EDICIÓN DE VÍDEO 
+* [EDICIÓN DE VÍDEO](index5.md)
 * [Contenidos](contenidos5.md)
 	* [U1. CONCEPTOS BÁSICOS DE VÍDEO](u1_conceptos_bsicos_de_vdeo.md)
 		* [1.1 Reproducir vídeos](11_reproducir_vdeos.md)
@@ -98,7 +85,8 @@ ____
 	* [U7. GRABACIÓN DE UNA EXPLICACIÓN](u7_grabacin_de_una_explicacin.md)
 	* [U8. PROPUESTAS DIDÁCTICAS](u8_propuestas_didcticas.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
-* [Créditos](crditos5.md)
+
+<!--
 ### Módulo 7: PUBLICACIÓN DE IMÁGENES DIGITALES | M7 PUBLICACIÓN DE IMÁGENES DIGITALES 
 * [Módulo 7: PUBLICACIÓN DE IMÁGENES DIGITALES](index6.md)
 * [Contenidos](contenidos6.md)

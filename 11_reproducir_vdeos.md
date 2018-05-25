@@ -34,10 +34,10 @@ VLC Media Player es una aplicación local para reproducir archivos multimedia de
 *   Haciendo doble Clic en el vídeo o a través de **Media>Open File (Ctrl+O)**
 
 
-![](img/bruce.jpg)
+![Imagen 1: Captura de pantalla propia ](img/bruce.jpg)
 
 
-Imagen 1: Captura de pantalla propia 
+
 
 **2\. Instalar codecs de vídeo en tu ordenador.**
 

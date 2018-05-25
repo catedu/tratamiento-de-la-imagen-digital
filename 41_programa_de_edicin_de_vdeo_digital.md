@@ -4,47 +4,51 @@
 
 Para la realización de esta unidad deberás elegir uno de los dos programas: **VideoPad o Windows Movie Maker versión 2012**.
 
-**1\. Descargar e instalar el programa**
+## 1\. Descargar e instalar el programa
 
-**1\. VideoPad**
+### 1\. VideoPad
 
 1.  **Página para descargar** el programa: [http://www.nchsoftware.com/videopad/es/](http://www.nchsoftware.com/videopad/es/)
 2.  Hacer clic en el botón **Descargar Ahora**. Se iniciará la descarga del programa.
 3.  Hacer doble clic en el archivo **vppsetup.exe**.
 4.  Seguir las **instrucciones** de pantalla.
 
-**2\. Movie Maker 2.6**
+### 2\. Movie Maker 2.6
 
 1.  **Página para descargar** el programa: [AQUI SE DESCARGA](http://aularagon.catedu.es/materialesaularagon2013/imagen/MM26_ES.msi)
 2.  Hacer doble clic en el archivo **MM26_ES.exe**.
 3.  Seguir las instrucciones de pantalla.
 
-**3\. Movie Maker 2012**
+#### 3\. Movie Maker 2012
 
 1.  [Página para descargar el programa.](https://drive.google.com/file/d/0B2mpc3UcRXsTYnduZ3RVV3Z6WW8/view?usp=sharing)
 2.  Hacer clic en el botón "**Descárgalo ahora**". Se iniciará la descarga del programa.
 3.  Hacer doble clic en el archivo **vppsetup.exe**.
 4.  Seguir las **instrucciones** de pantalla.
 
-**2\. Videopad**
+## 2\. Videopad
 
 **VideoPad es un editor de vídeo** que pretende, sin ser un profesional, facilitar la tarea de edición. Desde su interfaz puedes soltar tus vídeos sobre el proyecto, arrastrar el vídeo en tu línea de tiempo y ajustar los puntos in y out a través del intuitivo drag & drop. También permite capturar vídeo directamente desde una videocámara DV o una Web Cam.
 
 Videopad **trabaja con muchos formatos** de vídeo, imagen y sonido y **permite exportar los resultados** a DVD, almacenar en archivos de ordenador, subir los resultados a redes sociales y es compatible con los dispositivos iPod, iPhone y PSP y teléfonos móviles.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/videopad.swf" width="715" height="530"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/videopad.swf"></object>
+
 Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
-**3\. Windows Live Movie Maker 2012**
+## 3\. Windows Live Movie Maker 2012
 
 **Windows Live Movie Maker** es un **editor de vídeo** destinado a crear presentaciones multimedia juntando imágenes, audio, vídeo y efectos especiales en una serie de pasos no muy complicados. Esta **aplicación gratuita** está integrada en el paquete de **Windows Live Essentials**, por lo tanto asegúrate de desactivar el resto de sus componentes antes de instalar el programa.
 
 Además es bastante **fácil de manejar y no se necesitan conocimientos técnicos para su uso**. Sólo necesitas importar el contenido audiovisual desde el disco duro de tu ordenador o de un USB y colocarlo donde prefieras en la escala de tiempo. Una vez hayas hecho eso, es momento de explorar todas las herramientas que te ofrece este programa en el "Panel de control".
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/movimaker.swf" width="715" height="520"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/movimaker.swf"></object>
+
 Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
 ## Para saber más
 
-**4\. Editores de vídeo On-line**
+### 4\. Editores de vídeo On-line
 
 Hay usuarios que prefieren usar las aplicaciones online para editar sus vídeos, sin tener que descargar o instalarlas algo. Las aplicaciones web te ofrecen cierta flexibilidad de uso: las puedes usar en cualquier lugar siempre cuando tienes conexión al Internet; te ahorran espacio en tu disco duro - ya no tienes que guardar un montón de archivos en el ordenador; no tienes que estar preocupado por las características técnicas de tu ordenador o dispositivo; son análogos muy buenos para las aplicaciones off-line, ya que te ofrecen una variedad de funciones muy amplia. Bueno, aquí te presento algunas aplicación en linea para editar los vídeos:
 

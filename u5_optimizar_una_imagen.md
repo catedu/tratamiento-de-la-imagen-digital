@@ -7,10 +7,10 @@ En casi todos los recursos digitales utilizaremos **imágenes para decorar o com
 Sin embargo, **no siempre las utilizamos correctamente**, bien por desconocimiento, por descuido (y falta de tiempo) o por no tener la base de conocimiento necesaria para utilizarlas correctamente. En esta unidad veremos una guía para **optimizar imágenes en nuestros trabajos de una forma efectiva**, con un buen equilibrio entre calidad de imagen y tamaño de imagen.
 
 
-![](img/dec.jpg)
+![Imagen 37: autor Julián Trullenque. Licencia CC by-nc](img/dec.jpg)
 
 
-Imagen 37: autor Julián Trullenque. Licencia CC by-nc
+
 
 Cuando descargamos **nuestras fotos** de la cámara **nunca suelen estar a nuestro gusto**. Casi siempre es necesario hacer unos retoques para **mejorar la imagen**. O aunque esté bien realizada, podemos hacer esos retoques para mejorarla. En esta unidad aprenderemos a modificar los siguientes parámetros:
 

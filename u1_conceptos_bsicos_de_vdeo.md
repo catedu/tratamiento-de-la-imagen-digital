@@ -1,11 +1,13 @@
 # U1. CONCEPTOS BÁSICOS DE VÍDEO
 
+{% youtube %}https://youtu.be/QUQJKysGU6U{% endyoutube %}
+
 Vídeo subido a Youtube por [Weblogs SL](http://www.weblogssl.com/)
 
 **BIENVENIDO a este apasionante mundo del video digital**. No es por desanimar, pero ten en cuenta que trabajar con vídeo en el ordenador es bastante complejo. A la hora de "capturar" con nuestro vídeo doméstico, sólo tenemos que elegir el canal, darle al "Rec" y listo, pero cuando se trata de capturar, comprimir o exportar vídeo en el ordenador la cosa no es tan sencilla. Deberemos configurar numerosos parámetros para capturar, editar, exportar y, llegado el caso, realizar un DVD o publicarlo en Internet y, lo peor es que, no sólo hay infinidad de opciones dentro de cada uno de esos parámetros, sino que hay sutiles diferencias que pueden volverte loco.  
 Esta unidad pretende ser una **guía de referencia de los términos más comúnmente usados a la hora de trabajar con vídeo digital.** Sin saber qué significan es bastante complicado lograr en nuestros vídeos la mejor calidad posible o, peor todavía, puede que obtengamos vídeos imcompatibles con el formato que deseemos.
 
-**1\. Conceptos básicos de vídeo**
+### 1\. Conceptos básicos de vídeo
 
 **1\. Dimensiones**
 
@@ -37,7 +39,7 @@ Esta unidad pretende ser una **guía de referencia de los términos más comúnm
 ![](img/nubes.jpg)
 
 
-**2\. Formatos de vídeo**
+### 2\. Formatos de vídeo
 
 **Los vídeos digitales se pueden guardar en archivos de distintos formatos**. Cada uno se corresponde con una **extensión específica** del archivo que lo contiene. Existen muchos tipos de formatos de video. Aquí se citan algunos de los más utilizados. Asimismo cada tipo de archivo admite en cada momento un códec de compresión distinto.
 

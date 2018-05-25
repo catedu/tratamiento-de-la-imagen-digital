@@ -2,19 +2,20 @@
 
 ## Reflexión
 
-
 ![](img/messi.jpg)
 
 
 Este efecto de la foto fue creada en [Funny.Pho.to](http://funny.pho.to/). Por Julián Trullenque
 
-var feedback102_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 ¿Has visto este fin se semana el Partido en la Tele? Messi marcó un gol y llevaba una camiseta con el logotipo de AULARAGON. 
 
 Esto, evidentemente **es un montaje**... ¿Te gustaría hacer uno igual? Pues en esta unidad vas aprender algunos conceptos sobre **composición, recorte y montaje**... y también te presentaremos algunas aplicaciones on-line para hacer **divertidos fotomontajes**.
+
+%/accordion%
+
+
 
 **CONOCIMIENTOS PREVIOS**
 
