@@ -2,6 +2,8 @@
 
 Presentación realizada por los alumnos del **CEIP Brianda de Luna de Alfajarín**. Realizada con [Toondoo](http://www.toondoo.com/).
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/normas.swf" style="display: block; margin-left: auto; margin-right: auto;" width="715" height="536"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/normas.swf"></object>
+
 ## Para saber más
 
 *   El [cómic](http://es.wikipedia.org/wiki/Cómic) es una forma expresiva muy interesante para la escuela tanto por su atractivo para los alumnos como por las [capacidades que contribuye a desarrollar](http://www.uclm.es/profesorado/ricardo/COMIC2.html)

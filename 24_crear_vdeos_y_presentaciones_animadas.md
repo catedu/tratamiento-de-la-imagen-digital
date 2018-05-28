@@ -1,6 +1,6 @@
 # 2.4 Crear vídeos y presentaciones animadas
 
-**1\. POWTOON**
+### 1\. POWTOON
 
 **1\. ¿Qué es Powtoon?**
 
@@ -18,9 +18,13 @@ Tenemos un tutorial en Youtube de **Jesús Ruiz**, establecido en dos partes.
 
 **PARTE 1ª**
 
+{% youtube %}https://youtu.be/zW4YrG0Wdws{% endyoutube %}
+
 **PARTE 2ª**
 
-**2\. MOOVLY**
+{% youtube %}https://youtu.be/pP1ntw15fHo{% endyoutube %}
+
+### 2\. MOOVLY
 
 **1\. ¿Qué es Moovly?**
 
@@ -28,7 +32,7 @@ Tenemos un tutorial en Youtube de **Jesús Ruiz**, establecido en dos partes.
 
 **2\. ¿Cómo usarla?**
 
-Video elaborado por [blog.princippia.com](http://blog.princippia.com/).
+{% youtube %}https://youtu.be/hwIJq_xxQow{% endyoutube %}
 
 **3\. Usos didácticos**
 
@@ -37,7 +41,7 @@ Video elaborado por [blog.princippia.com](http://blog.princippia.com/).
 *   Crear vídeos sobre presentaciones de temas o los contenidos de clase.
 *   Anuncios y presentaciones de diferentes temas en nuestras clases: buenas prácticas en Internet, Cuidado del Medioambiente, etc.
 
-**3\. GO! ANIMATE**
+### 3\. GO! ANIMATE
 
 **1\. ¿Qué es Go! Animate?**
 
@@ -48,10 +52,10 @@ Video elaborado por [blog.princippia.com](http://blog.princippia.com/).
 Entramos en la web [Go! Animate](http://goanimate.com/) y nos registramos como usuarios completando los datos de correo electrónico, usuario y contraseña.  Una vez dentro, comenzamos a crear un vídeo animado haciendo clic en el botón "**Crea tu vídeo**" situado en la parte superior derecha de la web. Después hacemos clic en "**Crea un vídeo corto**" o en "**Crear una película**" y seleccionamos una de las opciones gratuitas (hay más opciones en la versión de pago). A partir de ahí tendremos que elegir escenario, personajes, escribir o grabar el diálogo y previsualizar el vídeo. En la opción película contamos con un tutorial que nos indica los pasos ya que podemos poner varias escenas. La herramienta pone música ambiental al vídeo y cuenta también con un creador de personajes.
 
 
-![](img/715.jpg)
+![Imagen 29: Captura de pantalla propia](img/715.jpg)
 
 
-Imagen 29: Captura de pantalla propia 
+ 
 
 **3\. Usos didácticos**
 
@@ -59,5 +63,5 @@ Imagen 29: Captura de pantalla propia 
 *   Crear animaciones que hablen sobre personajes importantes relacionados con los contenidos de clase: escritores, inventores, compositores, pintores, poetas, premios nobel, etc.
 *   Elaborar vídeos para presentar proyectos colaborativos y diversas actividades de clase o del centro educativo. Proponer actividades creativas a nuestros alumnos relacionadas con nuestra materia.
 
-**Vídeo subido a YouTube por Go! Animate**
+{% youtube %}https://youtu.be/Wxch7vl4CcU{% endyoutube %}
 

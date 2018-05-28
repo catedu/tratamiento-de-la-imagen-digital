@@ -1,8 +1,6 @@
 # U4. EL COMIC
 
-[Publish at Calameo](http://www.calameo.com/) or [read more publications](http://www.calameo.com/browse).
-
-Este comic fue realizado en 2008 por alumnos de 6º del CEIP Mariano Castillo de Villamayor. Está hecho con fotografía tomadas en una viaje de una semana que estuvieron por Castilla La Mancha, en una actividad organizada por el Ministerio de Educación y Ciencia: "La ruta del Quijote". Está hecho utilizando la herramienta "**ComicLife 1.3**".
+[Este comic](https://www.calameo.com/books/0004843685047ed724745) fue realizado en 2008 por alumnos de 6º del CEIP Mariano Castillo de Villamayor. Está hecho con fotografía tomadas en una viaje de una semana que estuvieron por Castilla La Mancha, en una actividad organizada por el Ministerio de Educación y Ciencia: "La ruta del Quijote". Está hecho utilizando la herramienta "**ComicLife 1.3**".
 
 ## Importante
 

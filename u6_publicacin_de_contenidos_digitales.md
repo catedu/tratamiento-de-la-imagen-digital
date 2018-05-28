@@ -6,7 +6,7 @@ En la Web 1.0 nos encontrábamos con páginas realizadas de tal forma que su con
 
 Pensando en este panorama hemos preparado esta presentación sobre la incidencia de la web 2.0 y la tecnología en el mundo educativo.
 
-**1\. Publicar en Internet**
+### 1\. Publicar en Internet
 
 Ahora ya sabemos crear contenidos digitales (vídeo, imágenes, animaciones), sabemos montarlos en una presentación, subirlos a YouTube o Vimeo, crear contenidos con servicios web 2.0. Pero... ¿cómo compartirlos? ¿donde los publicamos?... No te preocupes, es **muy fácil**.
 
@@ -14,7 +14,7 @@ Hace años (web 1.0) para hacer una simple página web de texto y fotografías h
 
 Hoy en día publicar contenidos es muy fácil, ya que hay montones de recursos sencillos y gratuitos que te van a ayudar en esta tarea. Vamos a ver algunos de ellos aunque solo nos centraremos en la publicación en un Bloog. Para saber más sobre web 2.0 y te recomendamos que hagas un curso a distancia en la plataforma Aularagón que te ayudará a profundizar en este apasionante mundo.
 
-**2\. ¿Dónde publicar en Internet?**
+### 2\. ¿Dónde publicar en Internet?
 
 **1\. Blogs**
 
@@ -23,10 +23,6 @@ Hoy en día publicar contenidos es muy fácil, ya que hay montones de recursos s
 *   **Blogger** La plataforma de blogs de Google es muy usada en todo el mundo. No disponemos de dominio propio y tampoco necesitamos un servidor para alojar el blog. Es una buena forma de introducirse en el mundo de los blogs. Es sencillo de usar aunque no tengas experiencia en la creación de blogs y recientemente ha incorporado funciones mejoradas de estética y usabilidad.
     *   Ejemplo: [Proyecto versicos](http://nochedeluz.blogspot.com.es/), del CEIP Maestro Pedro Orós de Movera.
     *   Ejemplo: [Valdespartera es cultura](http://valdesparteraescultura.blogspot.com.es/), del CEIP Valdespartera 2.
-
-*   [Arablogs](http://www.catedu.es/arablogs/) es un portal de blogs creados y desarrollados por el [CATEDU](http://www.catedu.es/webcatedu/). Esta iniciativa pretende incentivar y facilitar el uso de las TIC en la educación. Los blogs son fáciles de configurar y usar sin tener muchos conocimientos técnicos y también son fáciles de usar por parte de los alumnos. Destacan sobre otros servicios porque es una aplicación pensada única y exclusivamente para la enseñanza. Para tener disponible un blog, no hay más que solicitarlo al asesor TIC de referencia de tu CIFE. Es una buena forma de introducirse en el mundo de los blogs. Es muy similar a Blogger. 
-    *   Ejemplo: [CEIP Valdespartera](http://www.catedu.es/arablogs/blog.php?id_blog=1600).
-    *   [Publicar en Arablogs](http://facilytic.catedu.es/wp-content/uploads/2013/10/arablogs.pdf), por [José Ramón Olalla](http://www.catedu.es/arablogs/blog.php?id_blog=1145). Vía [FacilYTIC](http://facilytic.catedu.es).
 
 *   [Wordpress](http://es.wordpress.com/):  Esta es la aplicación para los blogs profesionales. Necesitas un dominio y un servicio de alojamiento donde instalar la aplicación. A cambio dispondrás de todas las funciones de wordpress, multitud de themes para personalizarlo y un control de la seguridad. La comunidad que está desarrollando continuamente mejoras en el código, plugins, widgets, etc.. es un gran valor por permitirte estar siempre actualizado con la más reciente versión. Es estable y ofrece gran seguridad para su uso profesional. También tiene un servicio gratuito en el que no necesitas dominio. Te recomendamos las dos anteriores. 
     *   Ejemplo: **Colegio Alquería de Granada**. [Blog del Tercer Ciclo](http://alqueriatercerciclo.wordpress.com/).
@@ -58,7 +54,7 @@ También son numerosos los servicios que ofrecen servicio de páginas web gratui
     *   Ejemplo: [Seguridad en mi PC](http://seguridadpc.weebly.com/) de **Julián Trullenque**.
     *   [Ayuda de Weebly](http://www.slideshare.net/ncelpa/tutorial-weebly-24112303).
 
-**3\. Wikis**
+### 3\. Wikis
 
 Un **wiki o una wiki** (del hawaiano wiki, 'rápido') es un sitio web cuyas páginas pueden ser editadas por múltiples voluntarios a través del navegador web. Los usuarios pueden crear, modificar o borrar un mismo texto que comparten. Los textos o «páginas wiki» tienen títulos únicos.
 

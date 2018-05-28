@@ -16,3 +16,5 @@ también en tu vida cotidiana.
 Por otra parte decirte que el tutor del curso va a estar muy atento a las posibles
 dudas, sugerencias ... que le quieras plantear, y esperamos que haya una buena
 comunicación aprovechando el potencial de Internet y las redes sociales.
+
+![](img/picture.svg)

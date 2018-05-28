@@ -2,22 +2,24 @@
 
 Presentación creada por Julián Trullenque con [Picasa web](http://picasa.google.com/) con imágenes libres descargadas de Internet
 
-**1\. ¿Qué es Picasa?**
+<object type="application/x-shockwave-flash" data="https://static.googleusercontent.com/external_content/picasaweb.googleusercontent.com/slideshow.swf" width="715" height="402"><param name="src" value="https://static.googleusercontent.com/external_content/picasaweb.googleusercontent.com/slideshow.swf"><param name="flashvars" value="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F109351649918197108771%2Falbumid%2F5947313864020835521%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US"><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer"></object>
+
+### 1\. ¿Qué es Picasa?
 
 Picasa es una herramienta web para visualizar, organizar y editar fotografías digitales. Adicionalmente, Picasa posee un sitio web integrado para compartir fotos. La única limitación es el espacio de que disponemos en esta gratuidad. 1024 Mb, o lo que es lo mismo 1Gb. Picasa nos va a permitir dos funcionalidades:
 
 *   **Como repositorio o almacén de fotos ON-LINE**: es sencilla, tenemos que estar conectados a Internet y nos va a permitir subir las fotos desde nuestro equipo a la web y desde aquí publicarlas y compartirlas organizadas en álbumes.
 *   Como programa **INSTALABLE**: es necesario instalar el programa en nuestro ordenador, nos permite organizar nuestras fotos, editarlas... En este curso no entraremos en profundidad en este software ya que hemos trabajado con otros programas que nos parecen mejores y más completos, pero si te interesa el tema te ofrecemos un manual on-line que te ayudará en la tarea.
 
-**2\. Entramos en la web de Picasa**
+### 2\. Entramos en la web de Picasa
 
 1\. **Buscamos en Google.es** la palabra "picasa" y entre otras, nos aparecen estas dos opciones:
 
 
-![](img/picasa.jpg)
+![Imagen 1: Captura de pantalla propia](img/picasa.jpg)
 
 
-Imagen 1: Captura de pantalla propia
+
 
 *   Si queremos descargar el programa entramos en [http://picasa.google.com/](http://picasa.google.com/)
 *   Si queremos is directamente a la web para subir fotografías iremos a [http://picasaweb.google.com](http://picasaweb.google.com)
@@ -29,28 +31,27 @@ En nuestro caso vamos a elegir la **segunda opción**.
 A hacer ingresar la URL [http://picasaweb.google.com](picasaweb.google.com) nos pedirá directamente que entremos con nuestro nombre de usuario y contraseña.
 
 
-![](img/picasa2.jpg)
+![Imagen 2: Captura de pantalla propia](img/picasa2.jpg)
 
 
-Imagen 2: Captura de pantalla propia
+
 
 **3\. Entorno de trabajo**
 
 
-![](img/picasa3.jpg)
+![Imagen 3: Captura de pantalla propia](img/picasa3.jpg)
 
 
-Imagen 3: Captura de pantalla propia
 
-**3\. Subir fotografías y crear un álbum**
+
+### 3\. Subir fotografías y crear un álbum
 
 1º Una vez que has entrado en la web de Picasa, verás los álbumes que tienes creados. Para subir fotos o crear otro álbum haz **clic en Subir**.
 
 
-![](img/picasa4.jpg)
+![Imagen 4: Captura de pantalla propia](img/picasa4.jpg)
 
 
-Imagen 4: Captura de pantalla propia
 
 2º Aparecerá esta pantalla. Ponemos el nombre que queremos al álbum o bien seleccionamos uno ya existente. Tenemos dos métodos para subir las fotografías:
 
@@ -58,32 +59,32 @@ Imagen 4: Captura de pantalla propia
     2.  Arrastrar desde la carpeta al centro de la imagen.
 
 
-![](img/picasa5.jpg)
+![Imagen 5: Captura de pantalla propia](img/picasa5.jpg)
 
 
-Imagen 5: Captura de pantalla propia
+
 
 3º Ya solamente falta esperar a que se suban las fotos elegidas.
 
-**4\. Configuración de privacidad**
+### 4\. Configuración de privacidad
 
 Para configurar la privacidad de nuestro álbum, que no de nuestra cuenta (cada álbum puede tener una privacidad diferente):
 
 1º Hacemos **clic en "Editar"**, un botón que está en la parte lateral derecha.
 
 
-![](img/picasa6.jpg)
+![Imagen 6: Captura de pantalla propia](img/picasa6.jpg)
 
 
-Imagen 6: Captura de pantalla propia
+
 
 2º Hecho ésto nos aparecerá un **formulario** en el que podremos poner el título del álbum, una descripción en incluso situarlo en un mapa. Hay una pestaña que nos dejará configurar la **privacidad del álbum**.
 
 
-![](img/picasa7.jpg)
+![Imagen 7: Captura de pantalla propia](img/picasa7.jpg)
 
 
-Imagen 7: Captura de pantalla propia
+
 
 3º En el menús desplegable **"Visibiliad"** aparecerán tres opciones:
 
@@ -91,33 +92,33 @@ Imagen 7: Captura de pantalla propia
     *   **Limitado a cualquier usuario que reciba el enlace**: Todos los usuarios que reciban el enlace podrán ver estos álbumes.
     *   **Solo tú**: Esta opción supone el máximo nivel de privacidad, por lo que solo tú podrás ver estos álbumes.
 
-**5\. Compartir un álbum**
+### 5\. Compartir un álbum
 
 **Compartir un álbum resulta muy útil** para, en primer lugar que **los seguidores estén notificados** de todos los cambios que se van produciendo y en segundo lugar para **colaborar entre varios autores en la publicación** de fotos en ese álbum. Pero también se corre el riesgo de dar permisos a otras personas y que puedan borrar y manipular las fotos con buena o mala intención. Veamos como se invita a colaborar.
 
 1º Con el álbum abierto, hacer clic en **Share**.
 
 
-![](img/picasa8.jpg)
+![Imagen 8: Captura de pantalla propia](img/picasa8.jpg)
 
 
-Imagen 8: Captura de pantalla propia
+
 
 2º Aparecerá un **cuadro de diálogo siguiente**:
 
 
-![](img/picasa9.jpg)
+![Imagen 9: Captura de pantalla propia](img/picasa9.jpg)
 
 
-Imagen 9: Captura de pantalla propia
+
 
 3º Hacemos clic en **Aceptar**. Y ya hemos compartido nuestro álbum.
 
 
-![](img/picasa11.jpg)
+![Imagen 10: Captura de pantalla propia](img/picasa11.jpg)
 
 
-Imagen 10: Captura de pantalla propia
+
 
 3º Podemos compartir dos clases de permisos, en uno solo pueden ver las fotos pero serán notificados de cada cambio, con el otro permiso podrán subir también fotos.
 
@@ -127,7 +128,7 @@ Imagen 10: Captura de pantalla propia
 2.  Sube en ese álbum dos o tres fotos que hayas hecho tú mismo. 
 3.  ¿Sabrías crear un álbum y compartirlo con todos los miembros del curso.
 
-**6\. Publicar un álbum**
+### 6\. Publicar un álbum
 
 Para publicar un álbum de Picasa es necesario que hayamos puesto la visibilidad como pública. Podremos hacer dos cosas con el álbum:
 
@@ -139,10 +140,10 @@ Veamos cómo se hace:
 1º Con le álbum abierto (recuerda que tiene que ser público). Hacemos **clic en Enlazar este álbum** y no aparecerá este diálogo.
 
 
-![](img/picasa12.jpg)
+![Imagen 11: Captura de pantalla propia](img/picasa12.jpg)
 
 
-Imagen 11: Captura de pantalla propia
+
 
 2º Nos aparecerán 3 opciones:
 
@@ -160,12 +161,14 @@ Imagen 11: Captura de pantalla propia
 6.  Pega el código HTML en el código fuente de tu blog (Ctrl+V).
 
 
-![](img/picasa13.jpg)
+![Imagen 11: Captura de pantalla propia](img/picasa13.jpg)
 
 
-Imagen 11: Captura de pantalla propia
+
 
 Mira este tutorial para ver cómo se hace:
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/picasa.swf" width="715" height="538"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/picasa.swf"></object>
 
 ## Para saber más
 

@@ -2,7 +2,7 @@
 
 Al igual que hemos utilizado Movie Maker o VideoPad para hacer montajes utilizando clips de vídeo, lo podemos hacer utilizando imágenes o imágenes y archivos de vídeo. Por ejemplo, hacer un montaje de una excursión. Como la anterior unidad, es esta vamos hacer utilizando los programas **Movie Maker** y **VideoPad.** Al llegar a esta unidad, se supone que ya tenemos un buen dominio de estos programas, con lo que nos detndremos mucho en los pasos.
 
-**1\. Proyección de fotografías con VideoPad**
+### 1\. Proyección de fotografías con VideoPad
 
 1º Lo primero que vamos a hacer, es organizar nuestra carpeta de imágenes (aproximadamente 50). Podemos utilizar las nuestras propias o descargar el archivo [**diapos.rar**](http://aularagon.catedu.es/materialesaularagon2013/imagen/diapos.rar) y utilizar esas mismas para hacer las prácticas. También buscaremos una **canción en MP3** o descargaremos **[coro.rar](http://aularagon.catedu.es/materialesaularagon2013/imagen/coro.rar)**.
 
@@ -20,7 +20,9 @@ Mira este vídeo para ver cómo se hace todo ésto y alguna cosas:
 
 Vídeo creado por AprendedetuPC, insertado en YouTube.com
 
-**2\. Crear una proyección de diapositivas con Movie Maker**
+{% youtube %}https://youtu.be/27Rv1g9cX20{% endyoutube %}
+
+### 2\. Crear una proyección de diapositivas con Movie Maker
 
 1º Lo primero que vamos a hacer, es organizar nuestra carpeta de imágenes (aproximadamente 50). Podemos utilizar las nuestras propias o descargar el archivo [**diapos.rar**](http://aularagon.catedu.es/materialesaularagon2013/imagen/diapos.rar) y utilizar esas mismas para hacer las prácticas. También buscaremos una **canción en MP3** o descargaremos [**coro.rar**](http://aularagon.catedu.es/materialesaularagon2013/imagen/coro.rar).
 
@@ -34,5 +36,5 @@ Vídeo creado por AprendedetuPC, insertado en YouTube.com
 
 7ª Añadimos a nuestras imágenes efectos y transiciones. Podemos hacerlo de una en una o todas a la vez.
 
- 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/diapos.swf" width="715" height="660"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/diapos.swf"></object>
 

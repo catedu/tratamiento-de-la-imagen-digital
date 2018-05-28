@@ -2,7 +2,6 @@
 
 * [Introducción](README.md)
 
-<!--
 ____
 ### 1. CONSIDERACIONES PREVIAS 
 * [Módulo 1: CONSIDERACIONES PREVIAS](index0.md)
@@ -54,8 +53,6 @@ ____
 		* [7.3 Fotomontajes on-line](73_fotomontajes_online.md)
 	* [U8. Propuestas para el aula](u8_propuestas_para_el_aula.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
--->
-
 
 ### 5. EDICIÓN DE VÍDEO 
 * [EDICIÓN DE VÍDEO](index5.md)
@@ -86,8 +83,7 @@ ____
 	* [U8. PROPUESTAS DIDÁCTICAS](u8_propuestas_didcticas.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
 
-<!--
-### Módulo 7: PUBLICACIÓN DE IMÁGENES DIGITALES | M7 PUBLICACIÓN DE IMÁGENES DIGITALES 
+### 7. PUBLICACIÓN DE IMÁGENES DIGITALES 
 * [Módulo 7: PUBLICACIÓN DE IMÁGENES DIGITALES](index6.md)
 * [Contenidos](contenidos6.md)
 	* [U1. PUBLICAR IMAGEN FIJA](u1_publicar_imagen_fija.md)
@@ -115,6 +111,6 @@ ____
 		* [6.2 Derechos de autor](62_derechos_de_autor.md)
 	* [U7. PLANTEAMIENTOS DIDÁCTICOS](u7_planteamientos_didcticos.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos6.md)
--->
+
 
 * [Créditos](crditos.md)

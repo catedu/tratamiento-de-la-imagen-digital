@@ -1,10 +1,12 @@
 # 2.2 Slideshare (presentaciones en 1 minuto)
 
-**1\. ¿Qué es Slideshare?**
+### 1\. ¿Qué es Slideshare?
 
 [**Slideshare**](http://www.slideshare.net/) es una herramienta muy utilizada en educación para subir presentaciones a internet y poder compartirlas en redes sociales o incrustarlas en blogs, webs, wikis, etc. Slideshare soporta gran variedad de archivos y diferentes formatos de vídeo. También ofrece la opción de comentar, seguir a otros usuarios, crear [Slidecast](http://es.wikipedia.org/wiki/Slidecast) e incrustar vídeos de Youtube. Con Slideshare tus presentaciones educativas, los trabajos de tus alumnos, tus tutoriales, etc. estarán siempre disponibles en la red.
 
- **2\. ¿Cómo se usa?**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JjyhF03BLeYsQa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Konomedio/album-28468478" title="Album de Instagram" target="_blank">Album de Instagram</a> </strong> from <strong><a href="https://www.slideshare.net/Konomedio" target="_blank">Luperzio Latrás</a></strong> </div>
+
+### 2\. ¿Cómo se usa?
 
 Slideshare tiene **acceso libre sin límite de presentaciones por usuario**, sólo es necesario **registrarse en la página** rellenando los datos que se solicitan. Una vez creada la cuenta es sencillo subir una presentación o documento desde la pestaña **"upload"**. Después de subirla se configuran los datos: título, tags y categorías con la función de facilitar la búsqueda a otros usuarios. Podemos compartir nuestra presentación  en facebook, twitter, Google plus y Linkedin. Además, podemos enviar las presentaciones por correo electrónico, descargarlas a nuestro ordenador, marcarlas como favoritas e incrustarlas en nuestros blogs.
 
@@ -15,24 +17,26 @@ Slideshare tiene **acceso libre sin límite de presentaciones por usuario**, só
 2º Hacemos **clic en Upload** para subir nuestra presentación. Para este ejemplo vamos a utilizar la que hemos creado con las fotografías de Instagram.
 
 
-![](img/slide1.jpg)
+![Imagen 27: Captura de pantalla propia](img/slide1.jpg)
 
 
- Imagen 27: Captura de pantalla propia 
+  
 
  3º Aparecerá un cuadro con **varias opciones**. Rellenamos el formulario y guardamos la presentación.
 
 
-![](img/slide2.jpg)
+![Imagen 28: Captura de pantalla propia](img/slide2.jpg)
 
 
-Imagen 28: Captura de pantalla propia 
+ 
 
-**3\. Embeber (insertar) una presentación de Slideshare en un blog**
+### 3\. Embeber (insertar) una presentación de Slideshare en un blog
 
 Para ello Slideshare proporciona un embed, un código html que permite ver la presentación directamente en nuestro blog. Accedemos al embed, lo copiamos y pegamos en nuestro blog (utilizando vista html). También podemos acceder a diferentes medidas de la presentación en el apartado "customize". Ahí mismo está el código especial para incrustar las presentaciones Slideshare en un blog de wordpress.com.
 
-**4\. Posibilidades educativas**
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/slide.swf" width="513" height="420"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/slide.swf"></object>
+
+### 4\. Posibilidades educativas
 
 *   Presentaciones de trabajos sobre contenidos de las diferentes materias realizados con Power Point o Impress.
 *   Soporte y apoyo para exposiciones en clase.

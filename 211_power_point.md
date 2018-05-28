@@ -11,10 +11,10 @@ Podemos crear un álbum de fotos con PowerPoint de forma rápida y sencilla. El 
 3º Seguir la ruta **Insertar>Imagen>Nuevo>Nuevo álbum de fotografías...**
 
 
- ![](img/power.jpg)
+![Imagen 21: Captura de pantalla propia](img/power.jpg)
 
 
- Imagen 21: Captura de pantalla propia
+ 
 
 4º  Aparecerá una nueva ventana llamada álbum de fotos. En ella seleccionaremos la opción de **insertar las imágenes** desde archivo o disco y buscaremos la carpeta en la que tengamos las fotos que deseamos incluir en el álbum. 
 
@@ -22,6 +22,8 @@ Podemos crear un álbum de fotos con PowerPoint de forma rápida y sencilla. El 
 
 *   Elige **dos imágenes** por diapositiva.
 *   Elige como tema "**paper**".
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/power.swf" width="705" height="482"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/power.swf"></object>
 
 6º Guarda el trabajo como **album.ppt** en tu carpeta de prácticas.
 
@@ -32,10 +34,10 @@ Ahora vamos a crear una **transición entre diapositiva y diapositiva**.
 
 
 
-![](img/power2.jpg)
+![Imagen 22: Captura de pantalla propia ](img/power2.jpg)
 
 
-Imagen 22: Captura de pantalla propia 
+
 
 2º Hacemos clic en **Aplicar a todo** y así serán todas las transiciones iguales.
 

@@ -10,7 +10,7 @@ El comic que he insertado en la página de introducción fue realizado en el añ
 *   Es barato. Aunque es un programa de pago, obtener una licencia solo cuesta 13,99 €, además hay una versión para iPad que cuesta 4,69 € que es muy fácil de usar muy divertida. Haces las fotos con el tablet y puedes montar un cómic en poco tiempo.
 *   De todas formas, tienes una versión de prueba por 1 mes con todas las funcionalidades. Te animamos a que la descargues y pruebes este maravilloso programa.
 
-**1\. Descargar Comic Life (Versión de prueba)**
+### 1\. Descargar Comic Life (Versión de prueba)
 
 *   En esta página tienes un enlace de descarga de la última versión. Tienes opciones para Windows, Mac e iOs.
     *   Descargar [versión para Mac](http://plasq.com/downloads/mac).
@@ -19,16 +19,18 @@ El comic que he insertado en la página de introducción fue realizado en el añ
 *   Descargas la versión que te interese y la instalas en tu equipo. Tienes también otra aplicación descargable para actualizar.
 
 
-![](img/comic.jpg)
+![Imagen 36: Captura de pantalla propia](img/comic.jpg)
 
 
- Imagen 36: Captura de pantalla propia
+ 
 
-**2\. ¿Qué es Comic Life?**
+### 2\. ¿Qué es Comic Life?
 
 **Comic Life**, como indica su nombre, es una aplicación de Plasq con la que se pueden crear fácilmente cómics a partir de fotografías y dibujos digitalizados. A pesar de su orientación a la maquetación de cómics, en realidad lo podemos utilizar para crear muchos tipos de materiales y para los alumnos puede ser una herramienta mucho más cómoda y divertida con la que elaborar sus trabajos.
 
 El programa es realmente sencillo de usar y está lleno de detalles graciosos que ayudan a que el trabajo con él sea muy agradable.
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/comiclife2.swf" width="715" height="530"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/comiclife2.swf"></object>
 
 Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
@@ -40,15 +42,15 @@ La ventana del programa se divide en cinco zonas.
 4.  Bajo la zona de trabajo tenemos un espacio para seleccionar el tipo de globos o bocadillos en los que introducir los textos y los diálogos de los personajes. También tiene una herramienta para crear títulos vistosos.
 5.  Finalmente, la barra de herramientas nos da acceso a algunas otras opciones del programa.
 
-**3\. ¿Cómo usar Comic Life?**
+### 3\. ¿Cómo usar Comic Life?
 
 1º **Ejecutamos el programa**. Nos aparece una pantalla de gestión de archivos. Podemos abrir un archivo existente, crear uno nuevo en blanco o desde una plantilla.
 
 
-![](img/plantillas.jpg)
+![Imagen 37: Captura de pantalla propia](img/plantillas.jpg)
 
 
- Imagen 37: Captura de pantalla propia
+ 
 
 2º La pantalla de Comic Life nos presenta una **página en blanco** en la que podemos empezar añadiendo una plantilla de viñetas que la organicen.
 
@@ -64,6 +66,8 @@ La ventana del programa se divide en cinco zonas.
 
 7º Si lo que queremos es editar la imagen contenida en una viñeta haremos doble clic sobre ella, de este modo podremos realizar los ajustes necesarios.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/mou.swf" width="715" height="537"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/mou.swf"></object>
+
 A continuación, veremos algunas **prestaciones más avanzadas** del programa.
 
 *   Muchas plantillas de Cómic Life están formadas por las típicas viñetas rectangulares, pero también podemos modificarlas accediendo al panel de detalles.
@@ -74,13 +78,15 @@ A continuación, veremos algunas **prestaciones más avanzadas** del programa.
 
 El **funcionamiento de Cómic Life se basa en las técnicas de arrastrar y soltar y en el uso del panel Detalles**. La mejor forma de aprender a usarlo es explorando. La mayor parte de su manejo es idéntico al de otras aplicaciones. En un par de sesiones lo dominarás a fondo.
 
-**4\. Guardar y exportar.**
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/mou2.swf" width="715" height="528"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/mou2.swf"></object>
+
+### 4\. Guardar y exportar.
 
 Es muy **IMPORTANTE guardar bien nuestro proyecto** en el formato de Comic Life y si queremos exportarlo para poder verlo en otros ordenadores que NO tengan Comic Life, debemos exportar en formato JPEG o PDF. Nosotros recomendamos PDF.
 
 
-![](img/exportar.jpg)
+![Imagen 38: Captura de pantalla propia](img/exportar.jpg)
 
 
-Imagen 38: Captura de pantalla propia
+
 

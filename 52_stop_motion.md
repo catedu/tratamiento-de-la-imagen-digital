@@ -2,9 +2,9 @@
 
 Si te preguntabas cómo crean películas como Wallace y Grommit o esos cortos divertidos de YouTube con muñecos Lego, ¡ya no tienes que preguntarte más! Aunque crear una animación por "**stop motion**" no es complicado, requiere mucha paciencia y es algo repetitivo, pero si tienes la motivación suficiente puedes llegar a resultados espectaculares.
 
-Stop Motion realizada fedekkano en Youtube.com
+{% youtube %}https://youtu.be/BxjzIIgN9t0{% endyoutube %}
 
-**1\. ¿Qué es un Stop Motion?**
+### 1\. ¿Qué es un Stop Motion?
 
 El stop-motion es una técnica de animación que consiste en **aparentar el movimiento de objetos estáticos capturando fotografías**. En general se denomina animaciones de stop motion a las que no entran en la categoría de dibujo animado, esto es, que no fueron dibujadas ni pintadas, sino que fueron creadas tomando imágenes de la realidad. Podemos encontrar tres grupos de animaciones:
 
@@ -12,7 +12,7 @@ El stop-motion es una técnica de animación que consiste en **aparentar el movi
 2.  Imágenes creadas con **objetos articulados** (lego, playmobil...).
 3.  Imágenes creadas con **objetos rígidos**.
 
-**2\. ¿Cómo hacer un Stop Motion?**
+### 2\. ¿Cómo hacer un Stop Motion?
 
 1º Consigue **objetos para tu película**: muñecos de barro, de alambre, de bloques Lego o cualquier otro sistema de ensamblaje. Usa tu imaginación.
 
@@ -27,10 +27,10 @@ El stop-motion es una técnica de animación que consiste en **aparentar el movi
 5º Toma una sola **foto** de tu set en la **posición inicial**.
 
 
-![](img/2013-10-29_20.43.46.jpg)
+![Imagen 73: autor Julián Trullenque. Licencia CC by-nc](img/2013-10-29_20.43.46.jpg)
 
 
-Imagen 73: autor Julián Trullenque. Licencia CC by-nc 
+
 
 6º Comienza la s**ecuencia de animación haciendo modificaciones mínimas** a los personajes que se vayan a mover: puede ser sólo una parte de su cuerpo o varias si están caminando. Los movimientos deben ser muy pequeños.
 
@@ -49,7 +49,7 @@ Imagen 73: autor Julián Trullenque. Licencia CC by-nc 
 *   Si tienes planeado incorporar varias secuencias, puedes trabajar con la siguiente y unir todos al final.
 *   Agregar el audio y efectos de corte como último punto puede hacer que el trabajo unido al final se vea mucho mejor.
 
-**3\. Montar un Stop Motion con Movie Maker**
+### 3\. Montar un Stop Motion con Movie Maker
 
 1º Prepara tus fotos de secuencia o descarga y descomprime el archivo [stop.rar](http://catedu.es/materialesaularagon2013/imagen/stop.rar).
 
@@ -61,9 +61,11 @@ Imagen 73: autor Julián Trullenque. Licencia CC by-nc 
 
 5º Previsualizamos el proyecto.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/stopmotion1.swf" width="715" height="603"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/stopmotion1.swf"></object>
+
 6º **Guarda la película**. Si quieres otra secuencia es mejor que crees otro proyecto y luego añadas todas las secuencias y le añadas música, efectos, transiciones...
 
-**4\. Montar un Stop Motion con VideoPad**
+### 4\. Montar un Stop Motion con VideoPad
 
 1º Prepara tus fotos de secuencia o descarga y descomprime el archivo [stop.rar](http://aularagon.catedu.es/materialesaularagon2013/imagen/stop.rar).
 
@@ -86,10 +88,10 @@ Imagen 73: autor Julián Trullenque. Licencia CC by-nc 
         *   10 - El clip se reproducirá a una décima parte de la velocidad original.
 
 
- ![](img/crear_vido4.1.jpg)
+![Imagen 74: Captura de pantalla propia](img/crear_vido4.1.jpg)
 
 
-Imagen 74: Captura de pantalla propia 
+ 
 
 ## Para saber más
 
@@ -101,3 +103,4 @@ Imagen 74: Captura de pantalla propia 
 
 *   IES as Barxas, Moaña (Pontevedra), Octubre 21012. En YouTube
 
+{% youtube %}https://youtu.be/By4-_o2pSoA{% endyoutube %}

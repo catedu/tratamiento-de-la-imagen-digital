@@ -4,7 +4,7 @@
 
 **Cualquier aplicación que combine textos con imágenes nos puede servir para crear nuestras infografías. Vamos a indicar algunos programas instalables para realizar infografías y también otras utilidades on-line.**
 
-**1\. Software para crear infografías**
+### 1\. Software para crear infografías
 
 Existen muchas opciones para elaborar el póster. Os recomendamos las siguientes:
 
@@ -15,14 +15,14 @@ Existen muchas opciones para elaborar el póster. Os recomendamos las siguientes
 Veamos un ejemplo:
 
 
-![](img/infogra.jpg)
+![Imagen 30: Autor Juan Carlos Mejía](img/infogra.jpg)
 
 
-Imagen 30: Autor Juan Carlos Mejía
+
 
 Podemos descargar estas plantillas para hacer infografías: [plantilla Power Point](https://dl.dropboxusercontent.com/u/46039577/curso/plantilla.ppt) o [plantilla Impress](https://dl.dropboxusercontent.com/u/46039577/curso/plantilla.odp).
 
-**2\. Utilidades para crear infografías on-line**
+### 2\. Utilidades para crear infografías on-line
 
 En la actualidad existen múltiples programas informáticos con los que se pueden hacer este tipo de carteles para su utilización online que no dejan de ser la versión actualizada y digital del pliego de cartulina o tira de papel continuo, que fijado a la pared del aula, presenta una serie de contenidos didácticos que todos hemos  creado o mandado realizar alguna vez. 
 
@@ -41,10 +41,8 @@ _2\. ¿Cómo funciona?_
 2º Una vez dentro podemos crear un nuevo glog desde **"Creat new Glog"**, se abrirá una nueva página con el glog para editar.
 
 
-![](img/glogster.jpg)
+![Imagen 30: Captura de pantalla propia](img/glogster.jpg)
 
-
-Imagen 30: Captura de pantalla propia
 
 3º Este editor es muy sencillo, consta de ocho secciones, seis de las cuales están disponibles en la versión gratuita:
 
@@ -56,18 +54,15 @@ Imagen 30: Captura de pantalla propia
 *   **Wall**, para diseñar el fondo del póster y de la página.
 
 
-![](img/glogster2.jpg)
-
-
-Imagen 31: Captura de pantalla propia
+![Imagen 31: Captura de pantalla propia](img/glogster2.jpg)
 
 4º Una vez terminado, **guardamos el Glogster** desde el botón "**save & publish**", le ponemos el título, le asignamos una categoría, activamos la opción "finished" y terminamos dando al botón "save". Podremos compartirlo a través del link o incrustando el código embebido en nuestro blog.
 
 
-![](img/glogster4.jpg)
+![Imagen 32: Captura de pantalla propia](img/glogster4.jpg)
 
 
-Imagen 32: Captura de pantalla propia
+
 
 En la imagen anterior se muestra una secuencia de cómo hacer para guardar y publicar un trabajo insertado en un blolg... Este mismo GLOG es el que aparece al principio de este aparado.
 
@@ -79,7 +74,7 @@ _2\. Posibilidades didácticas_
 *   Los murales posters, etc. nos permiten realizar una representación multimedia de contenidos con el fin de presentar más fácilmente los mismos.
 *   Favorece el desarrollo de distintas competencias, especialmente la creatividad.
 
-Vídeo realizado por Marisa de Dios de la Escuela de Idiomas de Valencia
+{% youtube %}https://youtu.be/_TSNAuwWzq8{% endyoutube %}
 
 **2\. SMORE**
 
@@ -94,26 +89,26 @@ _1\. ¿Cómo funciona?_
 1º Una vez registrados, lo primero que vemos es que nos invita a crear nuestra primera infografía.
 
 
-![](img/smore2.jpg)
+![Imagen 33: Captura de pantalla propia](img/smore2.jpg)
 
 
-Imagen 33: Captura de pantalla propia
+
 
 2º Se nos abre un menú en que podemos empezar a definir nuestra publicación. Nosotros elegiremos una platilla en blanco
 
 
-![](img/smore3.jpg)
+![Imagen 33: Captura de pantalla propia](img/smore3.jpg)
 
 
-Imagen 33: Captura de pantalla propia
+
 
 3º Podemos, desde crear un póster para convocar una reunión a hacer una página personal, una vez seleccionada la plantilla nos aparecerá el escritorio de trabajo. 
 
 
-![](img/smore4.jpg)
+![Imagen 34: Captura de pantalla propia](img/smore4.jpg)
 
 
-Imagen 34: Captura de pantalla propia
+
 
 4º Esta plantilla solo necesita que selecciones el apartado a editar y empieces a escribir o arrastrar y soltar imágenes, en el caso que no te interese como está configurada todos los apartados son suprimibles y puedes empezar a crearla desde el principio con la barra de herramientas básica seleccionando el botón de "add content".
 
@@ -122,10 +117,10 @@ Imagen 34: Captura de pantalla propia
 6º Otra posibilidad sería insertarlo en tu blog o página web.
 
 
-![](img/smore5.jpg)
+![Imagen 35: Captura de pantalla propia](img/smore5.jpg)
 
 
- Imagen 35: Captura de pantalla propia
+ 
 
 Es una aplicación con varias ventajas:
 
@@ -134,6 +129,9 @@ Es una aplicación con varias ventajas:
 *   Adaptada a todos los aparatos tecnológicos, desde ordenadores a cualquier dispositivo movil.
 
 Para finalizar os dejo algún ejemplo, yo lo utilizo con mi alumnado de 5º:
+
+<div id="bs" class="bg-stretch" aria-disabled="true" aria-hidden="true"><img style="left: -82.63262599469493px" src="https://s.smore.com/fr/grass-bokeh.ed40320e.jpg" nopin="true" width="900" height="600"></div>
+
 
 ## Para saber más
 

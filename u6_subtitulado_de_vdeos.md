@@ -2,19 +2,19 @@
 
 ## Conocimiento previo
 
-Vídeo del programa REDES de TVE. © Corporación de Radio y Televisión Española 2013
+{% youtube %}https://youtu.be/l_oyn8wboWI{% endyoutube %}
 
 Si observas en este vídeo hay un botón rectangular en la parte inferior derecha en el que si hacer clic, activarás los subtítulos del vídeo. Pero otras veces no encontrarás subtítulos, y en las producciones que hagas tú mismo, tendrás que añadirlos si quieres.
 
 
-![](img/sub1.jpg)
+![Imagen 81: captura de pantalla propia.](img/sub1.jpg)
 
 
-Imagen 81: captura de pantalla propia.
+
 
 Los **vídeos online son cada vez más populares** en todo el mundo y empiezan a rivalizar con la televisión. Los subtítulos de los vídeos son una mina de oro sin explotar. Hacen que los videoclips sean accesibles a los que tienen **problemas de audición**; nos permiten **comprender el contenido de un vídeo en lenguas que no hablamos**; .... Tendrás que plantearte utilizar los subtítulos si quieres mejorar tus videoclips, si quieres expresar tus ideas y tus opiniones poniendo un comentario sobre el contenido de un vídeo que veas colgado, si quieres entrar y participar en las formas más innovadoras de compartir vídeos online.
 
-**1\. Subtitular una película con Movie Maker**
+### 1\. Subtitular una película con Movie Maker
 
 Agregar subtítulos con Movie Maker a una película de vídeo es muy fácil. Solo tienes que cargar la película, elegir el lugar donde vas a poner el subtítulo y agregarlo. Luego puedes cambiar el formato, color y tamaño del texto.
 
@@ -23,34 +23,34 @@ Agregar subtítulos con Movie Maker a una película de vídeo es muy fácil. Sol
 2º **Amplía la vista** de la línea de tiempo para tener más precisión.
 
 
-![](img/sub2.jpg)
+![Imagen 82: captura de pantalla propia.](img/sub2.jpg)
 
 
-Imagen 82: captura de pantalla propia.
+
 
 3º Coloca la cabeza reproductora en el lugar que quieras insertar es subtítulo.
 
 
-![](img/sub3.jpg)
+![Imagen 83: captura de pantalla propia.](img/sub3.jpg)
 
 
-Imagen 83: captura de pantalla propia.
+
 
 4º Clic en el icono Descripción.
 
 
-![](img/sub4.jpg)
+![Imagen 84: captura de pantalla propia.](img/sub4.jpg)
 
 
-Imagen 84: captura de pantalla propia.
+
 
 5º Ya puedes **escribir el texto del subtítulo**, darle formato, color, posición...
 
 
-![](img/sub5.jpg)
+![Imagen 85: captura de pantalla propia.](img/sub5.jpg)
 
 
-Imagen 85: captura de pantalla propia.
+
 
 6º Continúa agregando el **resto de los subtítulos**. En este caso te recomendamos que utilices un color de letra para cada subtítulo:
 
@@ -60,7 +60,7 @@ Imagen 85: captura de pantalla propia.
         *   Rosa claro: actores secundarios.
         *   Verde: onomatopeyas.
 
-**2\. Subtitular una película con VideoPad**
+### 2\. Subtitular una película con VideoPad
 
 En la Unidad 4 aprendimos a crear títulos con el comando "subtítulos". En esta ocasión vamos a trabajar con la opción **"Pista de Superposiciones"**. Es una opción más cómoda y fiable.
 
@@ -69,28 +69,28 @@ En la Unidad 4 aprendimos a crear títulos con el comando "subtítulos". En esta
 2º Clic en el signo **más ("+")** de la pestaña **Pista de Superposiciones**.
 
 
-![](img/sub6.jpg)
+![Imagen 86: captura de pantalla propia.](img/sub6.jpg)
 
 
-Imagen 86: captura de pantalla propia.
+
 
 3º Se abrirá este cuadro de diálogo.
 
 
-![](img/sub7.jpg)
+![Imagen 87: captura de pantalla propia.](img/sub7.jpg)
 
 
-Imagen 87: captura de pantalla propia.
+
 
 4º **Escribimos** el subtítulo y hacemos clic en **Aceptar**.
 
 5º Podemos cambiar opciones de formato de texto, tamaño, desplazamiento...
 
 
-![](img/sub8.jpg)
+![Imagen 88: captura de pantalla propia.](img/sub8.jpg)
 
 
-Imagen 88: captura de pantalla propia.
+
 
 6º Continúa agregando el **resto de los subtítulos**. En este caso te recomendamos que utilices un color de letra para cada subtítulo:
 
@@ -108,7 +108,7 @@ Para el subtitulado de películas hay muchos recursos. Solo hemos querido presen
     
 *   **Herramientas para subtitular: buenísimas para los vídeos**. Presenta una serie de heramientas on-line para subtitular vídeos. [http://www.etwinning.net/](http://www.etwinning.net/es/pub/collaborate/modules/subtitling_tools_great_for_et.htm). **Artículo escrito por Daniela Arghir, Embajadora de eTwinning en Rumania. **Forma parte del programa Comenius, del EU para la Enseñanza Escolar.
 
-**3\. Jugar en la web 2.0 con subtítulos de vídeo**
+### 3\. Jugar en la web 2.0 con subtítulos de vídeo
 
 Estas páginas son un buen ejemplo de las posibilidades educativas de webs diseñadas como ejercicios de pura diversión. Las primeras tienen unas posibilidades limitadas a una colección de vídeos determinada, mientras que las segundas, **DotSUB y Owerstream**, permiten utilizar cualquier vídeo de la web.
 
@@ -118,7 +118,7 @@ Seguramente ya viste más de una parodia de la película de Hitler “la caída�
 
 [Hitler creator](http://chevismo.com/hitler) es una aplicación online que te va a permitir crear tu propio video de Hitler con los subtitulos que quieras en cuestión de minutos. Lo único que nos puede detener es nuestra creatividad.
 
-La visita del inspector. Video subido a Youtube por Julián Carnicero
+{% youtube %}https://youtu.be/WdVdVJfof9M{% endyoutube %}
 
 **2\. Jugando a subtitular películas en Bombay TV y Classiktv**
 
@@ -135,7 +135,7 @@ _¿Cómo funciona?_
 *   Lo más fácil es registrase en la página y añadir un marcador especial a tu barra de herramientas Firefox. Mientras se ve el vídeo en cualquier página de Internet,  al hacer clic en el marcador, aparece una interfaz simple pero efectiva que proyecta palabras leíbles en cualquier momento del videoclip.
 *   En los otros navegadores, sólo tienes que hacer clic en "Create Overstream".
 
-**4\. Subtitular on-line con DotSUB**
+### 4\. Subtitular on-line con DotSUB
 
 [DotSUB](http://dotsub.com/) es una **herramienta muy útil para el trabajo docente** ya que permite subtitular vídeos, tanto vídeos nuestros como alojados en internet. Además de crear nuestros recursos para clase también podemos utilizar la herramienta para proponer actividades a los alumnos. **Los vídeos se comparten fácilmente en la red** y se pueden incrustar en nuestros blogs gracias al código de embebido.
 

@@ -4,13 +4,15 @@
 
 A continuación te presentamos unos buenos recursos 2.0 para hacer presentaciones on-line. Hay más, en todos tienes que registrarte y tienen una cuenta de pago y otra gratuita. Aunque con esta es suficiente. Lo puedes utilizar para hacer tus trabajos, o bien que sean tus alumnos los que los hacen. Practicamente todas hacen lo mismo, así es que elige la que más te guste.
 
-**1\. KIZOA**
+### 1\. KIZOA
 
 **1\. ¿Qué es Kizoa?**
 
 [Kizoa](http://www.kizoa.es/) es una **herramienta 2.0 muy vistosa para presentar nuestras fotografías, retocarlas, elaborar pases de diapositivas o realizar collages**. Es una aplicación fantástica para mostrar en el blog fotos y reportajes de actividades realizadas por los alumnos. La versión gratuita de la herramienta ofrece posibilidades interesantes aunque si queremos ampliar dichas posibilidades también cuentan con [Kizoa Premium](http://www.kizoa.es/kizoa-premium), un servicio que ofrece más espacio y muchos más efectos y detalles para poner en nuestras fotos. Como es habitual en las herramientas 2.0, los trabajos creados en Kizoa se comparten en redes sociales y se incrustan fácilmente en blogs y páginas web.
 
 **Autor: alumnos de 6º del CEIP Brianda de Luna. [Un colegio de fantasmas](http://www.kizoa.es/diapositivas/d4721859k6962555o2/un-colegio-de-fantasmas)** \- _[presentacion imagenes](http://www.kizoa.es)_
+
+<object type="application/x-shockwave-flash" data="http://pf.kizoa.com/sflite.swf?did=4721859&amp;k=6962555" style="display: block; margin-left: auto; margin-right: auto;" width="560" height="420"><param name="wmode" value="transparent"><param name="allowFullScreen" value="true"><param name="src" value="http://pf.kizoa.com/sflite.swf?did=4721859&amp;k=6962555"><param name="allowfullscreen" value="true"></object>
 
 **2 ¿Cómo utilizarla?**
 
@@ -32,13 +34,15 @@ Una vez realizado el montaje se creará un archivo con nuestra presentación, y 
 
 **4\. Manual on-line**
 
-**2\. SLIDEROCKET**
+<iframe class="scribd_iframe_embed" title="Manual Kizoa" src="https://www.scribd.com/embeds/70768636/content?start_page=1&view_mode=scroll&access_key=key-2e38025zqx2zgmze43uj&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.75" scrolling="no" id="doc_54153" width="100%" height="600" frameborder="0"></iframe>
+
+### 2\. SLIDEROCKET
 
 **1\. ¿Qué es Sliderocket?**
 
 [Sliderocket](http://www.sliderocket.com/) es una herramienta 2.0 muy útil para crear **presentaciones completas con diferentes diapositivas**, incluyendo imágenes, texto, archivos flash, etc. que servirán tanto para elaborar nuestros propios materiales como para proponer trabajos a los alumnos. Puede ser una opción práctica que sustituya al conocido _PowerPoint_ con la ventaja de no tener que instalar programas en los ordenadores de clase, además de compartir las presentaciones fácilmente ya que quedan publicadas en internet automáticamente.
 
- Video realizado por [Eder Trejo](http://www.youtube.com/user/rede233?feature=watch). 
+{% youtube %}https://youtu.be/qt9KYMMdoLE{% endyoutube %}
 
 **2\. ¿Cómo se usa?**
 
@@ -54,11 +58,7 @@ Una vez realizado el montaje se creará un archivo con nuestra presentación, y 
 
 **4\. Manual en línea**
 
-Si deseas más información sobre esta práctica aplicación, puedes leer la guía de uso escrita por  **Sotelo Arroyo  Sotelo**, asesorado por el licenciado **Adam Gómez**, de la UNIVERSIDAD DE CÓRDOBA (Facultad de Ciencias Básicas e Ingeniería), en la que se explica detalladamente cómo utilizar la  aplicación. La puedes encontrar digitalizada en [Calaméo](http://www.calameo.com/). Para ampliar la imagen sólo debes hacer "clic" en el icono correspondiente (pantalla)
-
-[SlideRocket](http://www.calameo.com/books/000582571238644f0de6d)
-
-[Publish at Calameo](http://www.calameo.com/) or [read more publications](http://www.calameo.com/browse).
+Si deseas más información sobre esta práctica aplicación, puedes leer la guía de uso escrita por  **Sotelo Arroyo  Sotelo**, asesorado por el licenciado **Adam Gómez**, de la UNIVERSIDAD DE CÓRDOBA (Facultad de Ciencias Básicas e Ingeniería), en la que se explica detalladamente cómo utilizar la  aplicación. La puedes encontrar digitalizada en [Calaméo](http://www.calameo.com/). Para acceder al tutorial clica [aquí](http://www.calameo.com/books/000582571238644f0de6d).
 
 ## Para saber más
 

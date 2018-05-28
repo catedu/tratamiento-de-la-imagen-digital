@@ -9,52 +9,52 @@
 2º Ejecutar el programa. Ir a Inicio>Todos los programas>MonkeyJam>MonkeyJam:
 
 
-![](img/monkey.jpg)
+![Imagen 75: Captura de pantalla propia](img/monkey.jpg)
 
 
-Imagen 75: Captura de pantalla propia
+
 
 3º Crea una nueva imagen haciendo clic en el menú **File>New Xps**.
 
 
-![](img/monkey2.jpg)
+![Imagen 76: Captura de pantalla propia](img/monkey2.jpg)
 
 
-Imagen 76: Captura de pantalla propia 
+ 
 
 4º Importamos las imágenes desde **File>Import>Images**
 
 
-![](img/monkey3.jpg)
+![Imagen 77: Captura de pantalla propia](img/monkey3.jpg)
 
 
-Imagen 77: Captura de pantalla propia
+
 
 5º Aparecerá esta ventana. Buscamos la carpeta donde tenemos las fotos. Seleccionamos todas las imágenes de la ventana izquierda. Hacemos clic en **Add Files** y luego en **Import**.
 
 
-![](img/monkey3.jpg)
+![Imagen 78: Captura de pantalla propia](img/monkey3.jpg)
 
 
-Imagen 78: Captura de pantalla propia
+
 
 6º Aparecerá otra vez la ventana principal de esta manera.
 
 7º Clic en **File>Export Avi... **o en el botón Export Exposure...
 
 
-![](img/monkey5.jpg)
+![Imagen 79: Captura de pantalla propia](img/monkey5.jpg)
 
 
-Imagen 79: Captura de pantalla propia
+
 
 8º Aparecerá un cuadro de diálogo Export Movie. Hacemos clic en Save Movie... y se guardará nuestra película.
 
 
-![](img/monkey6.jpg)
+![Imagen 80: Captura de pantalla propia ](img/monkey6.jpg)
 
 
-Imagen 80: Captura de pantalla propia 
+
 
 9º Y ya está creada nuestra secuencia.
 

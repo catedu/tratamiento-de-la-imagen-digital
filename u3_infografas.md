@@ -6,11 +6,13 @@
 
 TODAS ESTAS PREGUNTAS SE PUEDEN CONTESTAR CON UNA **INFOGRAFÍA**
 
-var feedback54_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
-
+%accordion%Solución%accordion%
 
 ![](img/infografias2.jpg)
+
+%/accordion%
+
+
+
 
 

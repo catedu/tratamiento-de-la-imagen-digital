@@ -6,9 +6,9 @@ Ya tenemos nuestro proyecto maquetado y preparado, llega el momento de **crear n
 
 *   Para el aprendizaje de esta unidad el alumno deberá haber aprendido los contenidos anteriores de saber capturar y editar vídeo.
 
-**1\. Crear un clip de vídeo (película)**
+## 1\. Crear un clip de vídeo (película)
 
-**1\. Crear una película con VideoPad**
+#### 1\. Crear una película con VideoPad
 
 1º Abrimos el proyecto **thekid.vpj. **Que previamente habremos modificado y guardado.
 
@@ -17,30 +17,29 @@ Ya tenemos nuestro proyecto maquetado y preparado, llega el momento de **crear n
 3º Hacemos clic en **Guardar Película**.
 
 
-![](img/crear_vido.jpg)
+![Imagen 69: Captura de pantalla propia](img/crear_vido.jpg)
 
 
- Imagen 69: Captura de pantalla propia
+ 
 
 4º Aparece un **cuadro de diálogo** en el que se nos presentan **varias opciones para crear la película**. Nosotros elegiremos la opción **Equipo/Datos**.
 
 
-![](img/crear_vido2.jpg)
+![Imagen 70: Captura de pantalla propia](img/crear_vido2.jpg)
 
 
-Imagen 70: Captura de pantalla propia 
 
 5º Elegiremos las **opciones de salida** y la carpeta en la que vamos a guardar la película. Para opciones de salida, lo mejor es guardarla en el mismo formato que está el original. Para eso hacemos **clic en Detectar**.
 
 
-![](img/crear_vido3.jpg)
+![Imagen 71: Captura de pantalla propia](img/crear_vido3.jpg)
 
-
- Imagen 71: Captura de pantalla propia
 
 6º Se configurará con las **mismas opciones de la película original**. Ya solo tenemos que hacer clip en Aceptar y tendremos nuestra película creada.
 
-**2\. Crear una película con Movie Maker**
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/crear%20peli.swf" style="display: block; margin-left: auto; margin-right: auto;" width="531" height="659"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/crear%20peli.swf"><param name="wmode" value="transparent"><span id="mce_marker" data-mce-type="bookmark"></span></object>
+
+#### 2\. Crear una película con Movie Maker
 
 1º Abrimos el proyecto **thekid.wlmp****. **Que previamente habremos modificado y guardado.
 
@@ -49,10 +48,10 @@ Imagen 70: Captura de pantalla propia 
 3º Hacemos clic en la pestaña **Guardar Película**.
 
 
-![](img/crear_vido4.jpg)
+![Imagen 72: Captura de pantalla propia](img/crear_vido4.jpg)
 
 
-Imagen 72: Captura de pantalla propia
+
 
 4º Este programa solamente guarda películas en formato WMA o MPG4
 
@@ -72,7 +71,7 @@ Ya hemos aprendido a crear un proyecto de montaje de vídeos. Ahora, el último 
 
 Vamos a aprender a aplicar transiciones y efectos, aunque **te recomendamos que no abuses mucho de ellos**, ya que también se puede estropear un buen trabajo si no se aplican con cautela.
 
-**1\. Efectos digitales de vídeo**
+#### 1\. Efectos digitales de vídeo
 
 En este apartado procedemos a explicar como aplicar diversos efectos a nuestros clips, tanto para mejorar su aspecto como para distorsionarlo en otras ocasiones.
 
@@ -88,6 +87,8 @@ La aplicación de los efectos implica trabajar con nuestros Archivos de Proyecto
 
 4º Y ahora a cada una de las secuencias le **aplicamos un filtro** diferente. Observa cómo se hace.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/filtros1.swf" width="715" height="553"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/filtros1.swf"><param name="wmode" value="transparent"><span id="mce_marker" data-mce-type="bookmark"></span></object>
+
 **2\. Crear efectos con VideoPad**
 
 1º Iniciamos el programa.
@@ -98,7 +99,9 @@ La aplicación de los efectos implica trabajar con nuestros Archivos de Proyecto
 
 4º Y ahora a cada una de las secuencias le **aplicamos un filtro** diferente. **Clic en Efectos**. Observa cómo se hace. 
 
-**2\. Aplicar transiciones a los clips de vídeo**
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/filtros2.swf" width="715" height="518"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/filtros2.swf"><param name="wmode" value="transparent"><span id="mce_marker" data-mce-type="bookmark"></span></object>
+
+#### 2\. Aplicar transiciones a los clips de vídeo
 
 Las **transiciones** se utilizan en el mundo del vídeo desde el nacimiento del cine mudo. Hablamos de esos **efectos o cortinillas** que nos permiten pasar de un corte a otro, de un vídeo a otro o para mezclar, al mismo tiempo, varios clips en diferentes pistas. Todo ello permite **añadir creatividad y dinamismo** a nuestro vídeo final.
 
@@ -110,6 +113,7 @@ La **pestaña Transiciones** te permite crear una transición entre el clip que 
 
 2º Clic en la pestaña **Transición**. Eliges la que más te guste. Podrás elegir la duración de la transición.
 
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/transiciones1.swf" width="715" height="576"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/transiciones1.swf"><param name="wmode" value="transparent"><span id="mce_marker" data-mce-type="bookmark"></span></object>
  
 
 **2\. Transiciones en VideoPad**
@@ -120,4 +124,6 @@ La **pestaña Transiciones** te permite crear una transición entre el clip que 
 2.  Oprime el icono de transiciones localizado en la parte superior derecha del clip (un cuadrado azul con dos líneas horizontales negras) para abrir la pestaña de las transiciones.
 
 3º Luego, selecciona el tipo del transición y cambia la duración si lo desea. Para terminar, hacer clic en "aplicar" para aplicar la transición en el clip seleccionado.
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/transiciones2.swf" width="715" height="518"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/transiciones2.swf"><param name="wmode" value="transparent"><span id="mce_marker" data-mce-type="bookmark"></span></object>
 

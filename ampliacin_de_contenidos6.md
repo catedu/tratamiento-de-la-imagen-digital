@@ -4,6 +4,8 @@
 
 Este vídeo de [Educastur](http://www.google.com/url?q=http%3A%2F%2Fwww.educastur.es%2F&sa=D&sntz=1&usg=AFrqEzccf4gfyd2HGhi-M7rtyzIF4kxosg) nos puede ayudar a entender mejor lo que es la WEB 2.0 y sus posibilidades de uso en educación.
 
+{% youtube %}https://youtu.be/anhSNloWa0g{% endyoutube %}
+
 _**Web 2.0 y Educación**_ es un minidocumental en el que se presentan las bases de la llamada _web social_, y sus posibles aplicaciones educativas. Está realizado por el Area Educastur y Servicios en Línea de la Consejería de Educación, y va dirigido de forma muy especial a usuarios/as que sin dominar excesivamente el medio, quieren aprovecharse de las ventajas que ofrecen la _web 2.0_ y las redes sociales.
 
 Este trabajo se acoge a una licencia [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/deed.es), que permite copiar, difundir, compartir, modificar y remezclar el contenido, siempre y cuando se distribuya con una licencia equivalente.

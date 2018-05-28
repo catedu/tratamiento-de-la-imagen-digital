@@ -1,6 +1,8 @@
 # 4.2 Recursos on-line
 
-Presentación realizada por Julián Trullenque. [Ver a pantalla competa](https://dl.dropboxusercontent.com/u/46039577/curso/comics.swf)
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/comics.swf" width="715" height="536"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/comics.swf"></object>
+
+Presentación realizada por Julián Trullenque. 
 
 **Para conocer mejor los recursos mostrados en el cómic de ejemplo, aquí te dejamos unos enlaces. Échales un vistazo y practica con alguno de ellos. Los tres primeros son muy sencillos y no requieren registro alguno.**
 
@@ -30,6 +32,8 @@ Presentación realizada por Julián Trullenque. [Ver a pantalla competa](https:/
 
 **[Tutorial: Como hacer comics en bitstrips](https://www.slideshare.net/Iluicatl/tutorial-como-hacer-comics-en-bitstrips "Tutorial: Como hacer comics en bitstrips") **from **[Iluicatl](http://www.slideshare.net/Iluicatl)** 
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rEo4QIK1ElSqko" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Iluicatl/tutorial-como-hacer-comics-en-bitstrips" title="Tutorial: Como hacer comics en bitstrips" target="_blank">Tutorial: Como hacer comics en bitstrips</a> </strong> from <strong><a href="https://www.slideshare.net/Iluicatl" target="_blank">Iluicatl Apellidos</a></strong> </div>
+
 **PIXTON:**
 
 *   [Pixton](http://www.pixton.com/es/create/): Aplicación en línea con características Web 2.0 para crear cómics. Ofrece una serie de plantillas para seleccionar el número y disposición de los recuadros, varios personajes prefabricados, fondos y artículos decorativos, etc.
@@ -52,18 +56,18 @@ Presentación realizada por Julián Trullenque. [Ver a pantalla competa](https:/
 *   [LEGO.com city](http://city.lego.com/es-es/comic-builder/my-comics/fire-comic) nos permite crear de forma gratuita cómics con piezas de LEGO, para ello solo tendremos que pinchar donde está marcado con la flecha:
 
 
-![](img/lego.jpg)
+![Imagen 39: Captura de pantalla propia](img/lego.jpg)
 
 
- Imagen 39: Captura de pantalla propia
+ 
 
 *   Y se nos abrirá la **pantalla de edición para crear nuestro cómic**. Como se puede ver, la interfaz es bastante intuitiva y fácil de utilizar.
 
 
-![](img/lego2.jpg)
+![Imagen 40: Captura de pantalla propia](img/lego2.jpg)
 
 
- Imagen 40: Captura de pantalla propia
+ 
 
 *   Una vez hayamos creado nuestro cómic, podemos guardarlo, descargarlo en nuestro equipo en formato Pdf ,o imprimirlo.
 

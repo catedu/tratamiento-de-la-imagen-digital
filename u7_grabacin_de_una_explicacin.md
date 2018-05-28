@@ -1,5 +1,7 @@
 # U7. GRABACIÓN DE UNA EXPLICACIÓN
 
+<iframe src="https://player.vimeo.com/video/78410403" width="640" height="537" frameborder="0" allowfullscreen></iframe>
+
 Vídeo realizado por Julián Trullenque. Subido en [Vimeo.com](http://vimeo.com/78410403). Licencia CC by-nc
 
 ## Importante
@@ -12,13 +14,17 @@ Es  rápido y se puede incrustar en cualquier sitio web como cualquier vídeo. 
 
 Estas herramientas son muy utilizadas en tutoriales que explican cómo manejar programas de ordenador, o cosas similares. También las podemos utilizar para crear explicaciones para nuestra clase.
 
-**1\. Crear videotutoriales con WINK**
+### 1\. Crear videotutoriales con WINK
 
 [Wink](http://www.debugmode.com/wink/) es una herramienta que sirve para capturar en un archivo de vídeo lo que está pasando en tu monitor. Especialmente útil para preparar presentaciones o demostraciones, Wink puede realizar videos del Escritorio al completo, de ventanas concretas, o de un área de espacio que podemos determinar nosotros mismos.
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/tut1.swf" width="715" height="536"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/tut1.swf"></object>
 
 Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
 Los archivos que creemos pueden ser utilizados en animaciones Flash, o también podemos mantener el formato original y reproducirlos con el propio Wink en una ventana del explorador.
+
+<object type="application/x-shockwave-flash" data="http://aularagon.catedu.es/materialesaularagon2013/imagen/tut2.swf" width="715" height="536"><param name="src" value="http://aularagon.catedu.es/materialesaularagon2013/imagen/tut2.swf"></object>
 
 Presentación realizada por Julián Trullenque. Licencia CC by-nc
 
@@ -26,7 +32,7 @@ Incluye además una serie de prácticas herramientas de edición con las que pod
 
 *   Descargar el [programa Wink](http://www.debugmode.com/wink/download.htm).
 
-**2\. Crear videotutoriales con CamStudio**
+### 2\. Crear videotutoriales con CamStudio
 
 [**CamStudio**](http://camstudio.org/) es una herramienta que permite capturar la actividad de la pantalla de tu PC y generar un archivo de vídeo (.avi) o un archivo Flash (.swf). Resulta muy útil para crear manuales sobre el uso de programas informáticos y, en general, para el desarrollo de contenidos.
 
@@ -34,12 +40,12 @@ Incluye además una serie de prácticas herramientas de edición con las que pod
 *   **TUTORIAL de CamStudio:**[http://www.um.es/atica/gat/gat2/recursos/camstudio/](http://www.um.es/atica/gat/gat2/recursos/camstudio/). Universidad de Murcia, octubre 2005.
 
 
-![](img/camstudio.jpg)
+![Imagen 89: captura de pantalla propia.](img/camstudio.jpg)
 
 
-Imagen 89: captura de pantalla propia. 
+ 
 
-**3\. Crear tutoriales on-line**
+### 3\. Crear tutoriales on-line
 
 Hasta aquí te hemos mostrado dos programas gratuitos instalables sen tu ordenador para crear grabaciones de pantalla. En este apartado te vamos a mostrar algunas alternativas on-line:
 
@@ -47,7 +53,7 @@ Hasta aquí te hemos mostrado dos programas gratuitos instalables sen tu ordenad
 
 [APOWERSOFT](http://www.apowersoft.com/free-online-screen-recorder) es una aplicación online que sin registro nos va a a permitir crear videocapturas de pantalla con audio e imágenes. Los vídeos se guardan automáticamente en una carpeta en nuestro pc para hacer uso de ellos como queramos.
 
-Videotutorial realizado por Francho Lafuente.
+{% youtube %}https://youtu.be/lgV4BjHMm8k{% endyoutube %}
 
 **2\. SREENCAST CREAR VIDEOTUTORIALES**
 

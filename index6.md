@@ -1,5 +1,7 @@
 # Módulo 7: PUBLICACIÓN DE IMÁGENES DIGITALES
 
+<object type="application/x-shockwave-flash" data="http://pf.kizoa.com/sflite.swf?did=6862557&amp;k=9848236" width="640" height="480"><param name="wmode" value="transparent"><param name="allowFullScreen" value="true"><param name="src" value="http://pf.kizoa.com/sflite.swf?did=6862557&amp;k=9848236"><param name="allowfullscreen" value="true"></object>
+
 [Presentación](http://www.kizoa.es/diapositivas/d6862557k9848236o2/fotos-curiosas) hecha con [Kizoa](http://www.kizoa.es) por Julián Trullenque con fotografías sacadas de Internet (uso libre no comercial)
 
 Según [David Jonassen](http://edtk.co/PS7HH), profesor de la Universidad de Missouri, **quienes más provecho sacan de las experiencias de aprendizaje, en las que se utilizan las TIC, son aquellos que plasman y articulan sus conocimientos en la elaboración de productos concretos**: programas, vídeos, imágenes, clips de audio, documentos, presentaciones, mapas conceptuales, etc.
