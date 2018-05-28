@@ -83,8 +83,8 @@ ____
 	* [U8. PROPUESTAS DIDÁCTICAS](u8_propuestas_didcticas.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
 
-### 7. PUBLICACIÓN DE IMÁGENES DIGITALES 
-* [Módulo 7: PUBLICACIÓN DE IMÁGENES DIGITALES](index6.md)
+### 6. PUBLICACIÓN DE IMÁGENES DIGITALES 
+* [Módulo 6: PUBLICACIÓN DE IMÁGENES DIGITALES](index6.md)
 * [Contenidos](contenidos6.md)
 	* [U1. PUBLICAR IMAGEN FIJA](u1_publicar_imagen_fija.md)
 		* [1.1 Picasa](11_picasa.md)
