@@ -1,1 +1,60 @@
-{"plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "Tratamiento de la imagen para la enseñanza", "author": "Julián Trullenque Anés", "collaborators": [{"name": "_________", "edited": "_____________"}]}, "pluginsConfig": {"image-captions": {"caption": "_CAPTION_"}, "localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "quiz": {"labels": {"check": "Comprobar", "showExplanation": "Retroalimentación", "showCorrect": "Mostrar la respuesta correcta", "explanationHeader": "Explicación"}, "text": {"noChosen": "Elige al menos una respuesta", "incomplete": "Faltan algunas respuestas correctas"}, "buttons": {"showCorrect": true, "showExplanation": true}}, "edit-link": {"base": "https://github.com/catedu/tratamiento-de-la-imagen-digital/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "tratamiento-de-la-imagen-digital"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "quiz",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Tratamiento de la imagen para la enseñanza",
+    "author": "Julián Trullenque Anés",
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "_CAPTION_"
+    },
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "quiz": {
+      "labels": {
+        "check": "Comprobar",
+        "showExplanation": "Retroalimentación",
+        "showCorrect": "Mostrar la respuesta correcta",
+        "explanationHeader": "Explicación"
+      },
+      "text": {
+        "noChosen": "Elige al menos una respuesta",
+        "incomplete": "Faltan algunas respuestas correctas"
+      },
+      "buttons": {
+        "showCorrect": true,
+        "showExplanation": true
+      }
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/tratamiento-de-la-imagen-digital/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "tratamiento-de-la-imagen-digital"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
